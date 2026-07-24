@@ -1,0 +1,927 @@
+property_type,society,price,price_per_sqft,bedRoom,bathroom,balcony,noOfFloor,facing,agePossession,area,has_builtup_area,locality,study room,servant room,store room,pooja room,others,furnishing_type,luxury_score,environment,lifestyle,connectivity,safety,overall_rating,nearby_count,school_count,hospital_count,bank_count,metro_count,ready_to_move,corner_plot,park_facing,freehold,newly_renovated,rental_income,fully_furnished
+house,bptp visionnaire,7.875,30232,5,4,3+,3,North-East,New Property,2605.0,0,Sector 70A Gurgaon,0,1,0,0,0,0,33,5.0,4.0,4.0,4.0,4.25,15,3,1,5,0,1,0,0,1,0,0,0
+house,independent,8.55,158864,5,4,2,2,Na,Moderately Old,538.0,0,Sector 21A Faridabad,0,1,1,1,0,2,39,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,3.1500000000000004,57381,10,10,3+,5,West,New Property,549.0,0,Sushant Lok Phase 1,0,1,0,0,0,0,14,5.0,5.0,5.0,5.0,5.0,46,1,4,5,2,0,0,0,0,0,1,0
+house,independent,7.5,64516,21,21,3+,5,North,Relatively New,1163.0,0,Sector 54 Gurgaon,0,1,0,0,0,1,33,4.0,5.0,4.0,4.0,4.25,44,1,5,12,2,0,0,0,0,0,1,1
+house,independent,4.5,80397,12,12,3+,5,West,New Property,560.0,0,Sushant Lok Phase 1,0,0,0,0,1,1,14,5.0,5.0,5.0,5.0,5.0,46,1,4,5,2,0,0,0,0,0,1,1
+house,independent,6.75,58607,20,20,3+,4,East,Relatively New,1152.0,0,Sushant Lok Phase 1,0,1,0,0,0,1,14,5.0,5.0,5.0,5.0,5.0,47,1,4,7,1,0,0,0,0,0,0,0
+house,emaar mgf marbella,18.0,55557,5,5,3+,3,East,New Property,3240.0,0,Sector 66 Gurgaon,0,1,1,1,0,2,57,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,1,0,0,0,0,0,0
+house,luxury dlf city floors,30.0,66677,16,16,3+,4,Na,New Property,4499.0,0,DLF Phase 1,0,1,0,0,0,2,10,5.0,5.0,5.0,5.0,5.0,47,0,4,11,8,0,0,0,0,0,0,0
+house,independent,16.275,57273,6,6,1,3,North-East,Relatively New,2842.0,0,DLF Phase 2,0,0,1,0,0,2,60,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,1,0,0,1,0,0,0
+house,sushant lok 1 builder floors,2.925,15097,3,4,3+,4,West,New Property,1937.0,0,Sushant Lok Phase 1,0,1,0,0,0,2,30,5.0,5.0,5.0,5.0,5.0,46,1,4,5,2,0,0,0,0,0,0,0
+house,independent,6.675000000000001,49610,4,3,3+,2,West,Moderately Old,1345.0,0,DLF Phase 2,0,0,1,0,0,0,37,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,independent,13.5,41668,6,7,3+,3,North,Moderately Old,3240.0,0,DLF Phase 4,1,1,1,1,0,0,30,5.0,4.0,5.0,5.0,4.75,47,0,5,8,3,0,0,0,0,0,0,0
+house,dlf city plots phase 3,7.5,51233,13,13,3+,4,North,New Property,1464.0,0,DLF Phase 3,0,0,0,1,0,1,51,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,0,0,0,0,0,0
+house,independent,22.5,49770,5,6,3+,3,North,Moderately Old,4521.0,0,DLF Phase 1,1,1,1,1,0,2,33,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,12.375,45804,5,6,3+,3,West,Moderately Old,2702.0,0,B Block Sushant Lok Phase 1,1,1,1,1,0,2,23,4.0,4.0,4.0,4.0,4.0,48,0,4,7,2,0,0,0,0,0,0,0
+house,independent,3.0,22297,6,4,3,3,East,Relatively New,1345.0,0,New Palam Vihar Phase 1,1,0,0,1,0,2,24,4.0,4.0,5.0,4.0,4.25,31,1,6,1,1,0,0,0,0,0,0,0
+house,dlf city plots phase 2,16.125,44852,9,9,3+,3,South-West,Old Property,3595.0,0,DLF Phase 2,0,1,1,1,0,0,41,5.0,5.0,5.0,5.0,5.0,44,0,1,12,6,0,0,0,0,0,0,0
+house,independent,3.1500000000000004,34839,7,7,3+,3,North-East,Relatively New,904.0,0,Sector 38 Gurgaon,1,0,1,1,0,0,9,4.0,4.0,5.0,4.0,4.25,47,4,5,7,0,0,0,0,0,0,0,0
+house,unitech espace,11.025,50958,4,4,3+,3,South,Moderately Old,2164.0,0,Nirvana Country,0,1,0,1,0,2,23,5.0,5.0,5.0,5.0,5.0,46,2,5,7,0,0,0,0,0,0,0,0
+house,independent,6.675000000000001,23139,6,6,3,3,North,Moderately Old,2885.0,0,Uppals Southend,1,1,1,1,0,1,70,5.0,5.0,5.0,5.0,5.0,46,0,6,9,0,1,1,1,0,1,0,0
+house,independent,5.1,19418,9,9,3,3,West,Moderately Old,2626.0,0,Sector 9 Gurgaon,0,0,0,0,0,2,39,4.0,4.0,4.0,4.0,4.0,50,1,24,5,0,0,0,0,0,0,0,0
+house,emaar mgf marbella,18.0,57074,5,6,3+,3,North-East,Relatively New,3154.0,0,Sector 66 Gurgaon,0,1,1,0,0,2,76,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,1,0,0,1,0,0,0
+house,independent,12.6,38890,4,4,3,2,Na,Old Property,3240.0,0,Sector 48 Gurgaon,0,1,0,1,0,2,9,4.0,4.0,5.0,4.0,4.25,46,1,6,7,0,0,0,0,0,0,0,0
+house,independent,11.4,58839,9,9,3,4,East,Relatively New,1937.0,0,DLF Phase 2,1,0,1,1,0,2,44,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,ansal sushant lok plots4.1 â˜…,10.5,38864,5,5,3+,3,North-East,Relatively New,2702.0,0,Sushant Lok Phase 1,1,1,0,1,0,2,28,5.0,5.0,5.0,5.0,5.0,47,1,4,7,1,0,0,0,0,0,0,0
+house,grover homes sec 4,7.125,14054,5,5,1,1,South-East,Old Property,5070.0,0,Sector 4 Gurgaon,1,1,0,1,0,2,23,5.0,5.0,5.0,5.0,5.0,49,1,13,5,0,0,0,0,0,0,0,0
+house,independent,5.25,20155,9,9,3+,3,North-East,Relatively New,2605.0,0,Sector 9 Gurgaon,1,0,0,0,0,0,14,4.0,4.0,4.0,4.0,4.0,50,1,24,5,0,0,0,0,1,0,0,1
+house,independent,7.5,31672,9,9,3+,3,North-West,Moderately Old,2368.0,0,Sector 40 Gurgaon,0,1,1,0,0,2,47,4.0,4.0,4.0,4.0,4.0,48,5,4,10,1,0,0,0,0,0,0,0
+house,independent,15.84,48890,5,5,3,3,Na,Moderately Old,3240.0,0,Nirvana Country,0,1,0,0,0,0,14,5.0,5.0,5.0,5.0,5.0,46,3,2,7,0,0,0,0,0,0,0,0
+house,ansal api esencia3.7 â˜…,8.19,36232,4,5,3+,2,East,Relatively New,2260.0,0,"Golf Course Ext Road, Sector 67 Gurgaon",1,0,1,1,0,2,55,4.0,4.0,4.0,4.0,4.0,12,0,0,0,1,0,0,0,0,0,0,0
+house,independent,15.0,55520,5,6,3,3,North,Old Property,2702.0,0,DLF Phase 2,0,1,1,0,0,2,33,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,independent,13.5,42805,10,10,3,3,East,Old Property,3154.0,0,DLF Phase 2,0,0,0,1,0,2,33,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,independent,15.0,165898,4,4,3+,1,North-East,Undefined,904.0,0,Hsiidc Plot Sector 1 Imt Manesar,0,1,0,0,0,0,4,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.925,20279,2,2,2,2,Na,Old Property,1442.0,0,Sector 7 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,50,1,22,5,0,0,0,0,0,0,0,0
+house,independent,4.949999999999999,28563,4,4,2,3,South-East,Moderately Old,1733.0,0,Sushant Lok Phase 3,0,0,1,0,0,2,41,4.0,4.0,4.0,4.0,4.0,45,1,6,13,0,0,0,0,0,0,0,0
+house,floor wise designer kothi,19.5,72176,12,16,3+,4,North-East,New Property,2702.0,0,DLF Phase 2,1,1,1,1,0,2,67,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,independent,10.8,33445,3,3,2,1,North,Old Property,3229.0,0,Sector 15 Part 2,0,0,1,0,0,0,36,5.0,5.0,5.0,5.0,5.0,50,3,12,12,0,0,0,1,0,0,0,0
+house,suncity essel towers4.2 â˜…,9.0,33312,4,4,3+,3,East,Old Property,2702.0,0,Sector 28 Gurgaon,1,0,0,0,0,0,49,4.0,5.0,5.0,4.0,4.5,48,0,5,10,3,0,0,1,0,0,0,0
+house,independent,13.5,49968,5,5,3,3,North,Old Property,2702.0,0,DLF Phase 2,1,1,1,1,0,0,25,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,1,0,0,0,0
+house,independent,8.7,48399,5,5,3+,2,North,Old Property,1798.0,0,DLF Phase 1,1,1,1,1,0,0,20,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,sector 37,0.8250000000000001,10949,2,1,1,1,East,New Property,753.0,1,Narsinghpur,0,0,1,0,0,0,53,4.0,4.0,5.0,4.0,4.25,6,0,1,0,0,0,0,0,0,0,0,0
+house,independent,11.235,41584,12,12,3+,4,South-East,Relatively New,2702.0,0,Sector 55 Gurgaon,1,1,0,1,0,2,33,4.0,4.0,5.0,4.0,4.25,42,1,5,13,3,0,0,0,1,0,0,0
+house,independent,20.25,74952,16,16,3+,4,North-West,Relatively New,2702.0,0,Sushant Lok Phase 1,1,1,0,1,1,0,28,5.0,5.0,5.0,5.0,5.0,47,1,4,7,1,0,0,0,0,0,1,0
+house,independent,17.924999999999997,65305,12,12,3+,4,West,Relatively New,2745.0,0,Sector 56 Gurgaon,0,1,0,0,0,2,13,4.0,5.0,5.0,4.0,4.5,47,1,5,14,3,0,0,0,0,0,0,0
+house,independent,18.585,68789,16,18,3+,4,North-East,New Property,2702.0,0,Sector 56 Gurgaon,0,1,0,1,0,2,33,4.0,5.0,5.0,4.0,4.5,47,2,5,14,3,1,0,0,1,0,0,0
+house,nul,9.375,52154,5,5,3,2,East,Moderately Old,1798.0,0,DLF Phase 2,0,1,0,1,0,2,59,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,bptp visionnaire,8.100000000000001,31096,4,5,3+,3,North,Relatively New,2605.0,0,Sector 70A Gurgaon,1,1,1,1,0,2,69,5.0,4.0,4.0,4.0,4.25,15,3,1,5,0,1,0,0,0,0,0,0
+house,independent,8.625,44516,4,4,2,2,North,Old Property,1938.0,0,C Block Sushant Lok Phase 1,0,1,1,1,0,0,5,4.0,4.0,4.0,4.0,4.0,46,1,4,5,2,0,0,0,0,0,0,0
+house,independent,3.825,24507,3,3,2,2,South,Old Property,1561.0,0,Palam Vihar,0,0,0,0,0,0,5,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,independent,25.5,56675,5,8,3+,3,North-East,Relatively New,4499.0,0,Greenwood City,1,1,1,1,0,1,67,4.0,4.0,5.0,4.0,4.25,48,5,4,10,1,0,0,0,0,0,0,0
+house,experion windchants3.8 â˜…,11.985,18776,4,6,3,2,South-East,New Property,6383.0,1,Sector 112 Gurgaon,0,1,1,1,0,2,62,5.0,4.0,4.0,3.0,4.0,8,1,2,0,0,0,0,0,0,0,0,0
+house,uppal southend4.0 â˜…,5.625,38425,6,6,3,3,East,Moderately Old,1464.0,0,Uppals Southend,0,0,0,0,1,0,33,5.0,5.0,5.0,5.0,5.0,46,0,5,9,0,0,0,0,0,0,0,0
+house,vipul tatvam villa,10.875,41922,3,4,2,2,South,Moderately Old,2594.0,0,Sector 48 Gurgaon,1,1,1,1,0,2,70,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,1,0,0,1,0,0,0
+house,vipul tatvam villa,12.6,31467,4,5,3+,2,North,Moderately Old,4004.0,0,Sector 48 Gurgaon,1,1,0,1,0,2,33,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,1,0,0,1,0,0,0
+house,independent,5.324999999999999,36645,4,4,3+,2,Na,Old Property,1453.0,0,Sector 55 Gurgaon,0,0,0,0,0,2,8,4.0,4.0,5.0,4.0,4.25,42,1,5,13,3,0,0,0,0,0,0,0
+house,dlf new town heights3.7 â˜…,3.75,11025,4,4,3+,3,East,Moderately Old,3401.0,0,Sector 91 Gurgaon,1,1,1,1,0,2,39,4.0,4.0,3.0,4.0,3.75,8,2,1,0,1,0,0,0,0,0,0,0
+house,dlf new town heights 24.0 â˜…,3.75,11025,4,4,3+,3,East,Moderately Old,3401.0,0,Sector 86 Gurgaon,1,1,1,1,0,2,66,5.0,5.0,4.0,4.0,4.5,15,2,2,4,0,0,0,0,0,0,0,0
+house,puri diplomatic greens4.0 â˜…,13.5,16880,5,5,3+,3,North-East,Relatively New,7998.0,1,Sector 111 Gurgaon,0,1,0,0,0,0,57,4.0,4.0,5.0,4.0,4.25,10,1,1,0,2,0,0,0,0,0,0,0
+house,independent,3.1500000000000004,34839,3,3,2,3,North,Moderately Old,904.0,0,Sector 40 Gurgaon,0,0,0,0,1,2,23,4.0,4.0,4.0,4.0,4.0,48,5,4,10,1,0,0,0,0,0,0,0
+house,independent,6.75,27030,5,5,1,1,Na,Relatively New,2497.0,0,Sector 14 Gurgaon,0,0,0,0,0,0,0,4.0,5.0,5.0,4.0,4.5,50,3,11,12,0,0,0,0,0,0,0,0
+house,independent,9.75,50323,5,4,3+,3,South-East,Moderately Old,1937.0,1,C Block Sushant Lok Phase 1,0,1,0,1,0,2,23,4.0,4.0,4.0,4.0,4.0,46,1,4,5,2,0,0,0,0,0,0,0
+house,independent,14.25,60176,12,12,3+,4,Na,New Property,2368.0,0,Sector 40 Gurgaon,0,0,1,0,0,2,24,4.0,4.0,4.0,4.0,4.0,49,4,3,9,1,0,0,0,0,0,0,0
+house,independent,7.5,24363,4,4,2,2,East,Old Property,3078.0,0,Sector 23 Gurgaon,0,0,0,0,0,0,4,4.0,5.0,5.0,4.0,4.5,27,2,1,3,1,1,0,0,1,0,0,0
+house,international city by sobha phase 1,8.25,33914,4,4,3+,2,North-East,New Property,2433.0,0,Sector 109 Gurgaon,0,1,0,0,0,0,35,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,1,0,0,0,0,0,0
+house,international city by sobha phase 2,8.475000000000001,15684,4,4,3+,2,North-East,New Property,5404.0,0,Sector 109 Gurgaon,0,1,0,0,1,2,33,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,1,0,0,0,0,0,0
+house,emaar mgf marbella,13.2,54992,4,4,3+,3,South-East,Relatively New,2400.0,1,Sector 66 Gurgaon,0,1,1,1,0,0,65,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,0,0,0,0,0,0,0
+house,independent,4.875,21670,3,3,2,2,South-East,Old Property,2250.0,0,Sector 4 Gurgaon,0,0,0,0,0,0,10,5.0,5.0,5.0,5.0,5.0,49,1,12,5,0,0,0,0,0,0,0,0
+house,independent,7.5,15147,3,3,2,1,North-East,Old Property,4951.0,0,Sector 4 Gurgaon,0,0,0,0,0,0,10,5.0,5.0,5.0,5.0,5.0,49,1,12,5,0,0,0,0,0,0,0,0
+house,independent,15.675,58018,4,5,2,3,North,Moderately Old,2702.0,1,Nirvana Country,1,1,0,1,0,0,69,5.0,5.0,5.0,5.0,5.0,46,2,5,7,0,0,0,1,0,0,0,0
+house,vipul tatvam villa,29.25,33343,5,6,3,2,North,Moderately Old,8772.0,0,Sector 48 Gurgaon,1,1,1,1,0,2,49,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,0,0,0,0
+house,independent,11.25,34723,5,5,3+,2,East,Relatively New,3240.0,0,Sector 82 Gurgaon,0,1,0,1,0,2,60,4.0,4.0,4.0,4.0,4.0,12,0,0,0,0,0,0,1,0,0,0,0
+house,independent,1.005,12790,3,2,1,1,South,Moderately Old,786.0,0,Laxman Vihar Phase 2,0,0,0,1,1,0,9,4.0,4.0,5.0,4.0,4.25,49,1,14,5,0,0,0,0,0,0,0,0
+house,international city by sobha phase 1,8.625,320516,4,4,2,3,South-East,Relatively New,269.0,1,Sector 109 Gurgaon,0,1,0,0,0,0,76,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,international city by sobha phase 1,8.55,15823,4,5,3+,3,East,Relatively New,5404.0,0,Sector 109 Gurgaon,1,1,1,1,0,0,76,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,1,0,0,0,0,0,0
+house,independent,4.800000000000001,20270,3,3,2,1,East,Old Property,2368.0,0,Sector 9 Gurgaon,0,0,0,0,0,2,20,4.0,4.0,4.0,4.0,4.0,24,0,9,4,0,0,0,0,0,0,0,0
+house,independent,17.25,63094,12,13,3+,4,West,Relatively New,2734.0,0,Sector 56 Gurgaon,1,1,0,1,0,2,33,4.0,5.0,5.0,4.0,4.5,47,1,6,14,3,1,0,0,1,0,0,0
+house,vipul tatvam villa,11.535,36082,4,5,3,2,North-West,Moderately Old,3197.0,0,Sector 48 Gurgaon,1,1,1,1,0,2,49,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,0,0,0,0
+house,independent,10.5,32408,4,4,3+,1,North-East,Relatively New,3240.0,0,Sector 82 Gurgaon,1,1,0,1,0,2,33,4.0,4.0,4.0,4.0,4.0,12,0,0,0,0,0,0,1,1,0,0,0
+house,independent,2.325,21600,2,2,2,1,East,Moderately Old,1076.0,0,New Colony,0,0,0,0,0,0,29,4.0,4.0,4.0,4.0,4.0,50,1,17,5,0,0,0,0,0,0,0,0
+house,independent,5.775,21988,4,4,3,3,North-West,Old Property,2626.0,0,Sector 7 Gurgaon,0,0,0,0,0,0,10,4.0,4.0,4.0,4.0,4.0,50,1,15,5,0,0,0,0,0,0,0,0
+house,independent,3.0,20799,2,2,2,2,North-West,Old Property,1442.0,0,Sector 7 Gurgaon,0,0,0,0,0,0,10,4.0,4.0,4.0,4.0,4.0,49,2,12,5,0,0,0,0,0,0,0,0
+house,independent,4.65,20670,3,3,2,2,North-West,Old Property,2250.0,0,Sector 7 Gurgaon,0,0,0,0,0,0,10,4.0,4.0,4.0,4.0,4.0,50,1,15,5,0,0,0,0,0,0,0,0
+house,independent,3.375,23399,3,3,2,2,North-West,Old Property,1442.0,0,Sector 7 Gurgaon,0,0,0,0,0,0,10,4.0,4.0,4.0,4.0,4.0,50,1,16,5,0,0,0,0,0,0,0,0
+house,independent,10.5,43744,4,4,2,3,North-East,Old Property,2400.0,1,Nirvana Country,0,1,0,0,0,0,62,5.0,5.0,5.0,5.0,5.0,44,3,2,7,0,0,0,0,0,0,0,0
+house,vipul tatvam villa,12.75,31842,4,5,3+,2,North,Moderately Old,4004.0,0,Sector 48 Gurgaon,1,1,0,1,1,2,33,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,1,0,0,0,0,0,0
+house,emaar mgf marbella,13.05,58009,4,5,2,3,East,New Property,2250.0,1,Sector 66 Gurgaon,1,1,0,0,0,0,68,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,1,0,0,1,0,0,0
+house,international city by sobha phase 2,18.75,41673,5,6,3,3,East,Relatively New,4499.0,0,Sector 109 Gurgaon,1,1,1,1,0,0,33,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,international city by sobha phase 2,10.2,18877,4,5,3,2,North-West,Relatively New,5403.0,0,Sector 109 Gurgaon,0,1,0,0,0,0,33,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,international city by sobha phase 2,14.25,39637,7,6,3,3,West,Relatively New,3595.0,0,Sector 109 Gurgaon,1,1,0,1,0,0,68,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,international city by sobha phase 2,10.5,19432,5,6,2,2,West,Relatively New,5403.0,0,Sector 109 Gurgaon,0,1,0,0,0,0,76,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,international city by sobha phase 2,9.3,38230,5,5,2,2,South-West,Relatively New,2433.0,0,Sector 109 Gurgaon,0,1,0,0,0,0,61,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,huda sector-56 gurgaon,5.4,37161,5,5,3+,3,North-East,Moderately Old,1453.0,0,Sector 56 Gurgaon,0,0,0,0,1,0,23,4.0,5.0,5.0,4.0,4.5,48,0,4,6,3,0,0,0,0,0,0,0
+house,sector-17c,4.574999999999999,26399,5,5,2,2,North,Old Property,1733.0,0,Sector 17C Gurgaon,0,0,1,0,0,2,17,4.0,4.0,5.0,4.0,4.25,49,0,5,12,1,0,0,0,0,0,0,0
+house,international city by sobha phase 1,8.850000000000001,36380,4,5,2,2,East,Relatively New,2433.0,0,Sector 109 Gurgaon,0,1,0,0,0,2,55,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,international city by sobha phase 1,8.774999999999999,39574,4,5,3+,2,East,Relatively New,2217.0,0,Sector 109 Gurgaon,0,1,0,0,0,2,30,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,bptp visionnaire,6.0,10008,4,4,3+,2,North-East,Relatively New,5995.0,0,Sector 70A Gurgaon,0,1,0,0,0,0,76,5.0,4.0,4.0,4.0,4.25,15,3,1,5,0,0,0,0,0,0,0,0
+house,bptp visionnaire,8.024999999999999,13385,4,4,3+,3,North,Relatively New,5996.0,1,Sector 70A Gurgaon,1,1,1,1,0,2,76,5.0,4.0,4.0,4.0,4.25,15,3,1,5,0,1,0,0,0,0,0,0
+house,independent,9.9,55074,6,7,3+,2,East,Moderately Old,1798.0,0,DLF Phase 2,1,1,0,0,0,2,59,5.0,5.0,5.0,5.0,5.0,42,0,4,9,7,1,0,0,1,0,0,0
+house,international city by sobha phase 1,9.45,13507,4,5,3+,2,West,Relatively New,6996.0,1,Sector 109 Gurgaon,0,0,0,0,0,2,64,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,international city by sobha phase 1,18.0,22507,5,6,3,2,North-East,Relatively New,7998.0,1,Sector 109 Gurgaon,1,1,0,0,0,2,76,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,independent,0.975,13519,3,2,1,1,East,Relatively New,721.0,0,Rajendra Park,0,0,0,1,1,0,9,4.0,4.0,4.0,4.0,4.0,33,1,11,4,0,0,0,0,0,0,0,0
+house,independent,0.8250000000000001,6132,3,3,2,2,South,Relatively New,1345.0,0,Laxman Vihar Phase 2,0,0,0,0,1,0,5,4.0,4.0,5.0,4.0,4.25,33,1,11,4,0,1,0,0,1,0,0,0
+house,independent,1.275,945,3,3,1,1,North,Relatively New,13492.0,0,Laxman Vihar Phase 2,0,0,0,0,1,0,0,4.0,4.0,5.0,4.0,4.25,49,1,14,5,0,1,0,0,1,0,0,0
+house,independent,0.8699999999999999,134710,2,2,1,2,West,Moderately Old,65.0,0,Laxman Vihar Phase 2,0,0,0,1,1,0,4,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,0,0,0,0
+house,independent,0.975,129401,1,1,1,1,South-East,Moderately Old,75.0,0,Laxman Vihar Phase 2,0,0,0,0,1,0,13,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,0,0,0,0
+house,independent,0.915,141677,2,2,2,2,South-East,Moderately Old,65.0,0,Laxman Vihar Phase 2,0,0,0,0,1,0,8,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,0,0,0,0
+house,independent,1.005,133382,3,3,2,2,South,Relatively New,75.0,0,Laxman Vihar Phase 2,0,0,0,0,1,0,5,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,0,0,0,0
+house,ansal sushant lok plots4.1 â˜…,8.7,44903,6,6,3,2,South-West,Relatively New,1938.0,0,Sushant Lok Phase 1,0,1,0,0,1,2,33,5.0,5.0,5.0,5.0,5.0,46,1,4,5,2,0,0,0,0,0,0,0
+house,international city by sobha phase 1,9.0,36997,4,5,3+,2,North,Relatively New,2433.0,0,Sector 109 Gurgaon,0,1,0,0,0,2,47,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,independent,9.375,3360,9,9,3+,3,North-East,New Property,27902.0,1,Sector 57 Gurgaon,0,1,0,0,0,2,37,4.0,4.0,4.0,4.0,4.0,49,1,5,0,0,1,0,0,1,0,0,0
+house,private house,10.575,70175,18,18,3+,4,North-East,Relatively New,1507.0,0,Sector 55 Gurgaon,0,0,0,0,1,1,36,4.0,4.0,5.0,4.0,4.25,48,0,4,6,3,0,0,0,0,0,1,0
+house,independent,6.75,37551,16,16,3+,4,South,Relatively New,1798.0,0,Shivaji Nagar,0,0,0,0,0,2,10,4.0,4.0,5.0,4.0,4.25,50,1,25,1,0,0,0,0,1,0,0,0
+house,independent,5.535,35463,4,4,2,2,East,Moderately Old,1561.0,0,Sector 31 Gurgaon,1,1,0,1,0,2,27,5.0,5.0,5.0,4.0,4.75,49,4,5,10,0,0,0,0,0,0,0,0
+house,independent,3.75,39145,7,7,3,4,West,Relatively New,958.0,0,Sushant Lok Phase 1,0,0,0,0,1,2,10,5.0,5.0,5.0,5.0,5.0,46,1,4,5,2,0,0,0,0,0,0,0
+house,independent,8.25,42581,1,1,0,1,South-West,Old Property,1937.0,0,Sushant Lok Phase 1,0,0,0,0,1,0,5,5.0,5.0,5.0,5.0,5.0,46,1,4,5,2,0,0,0,0,0,0,0
+house,unitech deerwood chase,22.5,50008,4,4,2,2,West,Moderately Old,4499.0,0,Nirvana Country,0,1,0,0,0,0,76,5.0,5.0,5.0,5.0,5.0,4,1,1,0,1,0,0,0,0,0,0,0
+house,unitech aspen greens,10.425,48185,3,3,1,2,North-East,Moderately Old,2164.0,1,Nirvana Country,0,1,0,0,0,0,76,5.0,5.0,5.0,5.0,5.0,45,3,2,4,0,0,0,0,0,0,0,0
+house,ansals palam vihar,8.55,22064,5,5,2,2,North-East,Old Property,3875.0,1,Palam Vihar,0,0,0,1,0,1,54,5.0,5.0,5.0,4.0,4.75,34,2,4,2,1,0,0,0,0,0,0,0
+house,international city by sobha phase 2,16.950000000000003,37672,7,5,3+,4,East,Relatively New,4499.0,1,Sector 109 Gurgaon,1,1,0,1,1,0,33,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,international city by sobha phase 2,16.875,37506,7,5,3+,4,North-East,Relatively New,4499.0,0,Sector 109 Gurgaon,1,1,0,1,0,0,29,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,bptp visionnaire,6.029999999999999,10963,4,4,3+,3,North-East,Relatively New,5500.0,1,Sector 70A Gurgaon,1,1,1,1,0,0,69,5.0,4.0,4.0,4.0,4.25,15,3,1,5,0,0,0,0,0,0,0,0
+house,international city by sobha phase 1,8.55,15823,4,4,3+,4,East,Relatively New,5404.0,0,Sector 109 Gurgaon,1,1,0,0,0,0,49,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,independent,1.5,107196,9,7,3+,3,North,Moderately Old,140.0,1,Dharam Colony,0,0,1,1,0,0,0,4.0,4.0,4.0,4.0,4.0,49,3,9,6,1,0,0,0,0,0,0,0
+house,independent,0.99,18034,3,1,1,3,East,Relatively New,549.0,0,Krishna Colony,0,0,0,0,1,0,14,4.0,4.0,4.0,4.0,4.0,50,1,19,5,0,0,0,0,0,0,0,0
+house,huda ashok vihar phase 13.9 â˜…,1.0499999999999998,15242,3,2,1,2,North-East,New Property,689.0,0,Laxman Vihar,1,0,0,0,0,0,5,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,0,0,0,0
+house,ashok vihar phase 3 gurgaon,1.4249999999999998,13372,4,3,2,1,East,Old Property,1066.0,0,Ashok Vihar Phase 3 Extension,0,0,0,0,0,0,5,3.0,4.0,4.0,4.0,3.75,47,1,10,5,0,0,0,0,0,0,0,0
+house,independent,6.75,21403,9,9,3+,3,Na,Relatively New,3154.0,0,Sector 9A Gurgaon,1,0,0,1,1,2,28,4.0,4.0,4.0,4.0,4.0,49,1,20,5,0,0,0,0,0,0,0,0
+house,independent,1.35,13342,3,1,0,1,Na,Undefined,1012.0,1,Sector 3,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,49,2,12,4,0,0,0,0,0,0,0,0
+house,independent,0.675,12060,3,2,1,1,North-East,Old Property,560.0,0,Hira Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,23,2,0,0,0,0,0,0,0,0
+house,independent,1.5,16590,4,3,3+,4,North-East,Relatively New,904.0,0,"Gopal Nagar, Garhi Ghasita, Near Malik Furniture House, Sonipat -131001, Gopal Nagar, Garhi Ghasita, Sonipat",0,0,0,0,1,0,0,4.0,4.0,5.0,4.0,4.25,50,1,16,4,0,0,0,0,0,0,0,0
+house,farrukhnagar,0.8999999999999999,8532,5,4,3+,2,North,Relatively New,1055.0,0,Fazilpur/Taj Nagar Road,1,0,0,0,0,2,12,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,10.5,42412,7,7,3+,3,South-West,Moderately Old,2476.0,0,South City 1,1,1,1,1,0,1,76,5.0,5.0,5.0,5.0,5.0,49,1,3,7,1,0,0,1,0,0,0,0
+house,independent,5.8950000000000005,36269,19,17,3,4,North-West,Relatively New,1625.0,1,Sector 17A Gurgaon,1,1,1,1,0,0,43,4.0,4.0,5.0,5.0,4.5,48,0,5,13,1,0,0,0,0,0,1,0
+house,independent,6.0,39816,4,4,3+,2,Na,Relatively New,1507.0,0,Sector 56 Gurgaon,0,0,0,0,0,2,19,4.0,5.0,5.0,4.0,4.5,47,1,5,14,3,0,0,0,0,0,0,0
+house,independent,1.125,209032,2,1,0,1,Na,Old Property,54.0,0,Kheri,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,2,14,5,0,0,0,0,0,0,0,0
+house,independent,1.35,14931,6,4,3,3,North-East,Old Property,904.0,0,Madanpuri,0,1,0,0,1,0,28,4.0,4.0,4.0,4.0,4.0,50,1,23,1,0,0,1,0,0,0,0,0
+house,independent,4.125,13736,7,7,3+,3,North-East,Moderately Old,3003.0,1,DLF Phase 3,0,0,0,0,1,0,0,4.0,5.0,5.0,4.0,4.5,46,1,3,11,3,0,0,0,0,0,1,0
+house,prem kunj,0.75,11060,5,4,3,3,South-West,Relatively New,678.0,1,Sohna Road,0,0,0,1,0,0,13,4.0,4.0,5.0,4.0,4.25,47,3,6,4,0,0,0,0,0,0,0,0
+house,independent,0.75,12442,3,3,2,2,East,Moderately Old,603.0,0,Dayanand Colony,0,0,0,1,0,0,0,4.0,5.0,5.0,4.0,4.5,50,1,13,5,0,0,0,0,0,0,0,0
+house,independent,0.63,6968,2,2,1,1,Na,Relatively New,904.0,0,Mohan Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,4,0,1,0,0,1,0,0,1,0,0,0
+house,independent,0.8999999999999999,19908,3,3,0,3,Na,Undefined,452.0,1,"Sector 105, Rajendra Park",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,33,1,10,4,0,0,0,0,0,0,0,0
+house,secter 16a daultabad faridabad house no 313,0.72,95558,2,2,0,2,South-East,Relatively New,75.0,0,Daulatabad,0,0,0,0,0,0,14,4.0,4.0,5.0,4.0,4.25,9,0,5,0,0,1,0,0,1,0,0,0
+house,independent,0.75,16590,5,3,3,3,Na,Moderately Old,452.0,0,Ashok Vihar Phase 3 Extension,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,47,1,10,5,0,0,0,0,0,0,0,0
+house,independent,0.5249999999999999,10603,2,2,1,2,East,Undefined,495.0,0,"Sector 105, Vishnu Garden",0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,29,0,8,4,0,0,0,0,0,0,0,0
+house,dlf city plots,6.0,61255,4,3,2,2,Na,Relatively New,980.0,0,DLF Phase 1,0,0,0,0,0,2,0,5.0,5.0,5.0,5.0,5.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,independent,3.6,152023,8,4,2,2,Na,Old Property,237.0,0,New Basti,0,0,0,0,0,0,14,4.0,4.0,5.0,4.0,4.25,50,1,20,2,0,1,0,0,1,0,0,0
+house,not applicable,3.3000000000000003,18358,4,3,2,1,South,Old Property,1798.0,0,Shivaji Nagar,1,0,0,1,0,0,20,4.0,4.0,5.0,4.0,4.25,49,2,21,3,0,0,0,0,1,0,0,0
+house,independent,1.65,9234,8,8,0,1,Na,New Property,1787.0,0,Manesar,0,0,0,0,0,0,0,4.0,3.0,4.0,4.0,3.75,11,0,2,0,0,0,0,0,0,0,0,0
+house,independent,12.0,33378,4,5,3+,1,North-East,Old Property,3595.0,0,New Colony,1,1,0,1,0,0,24,4.0,4.0,4.0,4.0,4.0,50,1,18,2,0,0,0,0,0,0,0,0
+house,independent,1.23,13604,4,3,3,2,North,Moderately Old,904.0,0,Sector 8 Gurgaon,0,0,0,0,0,0,4,4.0,4.0,5.0,4.0,4.25,50,0,23,1,0,0,0,0,0,0,0,0
+house,independent,1.35,125419,3,3,0,2,Na,Undefined,108.0,1,Ashok Vihar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.0499999999999998,6174,4,4,1,2,Na,Moderately Old,1701.0,0,Maruti Kunj,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.4249999999999998,10941,5,3,0,1,Na,Undefined,1302.0,1,Laxmi Garden,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.95,13033,4,4,2,1,East,Old Property,1496.0,0,Mohan Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,6,0,2,1,0,1,0,0,1,0,0,0
+house,independent,0.54,11945,1,1,0,1,Na,Undefined,452.0,1,Sector 9b,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,18,0,8,4,0,0,0,0,0,0,0,0
+house,housing board colony,5.25,39019,6,6,3,3,Na,Relatively New,1345.0,0,Saraswati Vihar,0,0,0,0,0,0,0,4.0,5.0,5.0,4.0,4.5,48,0,5,12,3,0,0,0,0,0,1,0
+house,independent,1.2000000000000002,10044,8,8,2,1,Na,Relatively New,1195.0,0,IMT Manesar,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,18,0,4,0,0,0,0,0,0,0,0,0
+house,independent,0.2249999999999999,3318,2,1,0,1,Na,Old Property,678.0,0,Bhora Kalan,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,rajendra park sec 105,1.2000000000000002,13272,9,5,3+,3,Na,Old Property,904.0,1,near nand hospital,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,1,0,0,0
+house,independent,9.0,50068,8,5,3+,3,Na,Old Property,1798.0,0,DLF Phase 1,0,0,0,0,0,2,10,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,shivpuri,4.199999999999999,18670,10,7,3,1,Na,Old Property,2250.0,0,Shivpuri,1,1,0,1,1,2,0,4.0,5.0,5.0,5.0,4.75,50,1,12,5,0,1,0,0,1,0,0,0
+house,ansal heights3.2 â˜…,4.125,14683,4,4,3+,3,Na,Relatively New,2809.0,1,Sector 92 Gurgaon,1,0,0,1,0,0,0,5.0,4.0,4.0,3.0,4.0,5,0,0,0,0,0,0,0,0,0,0,0
+house,ninex city,2.625,9380,4,4,0,14,Na,Undefined,2799.0,0,"Delhi Gurgaon Expressway, Sector 76 Gurgaon",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,spaze privy3.9 â˜…,4.65,12743,5,5,3+,21,Na,Relatively New,3649.0,0,Sector 72 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.7399999999999998,17571,5,4,2,1,North-East,Undefined,990.0,0,"Sector 7, Jyoti Park",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,signature global park4.0 â˜…,1.275,11390,3,2,2,1,Na,Undefined,1119.0,1,Sector 36 Sohna,0,0,0,0,0,0,10,4.0,4.0,5.0,4.0,4.25,8,1,1,0,1,0,1,1,0,0,0,0
+house,independent,1.35,19908,4,4,0,2,Na,Undefined,678.0,1,"Sector 12a, Subhash Nagar",0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,my home,0.51,18952,2,2,2,3,West,Moderately Old,269.0,0,New Palam Vihar,0,0,0,0,0,0,14,4.0,4.0,4.0,4.0,4.0,32,1,6,1,1,0,0,0,0,0,0,0
+house,independent,7.5,23072,6,6,2,1,South,Undefined,3251.0,0,Palam Vihar,0,0,0,0,0,0,0,5.0,5.0,5.0,4.0,4.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,surat nagar phase 2,0.54,11667,2,2,1,1,North-East,Moderately Old,463.0,0,"Street 1, Surat Nagar Phase 2",0,0,0,1,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,7.5,33338,3,3,3,1,South,Moderately Old,2250.0,0,Sector 14 Gurgaon,0,0,0,0,0,0,22,4.0,5.0,5.0,4.0,4.5,50,2,8,12,0,1,0,0,1,0,0,0
+house,unitech uniworld resorts,14.25,31672,5,7,3+,2,East,Undefined,4499.0,0,Sector 33 Gurgaon,1,1,1,1,0,0,34,3.0,4.0,4.0,4.0,3.75,46,1,9,4,0,0,0,0,0,0,0,0
+house,independent,10.875,39934,8,8,3+,0,North-East,Moderately Old,2723.0,0,Sector 56 Gurgaon,0,0,0,0,0,0,12,4.0,5.0,5.0,4.0,4.5,47,1,5,14,3,0,0,0,0,0,0,0
+house,dlf gardencity enclave,1.95,16931,3,2,1,3,Na,Relatively New,1152.0,0,Sector 93 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,8,2,2,0,1,0,0,0,1,0,0,0
+house,independent,5.625,16537,5,5,3+,3,Na,Undefined,3401.0,1,Sector 5 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,rajendra park gurgaon,0.5549999999999999,15625,4,3,2,3,East,Relatively New,355.0,0,Rajendra Park,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,29,1,8,4,0,0,0,0,0,0,0,0
+house,independent,3.375,10417,10,10,2,1,East,Undefined,3240.0,0,"Sector 13, Rajiv Nagar",0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.725,12821,5,3,2,2,North-East,Old Property,1345.0,0,Madanpuri,0,0,0,1,0,0,9,4.0,4.0,4.0,4.0,4.0,50,1,23,1,0,1,0,0,1,0,0,0
+house,independent,1.4249999999999998,15760,3,2,2,3,South-East,Old Property,904.0,0,New Palam Vihar Phase 1,0,0,1,0,0,0,5,4.0,4.0,5.0,4.0,4.25,31,1,6,1,1,0,0,0,0,0,0,0
+house,independent,0.735,20692,6,3,2,3,East,Moderately Old,355.0,0,Arjun Nagar,0,0,0,0,0,0,5,4.0,4.0,5.0,4.0,4.25,50,0,24,1,0,0,0,0,0,0,0,0
+house,independent,2.175,837,4,4,2,2,East,Moderately Old,25986.0,0,Ashok Vihar Phase I,0,1,0,1,0,0,39,4.0,4.0,5.0,4.0,4.25,49,1,13,5,0,0,0,0,0,1,0,0
+house,house number b-34,1.2000000000000002,13272,2,2,1,1,Na,Old Property,904.0,1,Ashok Vihar Phase 2,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.4000000000000004,17837,5,5,2,3,Na,Relatively New,1346.0,1,Surya Vihar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.275,13460,6,6,2,2,North,Relatively New,947.0,0,Block H Ashok Vihar Phase III Extension,1,1,0,1,1,0,28,4.0,4.0,5.0,4.0,4.25,46,2,10,2,1,0,0,0,0,0,0,0
+house,independent,10.5,58764,5,5,2,3,North-East,Relatively New,1787.0,0,DLF Phase 1,0,1,0,0,0,0,10,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,0.75,9168,3,2,1,1,Na,Undefined,818.0,1,"Sector 9, Basai Road, Devilal Colony",0,0,0,0,0,0,0,5.0,5.0,5.0,4.0,4.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,12.0,348387,10,10,3+,1,North,Undefined,344.0,1,Sector 38 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,0,9,0,1,0,0,0,0,0,0,1
+house,independent,0.675,12542,3,2,1,1,Na,Undefined,538.0,0,Surya Vihar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.93,48000,6,6,0,3,Na,Undefined,194.0,1,"Sector 11, Prem Nagar",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.5,63343,6,4,0,3,Na,Undefined,237.0,1,"Sector 6, Bhim Nagar",0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.4249999999999998,10941,7,6,3+,3,Na,Old Property,1302.0,0,Surat Nagar,0,0,0,0,0,0,0,3.0,3.0,4.0,4.0,3.5,49,1,14,5,0,0,0,0,0,0,0,0
+house,independent,0.675,125419,5,3,0,1,Na,Undefined,54.0,1,"Sector 11, Gandhi Nagar",0,0,0,0,0,0,0,4.0,4.0,5.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.675,15295,5,3,2,3,Na,Old Property,441.0,0,Khandsa,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,0,24,0,0,0,0,0,0,0,0,0
+house,ats tourmaline3.9 â˜…,2.805,13030,3,4,0,12,Na,Undefined,2153.0,1,Sector 109 Gurgaon,0,0,0,0,0,0,0,5.0,4.0,3.0,4.0,4.0,11,1,1,0,2,0,0,0,0,0,0,0
+house,independent,1.275,12737,1,1,0,1,Na,Undefined,1001.0,1,"Block B, Ashok Vihar Phase Iii Extension",0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,47,1,10,2,0,0,0,0,0,0,0,0
+house,independent,0.63,13935,5,3,2,2,Na,Undefined,452.0,1,"Sector 9, Ravi Nagar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,24,5,0,0,0,0,0,0,0,0
+house,bhawani enclave,0.63,11256,3,3,0,2,East,New Property,560.0,0,"Gurgaon, Haryana, India, Maruti Kunj",0,0,0,1,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.7999999999999998,19908,7,4,1,2,South-West,Moderately Old,904.0,0,Rajendra Park,0,0,0,0,1,0,9,4.0,4.0,4.0,4.0,4.0,31,1,9,4,0,0,0,0,0,0,0,0
+house,independent,9.75,32466,5,6,0,1,Na,Undefined,3003.0,1,Sector 50 Gurgaon,0,0,0,0,0,0,0,5.0,5.0,5.0,4.0,4.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,5.625,30560,4,4,3+,3,Na,Old Property,1841.0,0,SECTOR 5,0,0,0,0,0,0,18,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,3.375,10417,36,36,2,3,East,Moderately Old,3240.0,0,West Rajiv Nagar,0,1,0,0,0,0,4,3.0,4.0,5.0,3.0,3.75,50,2,14,2,0,0,0,0,0,0,0,0
+house,independent,1.125,87097,2,2,0,1,Na,Undefined,129.0,1,Ashok Vihar Phase 3 Extension,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.4499999999999999,83613,6,3,3,3,South,Moderately Old,54.0,0,Surat Nagar Phase 2,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,13,5,0,1,0,0,0,0,0,0
+house,independent,2.0250000000000004,5789,5,3,3,3,East,Undefined,3498.0,1,"Sector 105, Vishnu Garden",0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,29,0,8,4,0,0,0,0,0,0,0,0
+house,independent,7.050000000000001,32585,3,3,2,2,North,Old Property,2164.0,0,Sushant Lok Phase 3,0,1,0,0,1,0,28,4.0,4.0,4.0,4.0,4.0,45,1,6,13,0,1,0,1,1,0,0,0
+house,"om nagar, sector-11",0.8999999999999999,12480,4,2,1,0,East,Old Property,721.0,0,Near Khandsa Road,0,0,0,0,1,0,4,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,0.33,10949,2,2,2,1,Na,Undefined,301.0,0,"Sector 9, Basai Road, Devilal Colony",0,0,0,0,0,0,0,5.0,5.0,5.0,4.0,4.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.475,114968,9,9,0,1,Na,New Property,215.0,1,Sheetla Colony,0,0,0,0,0,0,0,3.0,3.0,4.0,3.0,3.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.75,15836,5,3,0,1,Na,Undefined,474.0,1,"Sector 3a, Laxman Vihar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,3.45,38157,6,6,0,0,Na,Old Property,904.0,0,Farukhnagar,0,0,0,0,1,0,33,4.0,4.0,4.0,4.0,4.0,14,0,9,0,0,0,0,0,0,0,0,0
+house,independent,1.875,13097,10,6,3+,3,Na,Old Property,1432.0,0,Ravi Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,26,5,0,0,0,0,0,0,0,0
+house,project mianwali colony,2.55,14186,1,1,2,1,Na,Undefined,1798.0,0,"Sector 12a, Mianwali Colony",0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,50,2,13,3,0,0,0,0,0,0,0,0
+house,independent,9.0,30077,4,4,1,2,Na,Relatively New,2992.0,1,Palam Vihar,0,0,0,0,0,0,0,5.0,5.0,5.0,4.0,4.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,4.199999999999999,28071,4,4,0,2,Na,Undefined,1496.0,1,Sector 55 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,4.68,28417,4,2,1,1,Na,Old Property,1647.0,0,Part 3 Sector 5 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,2,13,5,0,0,0,0,0,0,0,0
+house,independent,0.105,3484,1,1,0,1,Na,Relatively New,301.0,0,Sohna,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,5.25,36399,3,3,2,1,East,Relatively New,1442.0,0,Sector 38 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,project housing board colony,3.87,29714,4,2,2,2,Na,Undefined,1302.0,0,"Sector 28, Saraswati Vihar",0,0,0,0,0,0,0,4.0,5.0,5.0,4.0,4.5,48,0,5,11,1,0,0,0,0,0,0,0
+house,dlf the arbour,12.75,32276,4,4,3+,27,Na,Undefined,3950.0,1,Sector 63 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,10,0,1,2,0,0,0,0,0,0,0,0
+house,dlf garden city floors,6.0,26671,7,7,3+,4,Na,New Property,2250.0,0,Lucknow,0,0,0,0,0,0,31,4.0,4.0,5.0,4.0,4.25,10,1,1,0,0,0,0,0,1,0,0,0
+house,independent,2.175,2,4,3,3+,3,South,Moderately Old,10875000.0,0,Pataudi Road,0,0,0,0,0,0,0,4.0,4.0,5.0,5.0,4.5,8,0,4,0,0,0,0,0,0,0,0,0
+house,independent,0.8999999999999999,9290,8,3,2,3,Na,Old Property,969.0,0,Surya Vihar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,18,5,0,0,0,0,0,0,0,0
+house,independent,1.65,80679,4,3,1,2,North-East,Old Property,205.0,0,Ravi Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,3.75,20861,9,5,2,1,South-East,Old Property,1798.0,0,Subhash Nagar,0,0,0,1,0,0,5,3.0,4.0,5.0,4.0,4.0,50,2,18,2,0,0,0,0,1,0,0,0
+house,independent,5.25,30484,3,2,2,1,East,Moderately Old,1722.0,0,Sector 38 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,47,4,5,7,0,0,1,0,0,0,0,0
+house,huda plots,4.425000000000001,30452,2,2,2,1,North,Moderately Old,1453.0,1,Sector 56 Gurgaon,0,0,0,0,0,0,24,4.0,5.0,5.0,4.0,4.5,47,1,6,14,3,0,0,0,0,0,0,0
+house,independent,1.0499999999999998,8788,3,2,2,1,Na,Undefined,1195.0,1,"Rajendra Park, Sector 105",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,37,1,11,4,0,0,0,0,0,0,0,0
+house,independent,1.7399999999999998,17571,5,4,2,3,North-East,Moderately Old,990.0,0,Jyoti Park,0,0,0,0,1,0,31,4.0,4.0,4.0,4.0,4.0,50,1,23,5,0,1,0,0,0,0,0,0
+house,independent,24.0,40030,6,5,2,3,East,Relatively New,5996.0,1,DLF Phase 2,0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,malibu towne,12.75,79498,12,12,3+,4,North,New Property,1604.0,1,Malibu Town,0,0,0,0,0,2,59,5.0,4.0,5.0,5.0,4.75,45,4,3,4,0,0,0,0,0,0,0,0
+house,suncity essel towers4.2 â˜…,13.425,26822,5,6,3+,4,Na,Moderately Old,5005.0,0,Sector 28 Gurgaon,0,0,0,0,0,0,0,4.0,5.0,5.0,4.0,4.5,48,0,5,10,3,0,0,0,0,0,0,0
+house,independent,21.0,59846,9,9,3+,4,North,Moderately Old,3509.0,0,C Block Sushant Lok Phase 1,0,1,0,0,0,0,4,4.0,4.0,4.0,4.0,4.0,46,1,4,5,2,0,1,0,0,0,0,0
+house,"bhim nagar, sector 6",1.275,197419,5,2,2,1,Na,Old Property,65.0,0,Bhim Nagar,0,0,0,1,0,0,14,3.0,4.0,5.0,4.0,4.0,50,1,13,3,0,0,0,0,0,0,0,0
+house,independent,2.0250000000000004,60687,4,5,0,3,Na,Undefined,334.0,1,"Sector 7, Jyoti Park",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,19.8,40697,6,6,0,2,Na,Undefined,4865.0,1,"Sector 50, Nirvana Country",0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,anamika enclave,9.0,21718,9,9,3+,3,North-West,Old Property,4144.0,1,Sector 12 Gurgaon,0,0,0,0,0,0,10,4.0,5.0,5.0,4.0,4.5,15,0,2,0,0,0,0,0,0,0,0,0
+house,not applicable,0.765,21537,4,4,3,4,Na,New Property,355.0,0,Laxman Vihar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,14,5,0,0,0,0,1,0,0,0
+house,independent,1.65,16662,6,4,1,2,North,Undefined,990.0,1,"Phase 1 Opposite Apna Enclave Laxman Vihar, Laxman Vihar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,3.75,19683,5,5,3+,2,Na,Relatively New,1905.0,0,Sector 37D Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,5,0,3,0,0,0,0,0,1,0,0,0
+house,independent,0.795,8793,2,2,0,1,Na,Undefined,904.0,1,"Sector 9, Baldev Nagar",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,3.0,16689,2,2,1,2,Na,Relatively New,1798.0,0,Shivpuri,0,0,0,0,0,0,0,4.0,5.0,5.0,5.0,4.75,50,1,12,5,0,0,0,0,0,0,0,0
+house,independent,0.945,11864,4,2,1,2,South-East,Old Property,797.0,1,"Near Anandpur Kutia, New Basti",0,0,0,0,1,0,4,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,12.0,327893,10,10,3+,4,Na,Relatively New,366.0,1,Sector 56 Gurgaon,1,1,0,1,0,1,55,4.0,5.0,5.0,4.0,4.5,47,1,5,14,3,0,0,0,0,1,0,0
+house,independent,0.675,7208,1,1,0,1,Na,Undefined,936.0,1,"Sector 13, Rajiv Nagar",0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.5549999999999999,12276,2,2,1,1,Na,Moderately Old,452.0,0,Vishnu Garden,0,0,0,0,1,0,0,3.0,4.0,4.0,4.0,3.75,29,0,8,4,0,0,0,0,0,0,0,0
+house,independent,2.58,16645,6,3,1,2,Na,Old Property,1550.0,1,Acharya Puri,0,0,0,0,1,0,0,4.0,5.0,5.0,5.0,4.75,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,2.0250000000000004,5789,10,6,3+,3,Na,Old Property,3498.0,0,"Gurgaon, Bhondsi",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.75,77419,2,2,0,1,Na,Undefined,97.0,1,Sector 105 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.93,16941,3,1,0,2,Na,Undefined,549.0,1,"Sector 8, Arjun Nagar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,12.0,12000,3,9,2,3,Na,New Property,10000.0,0,DLF Phase 2,0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.7,11454,4,5,0,13,Na,Undefined,2357.0,1,Sector 92 Gurgaon,0,0,0,0,0,0,0,5.0,4.0,4.0,3.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.55,8491,4,4,3+,1,North-East,Undefined,3003.0,1,Sector 108 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.8250000000000001,7514,2,1,0,1,Na,Undefined,1098.0,1,Ashok Vihar Phase 3 Extension,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.25,7492,6,1,0,1,Na,New Property,3003.0,1,Ashok Vihar Phase 3 Extension,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.325,9863,3,2,0,1,Na,Undefined,2357.0,1,Sector 109 Gurgaon,0,0,0,0,0,0,0,5.0,4.0,3.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.48,34303,2,2,0,3,Na,Undefined,140.0,1,Garhi Harsaru,0,0,0,0,0,0,0,4.0,3.0,4.0,3.0,3.5,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,3.1500000000000004,12560,4,3,0,2,Na,Undefined,2508.0,1,Pratap Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,manohar nagar,8.399999999999999,18670,34,34,3+,4,Na,New Property,4499.0,1,Manohar Nagar,0,0,0,0,0,2,0,4.0,4.0,5.0,4.0,4.25,50,1,25,1,0,0,0,0,0,0,0,0
+house,independent,2.4000000000000004,42878,4,6,1,3,Na,Relatively New,560.0,0,Arjun Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,45,3,2,4,0,0,0,0,0,0,0,0
+house,independent,1.17,14493,4,4,0,3,North-East,Undefined,807.0,0,"Gurgaon, Haryana, India, Vir Nagar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,0,24,1,0,0,0,0,0,0,0,0
+house,independent,1.4249999999999998,31521,2,1,1,3,Na,New Property,452.0,0,Madanpuri,0,0,0,0,0,0,9,4.0,4.0,4.0,4.0,4.0,50,1,23,1,0,0,0,0,0,0,0,0
+house,vatika sovereign next,5.775,11224,5,6,3+,6,Na,Undefined,5145.0,1,Sector 82A Gurgaon,0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,11,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.99,16136,3,2,1,2,Na,Old Property,614.0,0,Bhim Nagar,0,0,0,0,0,0,15,3.0,4.0,5.0,4.0,4.0,50,1,15,1,0,1,0,0,0,0,0,0
+house,independent,0.675,18444,4,4,2,4,North,Moderately Old,366.0,0,Surat Nagar 1,0,0,0,0,0,2,4,4.0,4.0,4.0,3.0,3.75,49,1,12,5,0,0,0,0,0,0,0,0
+house,independent,1.275,13309,1,2,0,1,Na,Relatively New,958.0,0,Hno 13 Sagar enclave Sura,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.25,15836,2,2,2,3,South-West,Old Property,1421.0,0,"A Block, Sector 13 Gurgaon",1,0,0,1,0,0,4,4.0,5.0,5.0,4.0,4.5,50,2,12,11,0,0,0,0,0,0,0,0
+house,independent,2.28,29834,2,2,1,1,South-East,Old Property,764.0,1,Sector 17A Gurgaon,0,0,0,0,0,0,14,4.0,4.0,5.0,5.0,4.5,48,0,5,13,1,0,0,0,0,0,0,0
+house,independent,1.5,13935,3,2,2,1,North,Old Property,1076.0,1,"New Palam Vihar, Phase-2, Near Royal Oak International School, Near Dwarka Expressway, New Palam Vihar",0,0,0,1,0,0,0,4.0,4.0,4.0,4.0,4.0,32,1,6,1,1,0,0,0,0,0,0,0
+house,independent,1.5750000000000002,14632,3,2,0,1,Na,Undefined,1076.0,1,Hira Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.275,11281,3,3,0,1,Na,Undefined,1130.0,1,"Sector 3a, Laxman Vihar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,2,14,5,0,0,0,0,0,0,0,0
+house,independent,0.8699999999999999,8508,4,2,1,2,East,Old Property,1023.0,0,Ram Nagar,0,0,0,1,0,0,4,4.0,4.0,5.0,5.0,4.5,50,1,23,1,0,0,0,0,0,0,0,0
+house,independent,0.675,7465,3,2,0,1,Na,Undefined,904.0,0,"Sector 9, Baldev Nagar",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,50,1,25,1,0,0,0,0,0,0,0,0
+house,independent,2.0250000000000004,36888,5,3,2,3,South-East,Old Property,549.0,0,Block G Sector-57 Gurgaon,0,0,0,0,0,0,15,4.0,4.0,5.0,4.0,4.25,46,1,7,13,2,0,0,0,0,0,0,0
+house,independent,1.0499999999999998,11613,2,2,0,1,North-East,Moderately Old,904.0,0,Sheetla Colony,0,0,0,0,0,2,20,3.0,3.0,4.0,3.0,3.25,49,2,10,5,0,0,0,0,0,0,0,0
+house,independent,2.1,12348,2,2,1,3,Na,Relatively New,1701.0,1,Pratap Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,7.725,21108,5,5,0,1,Na,Relatively New,3660.0,0,Sector 39 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,1,0,0,1,0,0,0
+house,sector 14 rwa,9.75,39043,5,5,0,4,Na,Moderately Old,2497.0,0,Sector 14 Gurgaon,0,0,0,0,0,0,0,4.0,5.0,5.0,4.0,4.5,50,3,12,11,0,0,0,0,1,0,0,0
+house,iffco nagar and 17b rwa,5.25,36399,6,5,3,3,East,Old Property,1442.0,0,Sector 17 Gurgaon,0,0,0,0,0,0,33,5.0,5.0,5.0,5.0,5.0,47,0,5,6,3,0,0,0,1,0,0,0
+house,independent,20.25,28943,9,9,0,1,East,Relatively New,6997.0,1,DLF Phase 2,0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,8.55,35147,9,9,3+,3,North-East,Moderately Old,2433.0,0,Palam Vihar,0,0,0,1,0,2,0,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,independent,2.625,16703,4,2,2,2,Na,Old Property,1572.0,0,Krishna Colony,0,0,0,0,1,0,24,4.0,4.0,4.0,4.0,4.0,50,1,19,5,0,0,0,0,0,0,0,0
+house,bhim garh kheri,1.125,9589,4,2,2,2,West,Old Property,1173.0,0,Sector 3 Gurgaon,0,0,0,0,0,0,14,4.0,4.0,4.0,4.0,4.0,49,2,14,5,0,0,0,0,0,0,0,0
+house,independent,5.25,203226,8,8,3+,3,South-East,Relatively New,258.0,1,Sector 12A Gurgaon,1,1,0,1,0,2,38,3.0,4.0,4.0,4.0,3.75,50,1,15,3,0,0,0,0,0,0,0,0
+house,independent,1.38,22894,4,1,0,1,Na,Undefined,603.0,1,Sector 3,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,49,2,12,4,0,0,0,0,0,0,0,0
+house,independent,0.78,8627,3,2,2,2,Na,New Property,904.0,0,Farukhnagar,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,14,0,9,0,0,0,0,0,0,0,0,0
+house,independent,1.65,9179,8,4,3+,2,West,Old Property,1798.0,0,Laxman Vihar,0,0,0,0,0,0,4,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,0,0,0,0
+house,surendra homes dayaindependentd colony,1.125,23226,4,4,2,1,Na,Undefined,484.0,1,"Gurgaon Village, Sector 6",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,2,16,1,0,0,0,0,0,0,0,0
+house,independent,1.875,116129,2,3,0,1,Na,Undefined,161.0,1,"Sector 3a, Laxman Vihar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,0,0,0,0
+house,independent,6.375,26921,4,3,2,1,North-East,Undefined,2368.0,1,Sector 10A Gurgaon,0,0,0,0,0,0,0,4.0,5.0,5.0,5.0,4.75,49,0,25,0,0,0,0,0,0,0,0,0
+house,independent,0.5549999999999999,11458,1,1,1,1,Na,Relatively New,484.0,1,Sector 3a,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,14,5,0,0,0,0,0,0,0,0
+house,dlf the grove,8.55,317729,4,4,0,1,Na,Undefined,269.0,1,Sector 54 Gurgaon,0,0,0,0,0,0,0,4.0,5.0,4.0,4.0,4.25,48,1,6,13,4,0,0,0,0,0,0,0
+house,independent,1.2000000000000002,123871,13,6,3+,3,South,Moderately Old,97.0,0,Surat Nagar 1,1,1,0,1,1,0,0,4.0,4.0,4.0,3.0,3.75,49,1,12,5,0,0,0,0,0,0,0,0
+house,independent,3.1500000000000004,52258,3,2,1,3,Na,New Property,603.0,0,Sector 70A Gurgaon,0,0,0,0,0,0,0,5.0,4.0,4.0,4.0,4.25,14,0,6,4,0,0,0,0,0,0,0,0
+house,independent,1.65,15028,5,4,2,1,East,Undefined,1098.0,1,"Delhi Gurgaon Expressway, Ashok Vihar Phase 2",0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,rk excelo,0.8999999999999999,167226,5,3,2,3,North,Moderately Old,54.0,1,Subhash Nagar,0,0,0,0,1,0,0,3.0,4.0,5.0,4.0,4.0,50,1,21,2,0,0,0,0,0,0,0,0
+house,independent,1.7999999999999998,33445,4,4,3+,4,West,Old Property,538.0,0,Sohna Road,0,0,0,0,0,0,5,4.0,4.0,5.0,4.0,4.25,47,3,6,4,0,0,0,0,1,0,0,0
+house,independent,6.75,190029,4,4,0,4,Na,Undefined,355.0,1,"Sector 28, DLF Phase 4",0,0,0,0,0,0,0,5.0,4.0,5.0,5.0,4.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.2000000000000002,13272,4,4,0,2,Na,Old Property,904.0,0,Om Nagar,0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,50,0,25,0,0,0,0,0,0,0,0,0
+house,independent,4.5,16656,4,4,0,1,Na,Undefined,2702.0,0,"Gurgaon, Garhi Harsaru",0,0,0,0,0,0,0,4.0,3.0,4.0,3.0,3.5,0,0,0,0,0,1,0,0,0,0,0,0
+house,vipul tatvam villa,12.75,39353,4,6,3,3,North,Old Property,3240.0,0,Sector 48 Gurgaon,0,1,0,1,1,0,33,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,1,0,0,0
+house,"aindependentd garden, sector-105",1.65,10152,5,3,1,2,Na,Old Property,1625.0,0,Sector-105,1,0,0,1,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,1,0,0,1,0,0,0
+house,independent,1.125,31672,7,4,3+,4,Na,Moderately Old,355.0,0,Saraswati Vihar,0,0,0,0,0,0,4,4.0,5.0,5.0,4.0,4.5,48,0,5,12,3,0,0,0,0,0,0,0
+house,independent,9.0,464516,9,6,2,2,North-East,Old Property,194.0,0,Jacobpura,0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,50,1,20,3,0,0,0,0,0,0,0,0
+house,independent,1.23,15236,4,4,0,2,Na,Undefined,807.0,0,"Gurgaon, Haryana, India, Arjun Nagar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,24,1,0,0,0,0,0,0,0,0
+house,independent,0.5249999999999999,5245,1,4,1,1,Na,Moderately Old,1001.0,0,Gurgaon Faridabad Road,0,0,0,0,0,0,0,5.0,4.0,4.0,5.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.725,4931,3,2,1,1,Na,Undefined,3498.0,0,"Sector 105, Rajendra Park",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,ansal api esencia3.7 â˜…,2.7750000000000004,112090,3,3,3,1,Na,Undefined,248.0,0,Sector 67 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,12,0,0,0,1,0,0,0,0,0,0,0
+house,aindependentt raj estates,12.75,40705,6,6,3+,3,East,Under Construction,3132.0,0,Sector 63A Gurgaon,0,0,1,1,0,0,14,4.0,4.0,4.0,5.0,4.25,10,1,1,0,1,0,1,0,0,0,0,0
+house,independent,1.35,14931,4,5,3,3,West,New Property,904.0,1,Tekchand Nagar,0,0,0,0,1,0,4,4.0,4.0,5.0,4.0,4.25,33,1,11,4,0,0,0,0,0,0,0,0
+house,independent,0.75,8295,2,1,2,1,Na,Old Property,904.0,0,Ashok Vihar Phase 3,0,0,1,0,0,0,12,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,8.625,35455,4,4,2,4,North,Undefined,2433.0,1,DLF Phase 5,0,1,1,0,0,1,76,5.0,5.0,5.0,5.0,5.0,48,1,6,13,4,0,0,0,0,0,0,0
+house,independent,6.9750000000000005,26341,5,5,3+,1,Na,Moderately Old,2648.0,0,"Suncity, Sector 54",0,0,0,0,0,2,0,4.0,5.0,5.0,4.0,4.5,47,1,6,12,3,1,0,0,1,0,0,0
+house,independent,10.8,23066,4,4,3+,4,Na,Old Property,4682.0,0,Ansal's Palam Vihar,1,1,0,0,0,1,0,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,0.8999999999999999,16079,3,3,1,2,Na,Relatively New,560.0,0,Devilal Colony,0,0,0,0,0,0,0,5.0,5.0,5.0,4.0,4.75,50,1,24,5,0,0,0,0,0,0,0,0
+house,independent,6.75,13633,4,5,2,2,East,Old Property,4951.0,0,Prem Nagar,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,50,3,15,4,0,0,0,0,0,0,0,0
+house,jacobpura gurugram,1.95,38545,5,2,1,3,South-West,Old Property,506.0,0,Jacobpura Near Sadar Bazar,0,0,0,0,1,0,0,4.0,4.0,5.0,4.0,4.25,50,1,19,2,0,0,0,0,0,0,0,0
+house,independent,4.800000000000001,89187,14,14,3+,6,West,Relatively New,538.0,0,DLF Phase 3,0,0,0,0,0,1,9,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,1,0,0,0,1,1
+house,independent,0.8999999999999999,167226,3,3,1,2,Na,Old Property,54.0,0,Laxman Vihar,0,0,0,0,1,0,0,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,0,0,0,0
+house,hero homes,2.925,31970,3,5,3+,2,Na,Moderately Old,915.0,0,Sector 104 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,7,1,1,0,1,0,0,0,1,0,0,0
+house,ganpati heights apartment,1.875,226,10,6,2,3,South-East,Old Property,82965.0,0,Prem Nagar,0,0,0,0,1,0,4,4.0,4.0,4.0,4.0,4.0,50,2,15,2,0,0,0,0,0,0,1,0
+house,international city by sobha phase 1,9.15,37613,5,6,3+,2,Na,Moderately Old,2433.0,0,Sector 109 Gurgaon,0,1,0,0,0,0,10,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,independent,0.75,21114,5,3,3,3,Na,Old Property,355.0,0,Bhim Nagar,0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,50,1,13,3,0,0,0,0,0,0,0,0
+house,independent,3.0,22477,3,1,0,3,North,Moderately Old,1335.0,0,Manesar,0,0,0,0,0,0,14,4.0,3.0,4.0,4.0,3.75,11,0,2,0,0,0,0,0,0,0,0,0
+house,housing board colony,3.1500000000000004,34839,8,8,3+,4,South-East,Moderately Old,904.0,0,Saraswati Vihar,0,0,0,0,1,2,28,4.0,5.0,5.0,4.0,4.5,48,0,5,12,3,0,0,1,0,0,1,0
+house,smart world gems,1.875,13196,3,3,2,1,Na,Undefined,1421.0,1,Sector 89,1,0,0,0,1,0,0,4.0,4.0,4.0,4.0,4.0,14,1,1,0,1,0,0,0,0,0,0,0
+house,independent,0.975,9740,6,2,3,1,Na,Undefined,1001.0,0,Maruti Kunj,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,unitech espace,17.25,53242,5,6,0,1,North-West,Undefined,3240.0,1,Nirvana Country,0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,46,0,5,9,0,0,0,0,0,0,0,0
+house,independent,1.35,17181,5,4,3,3,North-West,Moderately Old,786.0,0,Rajiv Nagar,1,1,0,1,1,0,0,3.0,4.0,5.0,4.0,4.0,50,1,11,11,0,0,0,0,0,0,0,0
+house,not applicable,1.125,17715,5,4,3,2,Na,Moderately Old,635.0,0,Laxman Vihar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,14,5,0,0,0,0,1,0,0,0
+house,independent,1.95,17253,3,3,1,2,North,Moderately Old,1130.0,0,Rajendra Park,0,0,0,0,0,0,14,4.0,4.0,4.0,4.0,4.0,31,1,9,4,0,0,0,0,0,0,0,0
+house,shree krishna homes,0.72,95558,2,2,1,1,North-East,New Property,75.0,1,Surat Nagar 1,1,0,0,1,1,0,22,4.0,4.0,4.0,3.0,3.75,43,1,13,5,0,0,0,0,0,0,0,0
+house,independent,1.02,5814,5,3,0,1,Na,Undefined,1754.0,1,Sector 3,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,49,2,14,5,0,0,0,0,0,0,0,0
+house,bhim garh kheri,2.25,11360,7,2,0,1,Na,Undefined,1981.0,0,Sector 3 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.95,17253,3,3,1,1,East,Undefined,1130.0,1,"Sector 105, Rajendra Park",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,39,1,12,5,0,0,0,0,0,0,0,0
+house,independent,0.8999999999999999,16079,2,2,1,1,North-East,Moderately Old,560.0,0,Devilal Colony,0,0,0,0,0,0,5,5.0,5.0,5.0,4.0,4.75,50,1,25,5,0,1,0,0,1,0,0,0
+house,sector 14 rwa,9.75,30915,4,4,3+,2,Na,Moderately Old,3154.0,0,Sector 14 Gurgaon,0,0,0,0,0,0,0,4.0,5.0,5.0,4.0,4.5,50,3,12,11,0,0,0,0,1,0,0,0
+house,independent,0.735,13935,2,1,0,1,Na,Old Property,527.0,0,"Street No 16, Shivji Park Colony",0,0,0,0,0,0,4,4.0,4.0,5.0,5.0,4.5,49,0,24,0,0,0,0,0,0,0,0,0
+house,independent,1.605,17751,2,2,1,1,Na,Old Property,904.0,0,Patel Nagar,0,1,0,0,0,0,4,4.0,4.0,4.0,4.0,4.0,50,2,15,5,0,0,0,0,0,0,0,0
+house,independent,3.1500000000000004,25898,6,6,3+,3,Na,Relatively New,1216.0,0,Laxmi Garden,0,0,0,0,0,0,9,4.0,4.0,5.0,4.0,4.25,50,0,26,0,0,0,1,0,0,0,0,0
+house,independent,6.9,48563,2,2,2,2,East,Undefined,1421.0,1,Sector 31 Gurgaon,0,0,0,0,0,0,0,5.0,5.0,5.0,4.0,4.75,49,4,6,11,0,0,0,0,0,0,0,0
+house,independent,1.5,16590,3,4,2,2,Na,Relatively New,904.0,0,Ashok Vihar Phase 2,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,49,1,12,5,0,0,0,0,1,0,0,0
+house,independent,1.65,18249,6,4,1,1,South-West,Undefined,904.0,0,"Sector 105, Rajendra Park",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,tulip yellow,4.425000000000001,24617,4,3,2,3,North,New Property,1798.0,0,Sector 69 Gurgaon,0,0,0,1,1,1,54,4.0,4.0,4.0,4.0,4.0,13,1,1,0,1,1,0,0,1,0,0,0
+house,huda housing board colony4.1 â˜…,6.9,47135,6,4,3+,3,East,Old Property,1464.0,0,Sector 31 Gurgaon,0,0,0,0,1,0,5,5.0,5.0,5.0,4.0,4.75,49,3,6,9,0,0,0,0,0,0,0,0
+house,independent,0.5249999999999999,14780,2,2,1,2,South-East,Old Property,355.0,0,Ravi Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,laxmi garden sector-11,2.25,19177,12,9,1,3,East,Relatively New,1173.0,0,Laxmi Garden,1,1,0,1,1,2,50,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,15.0,348387,8,10,3+,1,West,Undefined,431.0,0,DLF Phase 3,0,0,0,0,0,0,0,4.0,5.0,5.0,4.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0
+house,ansal celebrity homes,7.800000000000001,15003,4,5,2,1,Na,Undefined,5199.0,1,Palam Vihar,0,0,0,0,0,0,0,5.0,5.0,5.0,4.0,4.75,26,2,2,2,1,0,0,0,0,0,0,0
+house,independent,0.6000000000000001,13272,1,1,0,1,Na,Moderately Old,452.0,0,Laxman Vihar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,1,0,0,0
+house,shri shyam residency,0.93,18783,3,3,1,2,Na,Moderately Old,495.0,1,Surat Nagar 1,0,0,0,0,1,1,6,4.0,4.0,4.0,3.0,3.75,50,3,7,3,2,0,0,0,0,1,0,0
+house,independent,0.75,13935,5,3,2,3,West,Old Property,538.0,0,Laxman Vihar Phase 2,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,15,5,0,0,0,0,0,0,0,0
+house,independent,7.5,347,6,5,3+,2,Na,New Property,216138.0,0,Sector 50 Gurgaon,1,1,0,1,1,0,0,5.0,5.0,5.0,4.0,4.75,45,3,3,7,0,1,0,0,0,0,0,0
+house,independent,1.38,22894,4,4,3,4,East,Moderately Old,603.0,0,Laxman Vihar Phase 2,0,0,0,0,1,0,0,4.0,4.0,5.0,4.0,4.25,49,1,15,5,0,0,0,0,0,0,0,0
+house,independent,5.25,325161,6,6,3+,3,North-West,Undefined,161.0,1,"Sector 17, Delhi Gurgaon Expressway, Sector 17 Gurgaon",0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,not applicable,1.2000000000000002,79631,5,4,3,3,Na,Under Construction,151.0,0,Laxman Vihar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,14,5,0,0,0,0,0,0,0,0
+house,independent,2.25,21330,2,3,2,1,North,New Property,1055.0,0,Sohna,1,0,0,1,0,2,41,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,1,0,0,1,0,0,0
+house,independent,3.375,9559,3,5,3+,10,South,Undefined,3531.0,1,Sector 103 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,20.25,55991,5,6,3+,4,North-East,Old Property,3617.0,0,DLF Phase 2,0,0,0,0,1,2,50,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,independent,0.75,139355,12,4,3,4,Na,Old Property,54.0,0,Rajiv Nagar,0,0,0,0,0,0,9,3.0,4.0,5.0,4.0,4.0,50,1,11,11,0,0,0,0,0,0,0,0
+house,mian wali,2.55,14186,1,1,1,1,Na,Old Property,1798.0,0,Mianwali Colony,0,1,0,0,0,0,5,3.0,4.0,4.0,4.0,3.75,50,1,15,3,0,0,0,0,0,0,0,0
+house,independent,0.675,7465,3,2,1,2,North-West,Old Property,904.0,0,Baldev Nagar,0,0,0,0,1,0,4,4.0,4.0,4.0,4.0,4.0,50,1,25,1,0,0,0,0,0,0,0,0
+house,independent,1.7999999999999998,15202,6,2,1,2,North-West,Old Property,1184.0,0,Rajendra Park,0,0,0,0,0,0,10,4.0,4.0,4.0,4.0,4.0,31,1,9,4,0,0,1,0,0,0,0,0
+house,independent,2.7,15020,4,3,1,1,North-East,Old Property,1798.0,0,Patel Nagar,0,0,0,0,0,0,14,4.0,4.0,4.0,4.0,4.0,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,2.25,13843,5,3,2,2,Na,New Property,1625.0,0,Sector 67 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,palam vihar extension west zone rwa,0.5249999999999999,8710,2,2,0,1,North-East,New Property,603.0,0,Palam Vihar Extension,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,48,3,5,11,1,0,0,0,0,0,0,0
+house,independent,0.8250000000000001,10085,2,2,1,2,South-East,Moderately Old,818.0,1,"Street No 3, Phase 2, Sector 3A Gurgaon",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,huda plot sector 38,6.449999999999999,399483,13,13,3+,5,North-West,Relatively New,161.0,1,"Islampur Village, Sector 38",0,0,0,0,0,1,0,4.0,4.0,5.0,4.0,4.25,47,4,5,6,0,0,0,0,0,0,0,0
+house,not applicable,0.6000000000000001,13935,1,1,1,1,Na,Moderately Old,431.0,0,Laxman Vihar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,14,5,0,0,0,0,1,0,0,0
+house,independent,4.5,17866,4,4,0,3,North-East,Undefined,2519.0,0,"Gurgaon, Haryana, India, Sector 67 Gurgaon",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,18,0,6,6,0,1,0,0,0,0,0,0
+house,row house,0.645,13935,3,3,3,2,Na,Relatively New,463.0,1,"Near Railway Station, Rajendra Park",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,38,2,11,4,0,0,0,0,0,0,0,0
+house,independent,0.48,10618,2,3,1,1,North-East,Relatively New,452.0,1,"Sector 8, Arjun Nagar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.705,11293,2,1,1,1,East,Moderately Old,624.0,0,Laxman Vihar Phase 2,0,0,1,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,15,5,0,0,0,0,0,0,0,0
+house,ardee city3.8 â˜…,8.25,273732,9,9,3+,3,South,Moderately Old,301.0,0,Sector 52 Gurgaon,0,1,0,1,1,2,14,4.0,5.0,5.0,4.0,4.5,44,2,5,8,0,0,0,0,0,0,0,0
+house,madan puri,1.125,18664,3,5,3,3,South-East,Moderately Old,603.0,0,Madanpuri,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,50,1,23,1,0,0,0,0,0,0,0,0
+house,independent,1.065,15222,4,2,1,2,Na,New Property,700.0,0,Surat Nagar,0,0,0,0,0,0,0,3.0,3.0,4.0,4.0,3.5,49,1,14,5,0,0,0,0,0,0,0,0
+house,independent,0.5700000000000001,12608,2,2,1,1,Na,Moderately Old,452.0,0,Rajendra Place,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,0,0,0,0
+house,indiabulls centrum park3.7 â˜…,4.875,12175,4,3,3+,20,Na,Undefined,4004.0,0,Sector 103 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,15,1,1,0,1,0,0,0,1,0,0,0
+house,jacobpura,0.795,22381,4,4,2,3,East,Relatively New,355.0,0,Jacobpura,0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,50,1,20,2,0,0,0,0,0,0,0,0
+house,huda flats,3.45,25641,5,3,3+,3,North-East,Old Property,1346.0,0,Sector 7 Gurgaon,1,1,0,1,0,0,14,4.0,4.0,4.0,4.0,4.0,50,1,22,5,0,0,0,0,0,0,0,0
+house,independent,2.25,17275,10,7,3,4,East,Moderately Old,1302.0,0,Rajiv Nagar,0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,50,1,11,11,0,0,0,0,0,0,0,0
+house,rattan garden,1.65,13102,9,3,3,3,Na,Old Property,1259.0,0,Rattan Garden,0,0,0,0,0,0,5,3.0,4.0,3.0,4.0,3.5,50,1,17,1,0,0,0,0,0,0,0,0
+house,independent,2.0250000000000004,15050,5,5,1,3,Na,Old Property,1346.0,1,Mianwali Colony,0,0,0,0,0,0,24,3.0,4.0,4.0,4.0,3.75,7,0,1,0,0,0,0,0,0,0,0,0
+house,krishna palace,1.95,21567,6,4,2,3,North-East,Moderately Old,904.0,0,Sadar Bazar,1,0,0,0,1,0,4,5.0,5.0,5.0,5.0,5.0,50,1,18,4,0,0,0,0,0,0,0,0
+house,independent,1.875,17419,5,5,1,2,South,New Property,1076.0,1,"8 Biswa, Daya Kishan Katariya Marg, Dayanand Colony",0,0,0,1,0,0,0,4.0,5.0,5.0,4.0,4.5,50,1,13,5,0,0,0,0,0,0,0,0
+house,dlf city plots phase 3,2.16,40134,4,2,2,1,Na,Old Property,538.0,0,DLF Phase 3,0,0,0,0,0,0,5,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,0,0,0,0,0,0
+house,naman residency,0.75,16590,2,2,2,2,West,New Property,452.0,0,Laxman Vihar,1,1,0,1,1,0,9,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,0,0,0,0
+house,independent,1.5,12332,9,7,3+,3,North,Moderately Old,1216.0,0,"Gali No 15, Palam Vihar Extension",0,0,0,1,0,0,0,4.0,4.0,4.0,4.0,4.0,48,3,5,11,1,0,0,0,0,0,0,0
+house,independent,8.25,19653,9,9,3+,3,South,Moderately Old,4198.0,0,Sector 23A Gurgaon,0,1,0,0,1,2,0,5.0,4.0,4.0,5.0,4.5,26,2,2,3,1,0,0,0,0,0,0,0
+house,housing board colony,8.25,45895,4,3,3,2,North,Old Property,1798.0,0,Saraswati Vihar,0,0,0,1,1,0,13,4.0,5.0,5.0,4.0,4.5,48,0,5,12,3,0,0,0,0,0,0,0
+house,independent,1.2000000000000002,17696,5,3,1,2,Na,Moderately Old,678.0,0,Laxman Vihar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,0,0,0,0
+house,independent,1.35,14931,7,4,3+,4,Na,Moderately Old,904.0,0,Shakti Nagar,0,0,0,0,0,0,4,4.0,4.0,5.0,4.0,4.25,50,0,25,1,0,0,0,0,0,0,0,0
+house,independent,6.449999999999999,44061,6,4,2,2,Na,Moderately Old,1464.0,0,Sector 47 Gurgaon,0,0,0,0,1,0,0,5.0,4.0,5.0,5.0,4.75,47,4,2,4,0,0,0,0,0,0,0,0
+house,sai kripa floors 5,1.35,16949,5,5,3,3,Na,Relatively New,797.0,0,Sector 11 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,23,2,0,0,0,0,1,0,0,0
+house,independent,4.875,45748,4,4,3,3,Na,Old Property,1066.0,0,DLF Phase 3,0,0,0,0,0,0,9,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,0,0,0,0,0,0
+house,independent,0.5700000000000001,12608,1,1,1,1,North-West,Moderately Old,452.0,0,"Laxman Vihar, Railway Road,Gurgaon",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,14,5,0,1,0,0,0,0,0,0
+house,independent,5.565,29713,3,3,1,4,Na,Moderately Old,1873.0,0,Mianwali Colony,0,0,0,1,0,0,0,3.0,4.0,4.0,4.0,3.75,50,1,15,3,0,0,0,0,0,0,0,0
+house,dlf city plot phase 4,19.5,2988,10,10,3+,1,Na,Undefined,65261.0,0,"Sector 28, DLF Phase 4",0,0,0,0,0,0,0,5.0,4.0,5.0,5.0,4.75,47,0,6,5,4,0,0,0,0,0,0,0
+house,independent,0.6000000000000001,11376,2,2,1,1,Na,Relatively New,527.0,0,Palam Vihar Extension,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.8250000000000001,153290,4,4,0,2,Na,Undefined,54.0,1,"Sector 105, Rajendra Park",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,rattan garden,1.95,20355,5,3,2,3,Na,Old Property,958.0,1,"Sector 7, New Colony",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,50,1,14,4,0,0,0,0,0,0,0,0
+house,signature global city 92,1.125,11743,2,2,3,1,Na,Undefined,958.0,1,Sector 92,0,0,0,0,0,0,0,5.0,4.0,4.0,3.0,4.0,11,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.4499999999999999,8361,1,1,2,1,Na,New Property,538.0,0,sector-5 sheetla colony,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.27,5972,2,1,1,1,East,Relatively New,452.0,0,Damdma,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.325,22041,2,3,2,1,North,New Property,1055.0,0,Sohna,1,0,0,1,0,2,33,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,1,0,0,0
+house,independent,0.48,8576,5,1,0,1,Na,Undefined,560.0,1,Garhi Harsaru,0,0,0,0,0,0,0,4.0,3.0,4.0,3.0,3.5,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,6.0,29650,5,4,1,2,North-East,Undefined,2024.0,1,Sector 11 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,46,2,10,2,1,0,0,0,0,0,0,0
+house,independent,0.5700000000000001,105910,2,2,2,1,Na,Undefined,54.0,0,"Sector 105, Rajendra Park",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,unitech escape3.8 â˜…,18.0,55557,5,6,3+,3,East,Undefined,3240.0,0,"Sector 50, Nirvana Country",0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,11,1,1,0,1,0,0,0,0,0,0,0
+house,project housing board colony,12.0,95285,2,1,0,1,Na,Undefined,1259.0,1,Sector 31 Gurgaon,0,0,0,0,0,0,0,5.0,5.0,5.0,4.0,4.75,49,4,6,8,0,0,0,0,0,0,0,0
+house,independent,0.675,13633,1,1,1,3,East,Undefined,495.0,0,Sector 8 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.7999999999999998,6662,7,3,0,3,Na,Undefined,2702.0,1,Sector 11 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,bhim nagar society,0.6000000000000001,3741,4,2,2,1,East,Undefined,1604.0,1,Sector 6 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,26,0,4,0,0,0,0,0,0,0,0,0
+house,independent,1.5,10026,1,1,0,1,Na,Undefined,1496.0,1,Ashok Vihar Phase 3 Extension,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,48,2,10,2,1,0,0,0,0,0,0,0
+house,independent,0.75,5574,5,2,0,2,Na,Undefined,1346.0,1,Delhi NCR,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.725,19078,2,2,3,4,North,Undefined,904.0,0,New Jyoti Park,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,23,5,0,0,0,0,0,0,0,0
+house,independent,1.0499999999999998,9954,3,3,0,1,Na,Undefined,1055.0,1,"Sector 3a, Laxman Vihar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,shivaji nagar residential,4.62,17100,6,4,2,1,Na,Undefined,2702.0,1,Shivaji Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,19,2,0,0,0,0,0,0,0,0
+house,independent,4.425000000000001,30452,2,2,0,1,North,Undefined,1453.0,1,Sector 56 Gurgaon,0,0,0,0,0,0,0,4.0,5.0,5.0,4.0,4.5,45,1,5,14,3,0,0,0,0,0,0,0
+house,unitech uniworld resorts,12.0,26671,6,5,3+,4,Na,Undefined,4499.0,1,Sector 33 Gurgaon,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,vatika india next4.1 â˜…,9.75,30093,4,3,0,2,Na,Undefined,3240.0,1,Sector 82 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,8,1,1,0,0,0,0,0,0,0,0,0
+house,independent,4.5,17275,7,7,0,3,Na,Undefined,2605.0,1,Sector 7 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,raj villas,12.0,38311,6,5,3+,4,East,Undefined,3132.0,0,"Sector 63,gurgaon, Sector 52 Gurgaon",0,0,0,0,0,0,0,4.0,5.0,5.0,4.0,4.5,5,0,1,1,0,0,0,0,0,0,0,0
+house,independent,4.125,18513,6,6,2,2,Na,Undefined,2228.0,1,Sector 12A Gurgaon,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,3.375,25286,5,3,0,2,Na,Undefined,1335.0,1,Sector 7 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.175,12100,3,2,1,1,North,Relatively New,1798.0,1,Gandhi Nagar,0,0,0,0,0,0,0,4.0,4.0,5.0,3.0,4.0,12,0,5,0,0,0,0,0,0,0,0,0
+house,independent,5.25,23909,3,3,1,2,North-East,Undefined,2196.0,1,"Lajpat Nagar Near Miawali Colony, Lajpat Nagar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.23,5860,3,2,1,1,North,Undefined,2099.0,0,Sohna Gurgaon Road,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,46,1,6,6,0,0,0,0,0,0,0,0
+house,sobha city,15.75,21486,5,4,3+,1,East,Undefined,7330.0,1,Sector 108 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,13,1,1,0,0,0,0,0,0,0,0,0
+house,independent,0.5700000000000001,6304,3,3,3,3,Na,Relatively New,904.0,0,Jacobpura,0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,50,1,20,2,0,0,0,0,0,0,0,0
+house,unitech uniworld resorts,15.0,273244,5,6,3,4,North-East,New Property,549.0,0,Sector 33 Gurgaon,1,1,0,0,0,0,14,3.0,4.0,4.0,4.0,3.75,47,1,19,0,0,0,1,0,0,0,0,0
+house,mahavir pura,1.125,116129,2,3,2,3,Na,Old Property,97.0,0,Mahavir pura,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,2,16,2,0,0,0,0,0,0,0,0
+house,independent,6.9,39816,7,6,3+,4,Na,Moderately Old,1733.0,0,Malibu Town,0,0,0,0,0,2,28,5.0,4.0,5.0,5.0,4.75,45,3,2,5,0,0,0,0,0,0,0,1
+house,independent,0.75,8295,2,1,2,1,Na,Moderately Old,904.0,0,Sohna Road,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,47,3,6,4,0,0,0,0,0,0,0,0
+house,independent,10.5,295601,10,11,3+,4,South-East,Relatively New,355.0,1,Sector 39 Gurgaon,0,0,0,1,0,2,14,4.0,4.0,5.0,4.0,4.25,49,5,5,8,0,0,0,0,0,0,0,0
+house,independent,1.4249999999999998,14235,5,3,2,2,West,Relatively New,1001.0,0,Sector 37B Gurgaon,0,0,0,1,0,0,0,4.0,4.0,5.0,4.0,4.25,21,0,8,0,0,0,0,0,0,0,0,0
+house,independent,2.4000000000000004,26864,1,1,2,2,Na,Old Property,893.0,0,Sector 39 Gurgaon,0,0,0,0,0,0,23,4.0,4.0,5.0,4.0,4.25,48,6,5,9,0,1,0,0,1,0,0,0
+house,independent,0.4349999999999999,4869,2,1,0,0,West,Old Property,893.0,0,Garhi Harsaru,0,0,0,0,0,0,0,4.0,3.0,4.0,3.0,3.5,0,0,0,0,0,0,0,0,0,0,0,0
+house,"nirmal enclave, maruti kunj road",0.36,7963,2,2,0,2,North,Relatively New,452.0,0,Bhondsi,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,8.399999999999999,46730,4,3,3+,3,South-West,Moderately Old,1798.0,0,G block DLF City Phase 1,0,0,0,0,0,0,17,4.0,4.0,5.0,4.0,4.25,45,0,5,8,7,0,0,0,0,0,0,0
+house,independent,0.8250000000000001,6905,2,2,0,2,North-East,Undefined,1195.0,0,"Gurgaon, Haryana, India, Manohar Nagar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,25,1,0,0,0,0,0,0,0,0
+house,ansals palam vihar,7.5,18730,6,4,0,3,Na,Undefined,4004.0,1,Palam Vihar,0,0,0,0,0,0,0,5.0,5.0,5.0,4.0,4.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.7,29862,1,1,2,3,North-East,Relatively New,904.0,1,Sector 39 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,48,6,6,9,0,0,0,0,0,0,0,0
+house,independent,2.25,24885,9,3,3+,3,Na,Undefined,904.0,0,Delhi NCR,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,ansal esencia sovereign floors,1.5750000000000002,10603,3,3,3,3,South-East,Undefined,1485.0,1,Park View,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,19,0,6,6,0,0,0,0,0,0,0,0
+house,independent,2.7,12118,8,5,2,1,South,Undefined,2228.0,0,"Near Shree Shyam Medical Store, Pataudi Chowk",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.66,6387,3,2,1,1,Na,Relatively New,1033.0,0,Bhondsi,0,0,0,1,1,0,28,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,1,1,0,1,1,0,0
+house,rattan garden,1.245,26287,5,3,2,3,East,Undefined,474.0,0,"Rattan Garden, New Colony, New Colony",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,50,1,14,4,0,0,0,0,0,0,0,0
+house,greenopolis,1.0499999999999998,8062,2,2,2,14,North-East,Undefined,1302.0,1,"gurgaon, Sector 89 Gurgaon",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.47,13657,9,4,3,1,South,Undefined,1076.0,0,Palam Vihar Extension,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,vipul world3.9 â˜…,5.025,8381,6,5,3+,3,South,Undefined,5996.0,1,Sector 48 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,15,2,3,1,0,0,0,0,0,0,0,0
+house,independent,0.705,5240,3,4,0,3,Na,Undefined,1345.0,1,"Sector 3a, Laxman Vihar",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.7999999999999998,16723,5,4,2,3,Na,Undefined,1076.0,1,"Sector 7, Jyoti Park",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,50,1,24,5,0,0,0,0,0,0,0,0
+house,independent,13.5,149309,10,5,3+,4,Na,Old Property,904.0,0,Rajiv Nagar,0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,50,1,11,11,0,0,0,0,0,0,0,0
+house,spaze privy3.9 â˜…,4.635,12702,5,5,3+,14,East,Relatively New,3649.0,1,"Tower- H, Spaze Privy Sector -72,gurgaon, Sector 72 Gurgaon",0,1,0,0,0,0,16,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,satya the hermitage3.5 â˜…,4.725,10045,4,5,0,12,East,Undefined,4704.0,1,Sector 103 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,15,1,1,0,2,0,0,0,0,0,0,0
+house,independent,2.55,14186,3,3,0,1,Na,Undefined,1798.0,1,Sector 12A Gurgaon,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,50,1,16,3,0,0,0,0,0,0,0,0
+house,independent,7.125,15836,6,7,0,4,Na,Undefined,4499.0,1,"palam Vihar , Hblock ... ..Opposite Nri Ansals Celebrity Homes ..., Sector 1 Gurgaon",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.475,27373,2,3,0,3,Na,Undefined,904.0,1,Sector 9 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,sare crescent parc royal greens phase 1,1.275,7312,4,4,3,4,Na,Undefined,1744.0,1,Sector 92 Gurgaon,0,0,0,0,0,0,0,5.0,4.0,4.0,3.0,4.0,8,0,0,0,0,0,0,0,0,0,0,0
+house,independent,3.0,11238,4,3,0,1,North,Undefined,2670.0,1,Sohna Gurgaon Road,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.11,11088,3,3,0,2,Na,Undefined,1001.0,1,"Sector 105, Vishnu Garden",0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.7750000000000004,24094,4,3,2,3,Na,Undefined,1152.0,0,Sector 1 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.6000000000000001,12118,2,1,0,1,South,Undefined,495.0,1,"Delhi Gurgaon Expressway, Ashok Vihar Phase 2",0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.275,14101,5,3,3,1,Na,Undefined,904.0,0,Ashok Vihar Phase 2,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.035,13736,1,1,1,2,Na,Undefined,753.0,1,Gali No 9,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,48,3,6,5,0,0,0,0,0,0,0,0
+house,anshul,1.275,11613,2,2,0,4,North-East,Undefined,1098.0,0,"Gurgaon, Haryana, India, Sector 6 Gurgaon",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,2,15,1,0,0,0,0,0,0,0,0
+house,independent,2.1,14036,2,2,1,2,North-East,Old Property,1496.0,0,Subhash Nagar,0,0,0,0,0,0,0,3.0,4.0,5.0,4.0,4.0,50,1,18,1,0,0,0,0,0,0,0,0
+house,independent,2.7,8927,5,5,3+,3,Na,Moderately Old,3025.0,0,ravi nager basai road,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,1.0499999999999998,5245,4,4,0,2,East,Undefined,2002.0,0,"Gurgaon, Haryana, India, Begampur Khatola",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,14,0,3,1,0,0,1,0,0,0,0,0
+house,independent,1.0499999999999998,14559,4,3,2,3,West,Relatively New,721.0,0,Dhankot,0,0,1,1,0,0,4,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,shivpuri,3.6,13325,10,5,3,2,North,Old Property,2702.0,0,Shivpuri,1,1,0,1,0,0,0,4.0,5.0,5.0,5.0,4.75,50,1,12,5,0,0,1,0,0,0,0,0
+house,independent,5.025,40595,1,1,0,1,East,Old Property,1238.0,0,C Block Sushant Lok Phase 1,0,0,0,0,0,0,10,4.0,4.0,4.0,4.0,4.0,46,1,4,5,2,0,0,0,0,0,0,0
+house,independent,10.5,48531,3,2,0,1,Na,Undefined,2164.0,1,Nirvana Country,0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.475,20715,1,1,0,1,Na,Undefined,1195.0,1,Sector 41,0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,49,1,3,9,1,0,0,0,0,0,0,0
+house,independent,0.8999999999999999,8991,1,1,0,1,Na,Undefined,1001.0,1,Sector 3a,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,14,5,0,0,0,0,0,0,0,0
+house,independent,3.645000000000001,22278,4,4,2,3,South-West,Old Property,1636.0,1,Shivpuri,1,0,1,1,0,0,26,4.0,5.0,5.0,5.0,4.75,50,1,20,4,0,0,0,1,0,0,0,0
+house,independent,5.25,13817,1,1,0,1,Na,Undefined,3800.0,1,"Sector 3, Sohna",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,0.51,10300,1,1,0,1,Na,Undefined,495.0,1,Sector 110,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,36,2,6,2,1,0,0,0,0,0,0,0
+house,independent,1.125,15836,6,4,1,3,Na,Moderately Old,710.0,0,Sector 6 Gurgaon,0,0,0,0,0,0,30,4.0,4.0,5.0,4.0,4.25,50,2,15,1,0,0,0,0,0,0,0,0
+house,independent,0.8250000000000001,10949,1,1,0,1,Na,Undefined,753.0,1,"Laxman Vihar, Sector 3a",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,14,5,0,0,0,0,0,0,0,0
+house,independent,1.0499999999999998,12194,4,2,0,2,North,Old Property,861.0,0,Gandhi Nagar,0,0,0,0,0,0,4,4.0,4.0,5.0,3.0,4.0,50,0,24,0,0,0,0,0,0,0,0,0
+house,independent,9.375,10418,3,3,0,1,Na,Moderately Old,8999.0,0,Sohna Road,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,47,3,6,4,0,0,0,0,1,0,0,0
+house,independent,1.7999999999999998,21168,4,4,2,2,North,Relatively New,850.0,1,Sector 12,0,0,0,1,0,2,5,3.0,4.0,5.0,4.0,4.0,50,1,20,2,0,0,0,0,0,0,0,0
+house,independent,0.735,6382,2,2,1,3,Na,New Property,1152.0,0,Sohna Road,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,47,3,6,4,0,0,0,0,1,0,0,0
+house,hans enclave,3.0,15836,10,10,3,3,Na,Moderately Old,1894.0,1,Rajiv Chowk,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,48,2,17,3,0,0,0,0,1,0,0,0
+house,independent,0.5549999999999999,13935,1,1,0,3,Na,Moderately Old,398.0,0,devi lal colony gali no 12 gurgaon nr omkar public school,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,1,0,0,0
+house,ss omnia,0.63,117058,5,3,2,3,Na,Relatively New,54.0,0,Sector 86 Gurgaon,0,0,0,0,0,0,0,5.0,5.0,4.0,4.0,4.5,9,0,0,0,0,0,0,0,0,0,0,0
+house,independent,1.125,10452,3,1,0,1,Na,Undefined,1076.0,1,"Gurgaon, Sector 36 Gurgaon",0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,15,0,5,0,0,0,0,0,0,0,0,0
+house,independent,5.25,23337,10,1,0,1,Na,New Property,2250.0,1,Sector 11,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,50,1,23,2,0,0,0,0,0,0,0,0
+house,independent,6.75,50168,5,5,3+,2,Na,Old Property,1345.0,0,DLF Phase 1,0,0,0,0,0,0,4,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,1.7399999999999998,11304,1,1,0,1,Na,Undefined,1539.0,1,Sector 37d,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,3,0,2,0,0,0,0,0,0,0,0,0
+house,independent,1.35,14931,3,4,3,3,Na,Moderately Old,904.0,1,Ashok Vihar,0,0,0,0,1,2,14,4.0,4.0,5.0,4.0,4.25,48,3,10,2,1,0,0,0,0,0,0,0
+house,suncity avenue 76,1.125,15147,2,2,2,11,North-East,New Property,743.0,1,Sector 76 Gurgaon,0,0,0,0,0,0,23,4.0,4.0,5.0,4.0,4.25,6,1,1,0,0,0,0,0,0,0,0,0
+house,independent,0.195,2482,1,1,0,0,North-West,Relatively New,786.0,0,Sohna Road,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,sheetla enclave,1.44,15202,7,4,2,3,Na,Moderately Old,947.0,0,Sector 5 Gurgaon,0,0,1,1,0,0,0,4.0,4.0,5.0,4.0,4.25,49,2,10,5,0,0,0,0,0,0,0,0
+house,sneh vihar,2.0250000000000004,15050,5,5,3+,4,Na,Relatively New,1346.0,0,Sohna Road,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,47,3,6,4,0,0,0,0,1,0,0,0
+house,not applicable,0.975,19691,2,1,1,3,East,Moderately Old,495.0,0,Laxman Vihar,0,0,0,0,0,0,4,4.0,4.0,5.0,4.0,4.25,49,1,14,5,0,0,0,0,0,0,0,0
+house,independent,16.5,43302,8,11,3+,3,East,Old Property,3810.0,1,DLF Phase 3,1,1,0,1,1,2,33,4.0,5.0,5.0,4.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0
+house,adani brahma samsara4.2 â˜…,27.03,42276,9,12,3+,3,North-East,Relatively New,6394.0,1,Sector 60 Gurgaon,0,1,0,0,0,2,67,4.0,5.0,3.0,4.0,4.0,12,1,1,0,1,0,1,0,0,0,0,0
+house,independent,0.99,12102,2,2,3,4,Na,New Property,818.0,1,Sector 36 Sohna,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,1,0,0,0,0,0
+house,independent,6.9,30671,1,1,0,1,Na,Undefined,2250.0,1,"Gurgaon, Sector 14 Gurgaon",0,0,0,0,0,0,0,4.0,5.0,5.0,4.0,4.5,50,3,10,12,0,0,0,0,0,0,0,0
+house,independent,2.85,52955,3,3,3+,3,Na,Old Property,538.0,1,Sushant Lok I,0,0,0,0,0,1,0,5.0,5.0,5.0,5.0,5.0,46,0,4,5,3,0,0,0,0,0,0,0
+house,signature global city 63a,2.25,9416,3,3,2,1,Na,New Property,2390.0,1,Sector 63,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,5,0,1,1,0,0,0,0,0,0,0,0
+house,independent,3.75,26799,5,4,3,1,East,Old Property,1399.0,1,Shivaji Nagar,0,0,1,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,2,21,3,0,0,0,0,0,0,0,0
+house,independent,1.0499999999999998,10489,2,2,1,5,North-East,Undefined,1001.0,1,Daulatabad,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,rattan vihar rajendra park,1.275,21152,5,5,3+,4,Na,New Property,603.0,0,Dwarka Expressway Gurgaon,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,7,0,3,0,0,0,0,0,1,0,0,0
+house,suncity township4.1 â˜…,3.0,46452,9,9,3,11,North,Relatively New,646.0,1,Sector 54 Gurgaon,0,1,0,0,0,2,0,4.0,5.0,4.0,4.0,4.25,48,1,6,13,4,0,0,0,0,0,1,1
+house,independent,1.0499999999999998,11613,1,1,0,1,Na,Undefined,904.0,1,Palam Vihar Extension,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,48,3,5,11,1,0,0,0,0,0,0,0
+house,independent,1.335,28188,5,3,2,2,East,Old Property,474.0,0,New Colony,0,0,0,0,0,0,5,4.0,4.0,4.0,4.0,4.0,50,1,18,2,0,0,0,0,0,0,0,0
+house,independent,1.2000000000000002,15702,1,1,0,1,Na,Undefined,764.0,1,"Gurgaon, Sector 69 Gurgaon",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,43,0,7,10,0,0,0,0,0,0,0,1
+house,independent,2.4000000000000004,247742,3,2,2,41,Na,Relatively New,97.0,0,Golf Course Road,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,46,0,2,7,3,0,0,0,1,0,0,0
+house,independent,1.335,12159,1,1,0,1,Na,Undefined,1098.0,1,Sector 81,0,0,0,0,0,0,0,4.0,4.0,3.0,4.0,3.75,13,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.01,7499,1,1,0,1,Na,Undefined,2680.0,1,"Gurgaon, Sector 108 Gurgaon",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,2.55,12737,5,5,3,3,Na,Moderately Old,2002.0,1,Jacobpura,0,0,0,1,1,0,10,3.0,4.0,5.0,4.0,4.0,50,1,20,2,0,0,0,0,0,0,0,0
+house,independent,0.51,11281,1,1,1,1,Na,Undefined,452.0,1,Sector 39,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,5,5,8,0,0,0,0,0,0,0,0
+house,independent,14.85,74173,2,2,2,3,North,Undefined,2002.0,1,"Rajendera Park, Sector 105",0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,33,1,10,4,0,0,0,0,0,0,0,0
+house,ashok vihar phase iii extension,0.6000000000000001,13272,7,4,3+,4,Na,New Property,452.0,0,"Street Number 7, Ashok Vihar Phase 3 Extension",0,0,0,1,0,0,4,3.0,4.0,4.0,4.0,3.75,47,1,10,5,0,1,0,0,0,0,1,0
+house,independent,3.225,19583,1,1,0,1,Na,Undefined,1647.0,1,Sushant Lok I,0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,47,1,5,6,2,0,0,0,0,0,0,0
+house,ansal,2.7750000000000004,429677,8,8,3+,5,North-West,Relatively New,65.0,0,C Block Sushant Lok Phase 1,0,0,0,0,0,0,34,4.0,4.0,4.0,4.0,4.0,46,1,4,5,2,0,1,0,0,0,0,1
+house,independent,0.675,12542,4,2,1,2,Na,Relatively New,538.0,0,Saraswati Enclave,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,44,0,25,0,0,0,0,0,0,0,0,0
+house,independent,0.8699999999999999,15848,2,3,2,2,South-East,Relatively New,549.0,1,Sec 3 Bhim Vihar Part 1 Bhimgher Kheri,0,0,0,0,0,0,6,4.0,4.0,5.0,4.0,4.25,49,2,13,5,0,0,1,0,0,0,0,0
+house,independent,2.55,28203,5,4,3+,3,East,Moderately Old,904.0,1,Near euro international School,0,0,0,0,0,0,18,4.0,4.0,5.0,4.0,4.25,50,0,27,1,0,0,0,0,0,0,0,0
+house,independent,0.6900000000000001,10865,6,3,3,3,Na,Moderately Old,635.0,0,West Rajiv Nagar,0,0,0,0,0,0,0,3.0,4.0,5.0,3.0,3.75,50,2,14,2,0,0,0,0,0,0,0,0
+house,independent,1.2000000000000002,12251,5,4,1,2,Na,Moderately Old,980.0,0,Sector 3 Gurgaon,0,0,0,0,0,0,0,4.0,4.0,4.0,4.0,4.0,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,0.8699999999999999,15848,2,3,2,2,South-East,Relatively New,549.0,1,"Gurgaon, Haryana, India, Bhimgarh Kheri Phase 3",0,0,0,0,0,0,6,4.0,4.0,5.0,4.0,4.25,49,2,13,5,0,0,1,0,0,0,0,0
+house,independent,3.9,36232,4,4,3+,4,Na,Relatively New,1076.0,0,DLF Phase 3,1,0,1,1,0,2,0,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,1,0,0,0,0,0
+house,project mianwali colony,3.0,22297,5,5,2,3,East,Undefined,1345.0,1,Near Bus Stand,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,50,2,13,3,0,0,0,0,0,0,0,0
+house,independent,5.805,35715,19,17,3+,5,North-West,Relatively New,1625.0,1,Sector 17A Gurgaon,1,0,1,0,0,0,33,4.0,4.0,5.0,5.0,4.5,48,0,5,13,1,0,0,0,0,0,1,0
+house,independent,0.975,226451,3,3,2,3,East,Old Property,43.0,0,HUDA Saraswati Vihar,0,0,0,0,0,0,9,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,0,0,0,0
+house,independent,3.375,14449,3,2,1,1,North-East,Old Property,2336.0,1,Acharya Puri,0,1,0,1,0,0,6,4.0,5.0,5.0,5.0,4.75,50,2,15,2,0,0,0,0,0,0,0,0
+house,nitin vihar,1.275,14101,3,2,0,1,West,Relatively New,904.0,0,Sector 33 Gurgaon,0,0,0,0,0,0,4,3.0,4.0,4.0,4.0,3.75,47,1,19,0,0,0,0,0,0,0,1,0
+house,hans enclave,3.0,15147,11,10,3,3,East,Old Property,1981.0,1,Rajiv Chowk,0,0,1,1,0,0,10,3.0,4.0,4.0,4.0,3.75,48,2,17,3,0,0,0,0,0,0,0,0
+house,sector 15 part 2 rwa,15.0,33180,5,5,2,2,East,Old Property,4521.0,0,Sector 15 Gurgaon,0,0,0,0,0,0,33,4.0,4.0,5.0,5.0,4.5,50,3,10,16,0,0,0,0,0,0,0,0
+house,independent,5.25,48774,5,4,3,3,North-West,Old Property,1076.0,0,DLF Phase 3,0,0,0,0,0,0,9,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,0,0,0,0,0,0
+house,independent,0.8250000000000001,10219,2,1,1,1,Na,Moderately Old,807.0,0,Laxman Vihar,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,49,1,12,5,0,0,0,0,1,0,0,0
+house,independent,2.085,38741,2,2,1,3,North-East,Old Property,538.0,1,DLF Phase 4,0,0,1,0,0,0,26,5.0,4.0,5.0,5.0,4.75,47,0,5,8,3,0,0,0,0,0,0,0
+house,independent,1.0499999999999998,9032,3,3,0,1,North-East,Relatively New,1163.0,0,Dharam Colony,0,0,0,0,0,0,19,4.0,4.0,4.0,4.0,4.0,49,3,9,6,1,0,0,0,0,0,0,0
+house,independent,0.885,15226,2,2,2,2,Na,Moderately Old,581.0,0,Sector 8 Gurgaon,0,0,0,0,1,0,4,4.0,4.0,5.0,4.0,4.25,50,0,23,1,0,0,0,0,0,0,0,0
+house,independent,6.0,26671,5,5,2,3,Na,Relatively New,2250.0,0,"Sushant Lok Phase 1, E-Block, Backside Of Sai Temple, Sector 53 Gurgaon",1,0,0,0,0,0,18,4.0,5.0,5.0,4.0,4.5,47,1,6,12,3,0,0,0,0,0,0,0
+house,independent,18.75,60907,6,5,3,4,East,Moderately Old,3078.0,0,Sector 50 Gurgaon,1,1,0,1,0,2,20,5.0,5.0,5.0,4.0,4.75,45,3,3,7,0,0,0,0,0,0,0,0
+house,u block dlf phase 3 road no 21,2.4000000000000004,44594,7,5,3+,4,Na,Old Property,538.0,0,DLF Phase 3,0,0,0,0,0,0,0,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,0,0,0,0,0,0
+house,dlf city plots phase 3,2.4000000000000004,44594,8,5,3+,4,East,Old Property,538.0,1,DLF Phase 3,0,0,0,0,0,0,5,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,0,0,0,0,0,0
+house,independent,4.35,16101,7,7,3,2,South-West,Old Property,2702.0,0,Mianwali Colony,0,0,0,0,0,0,4,3.0,4.0,4.0,4.0,3.75,50,1,15,3,0,0,0,0,0,0,0,0
+house,palam vihar extension west zone rwa,0.6000000000000001,6636,6,4,2,2,West,Moderately Old,904.0,0,Palam Vihar Extension,0,0,0,0,0,0,14,4.0,4.0,4.0,4.0,4.0,43,3,5,8,1,0,0,0,0,0,1,0
+house,independent,2.55,28203,2,2,3+,3,Na,Moderately Old,904.0,0,Sector 39 Gurgaon,0,1,1,0,0,0,26,4.0,4.0,5.0,4.0,4.25,49,5,5,8,0,0,0,0,0,0,0,0
+house,cloudnine cottages,8.25,82414,3,3,0,1,Na,Moderately Old,1001.0,0,Sohna Road,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,47,3,6,4,0,0,0,0,1,0,0,0
+house,ss aaron ville,10.125,29580,5,4,2,2,North,Old Property,3423.0,0,Uppals Southend,1,1,1,0,0,0,43,5.0,5.0,5.0,5.0,5.0,4,1,1,0,0,0,0,0,0,0,0,0
+house,independent,8.25,7642,3,3,3+,2,West,Moderately Old,10796.0,1,Sohna Road,1,1,0,1,1,0,33,4.0,4.0,5.0,4.0,4.25,6,0,2,2,0,0,0,0,0,0,0,0
+house,landmark house,4.125,38323,3,3,1,2,South-East,Moderately Old,1076.0,0,"C Block, Sushant Lok, Gurugram, Haryana 122002, Sector 43 Gurgaon",0,0,0,1,0,0,14,4.0,4.0,5.0,4.0,4.25,46,0,4,5,2,0,0,0,0,0,0,0
+house,independent,0.405,17917,2,2,1,2,North-East,Moderately Old,226.0,0,Baldev Nagar,0,0,0,0,0,0,4,4.0,4.0,4.0,4.0,4.0,50,1,25,1,0,0,0,0,0,0,0,0
+house,independent,1.0499999999999998,10489,2,3,1,1,North,Relatively New,1001.0,0,"House No 49, Ashok Vihar Phase 3 Extension",0,0,1,1,0,0,9,3.0,4.0,4.0,4.0,3.75,46,1,10,1,1,0,0,0,0,0,0,0
+house,independent,1.4249999999999998,13372,10,10,3+,3,Na,New Property,1066.0,0,Sohna Road,0,0,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,47,3,6,4,0,0,0,0,0,0,0,0
+house,independent,12.15,52994,5,5,2,4,East,Old Property,2293.0,0,DLF Phase 1,0,0,0,0,0,0,29,5.0,5.0,5.0,5.0,5.0,46,0,5,9,6,0,0,0,0,0,0,0
+house,international city by sobha phase 2,10.5,19432,4,4,3+,2,West,Relatively New,5403.0,0,Sector 109 Gurgaon,0,0,0,0,0,2,60,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,independent,0.5700000000000001,12035,1,1,1,1,Na,Relatively New,474.0,1,"laxmna vihar, phase 2",0,0,0,0,1,0,19,4.0,4.0,5.0,4.0,4.25,50,1,22,1,0,0,0,0,0,0,0,0
+house,independent,0.8999999999999999,7671,7,3,1,2,North,Moderately Old,1173.0,0,"Gali No.12, Surat Nagar 1",0,0,0,0,0,0,0,4.0,4.0,4.0,3.0,3.75,50,1,18,1,0,0,0,0,0,0,0,0
+house,palam vihar extension west zone rwa,0.975,8627,2,2,1,1,North,Moderately Old,1130.0,0,Palam Vihar Extension,0,0,1,0,0,0,10,4.0,4.0,4.0,4.0,4.0,43,3,5,8,1,0,0,0,0,0,0,0
+house,independent,10.8,23889,4,4,2,1,Na,Old Property,4521.0,0,Sector 17B Gurgaon,0,1,1,0,0,0,0,5.0,5.0,5.0,5.0,5.0,46,0,4,4,3,0,0,0,0,0,0,0
+house,independent,2.25,16723,5,5,2,3,Na,Old Property,1345.0,0,Mianwali Colony,0,0,0,0,0,0,0,3.0,4.0,4.0,4.0,3.75,50,1,15,3,0,0,0,0,0,0,0,0
+house,nirvana country,15.0,21439,5,7,2,4,East,Moderately Old,6997.0,1,Sector 50 Gurgaon,0,1,0,0,0,2,0,5.0,5.0,5.0,4.0,4.75,45,3,3,7,0,0,0,0,0,0,0,0
+house,dlf city plots phase 2,23.25,51429,5,6,3+,3,East,Moderately Old,4521.0,0,DLF Phase 2,1,1,1,1,0,0,76,5.0,5.0,5.0,5.0,5.0,44,0,1,12,6,0,0,0,0,0,0,0
+house,independent,22.125,77859,16,20,3+,4,East,New Property,2842.0,0,DLF Phase 1,1,1,1,1,0,2,76,5.0,5.0,5.0,5.0,5.0,44,0,5,7,6,0,0,0,0,0,0,0
+house,dlf city plots,30.0,66359,16,20,3+,4,North-East,New Property,4521.0,0,DLF Phase 1,1,1,1,1,0,2,76,5.0,5.0,5.0,5.0,5.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,dlf city plots phase 4,14.31,44168,6,5,3+,3,North,New Property,3240.0,0,DLF Phase 4,1,1,1,1,0,0,76,5.0,4.0,5.0,5.0,4.75,47,0,5,7,4,0,0,0,0,0,0,0
+house,dlf city plots phase 2,15.825,58573,5,6,3+,3,East,Moderately Old,2702.0,0,DLF Phase 2,1,1,1,1,0,0,76,5.0,5.0,5.0,5.0,5.0,44,0,1,12,6,0,1,0,0,0,0,0
+house,dlf city plots,25.950000000000003,57401,6,7,3+,3,North,New Property,4521.0,0,DLF Phase 1,1,1,1,1,0,2,68,5.0,5.0,5.0,5.0,5.0,8,1,1,0,1,0,1,0,0,0,0,0
+house,independent,5.475,35079,9,9,3+,3,West,New Property,1561.0,0,Palam Vihar,0,1,0,1,0,2,69,5.0,5.0,5.0,4.0,4.75,30,2,4,2,1,0,0,0,0,0,0,0
+house,independent,28.35,62710,6,8,2,3,North-East,Relatively New,4521.0,0,DLF Phase 1,1,1,1,1,0,2,56,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,13.5,41668,8,5,3+,3,Na,Old Property,3240.0,0,South City 1,0,1,1,1,0,0,5,5.0,5.0,5.0,5.0,5.0,49,1,3,7,1,0,0,0,0,0,0,0
+house,emaar the palm springs,36.0,903922,5,5,2,1,North-East,Old Property,398.0,0,Sector 54 Gurgaon,1,1,0,1,0,2,69,4.0,5.0,4.0,4.0,4.25,9,1,1,0,1,0,0,0,0,0,0,0
+house,independent,3.225,35668,3,3,3,3,Na,Moderately Old,904.0,0,Sector 40 Gurgaon,1,0,1,1,0,0,27,4.0,4.0,4.0,4.0,4.0,48,5,4,10,1,0,0,0,0,0,0,0
+house,independent,3.375,37327,6,3,3+,3,North-West,Relatively New,904.0,0,Sector 51 Gurgaon,0,0,0,0,0,0,24,5.0,4.0,5.0,4.0,4.5,46,4,3,6,0,0,0,0,0,0,0,0
+house,experion windchants3.8 â˜…,11.19,17620,4,4,3+,2,East,Relatively New,6351.0,1,Sector 112 Gurgaon,0,1,0,1,0,0,41,5.0,4.0,4.0,3.0,4.0,8,1,2,0,0,0,0,0,0,0,0,0
+house,uppal southend4.0 â˜…,10.125,47992,12,12,3+,3,West,Moderately Old,2110.0,0,Uppals Southend,0,0,0,0,1,0,33,5.0,5.0,5.0,5.0,5.0,46,0,5,9,0,0,1,0,0,0,0,0
+house,independent,0.8999999999999999,16723,8,4,3,3,West,New Property,538.0,0,Sector 105 Gurgaon,0,0,0,0,0,0,15,4.0,4.0,4.0,4.0,4.0,33,1,10,4,0,0,0,0,0,0,0,0
+house,nirvana cedar crest,5.985,13302,4,5,3+,4,North-East,New Property,4499.0,0,Nirvana Country,0,1,0,1,0,0,59,5.0,5.0,5.0,5.0,5.0,46,3,2,7,0,0,0,0,0,0,0,0
+house,dlf city plots phase 2,9.75,54240,5,5,3+,3,East,Old Property,1798.0,0,DLF Phase 2,1,1,1,1,0,2,63,5.0,5.0,5.0,5.0,5.0,44,0,1,12,6,0,0,0,0,0,0,0
+house,kothi,10.425,23170,4,4,3+,2,Na,Old Property,4499.0,1,Sector 17B Gurgaon,1,1,1,1,0,0,19,5.0,5.0,5.0,5.0,5.0,46,0,4,4,3,0,0,0,0,0,0,0
+house,international city by sobha phase 2,10.5,16848,5,5,3+,2,South,Relatively New,6232.0,0,Sector 109 Gurgaon,0,1,0,0,0,0,61,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,birla navya,5.775,23126,3,3,3+,4,Na,New Property,2497.0,0,Sector 63A Gurgaon,0,1,0,0,0,2,76,4.0,4.0,4.0,5.0,4.25,12,0,1,0,1,0,0,0,0,0,0,0
+house,vatika signature villas,4.800000000000001,22186,3,4,3,1,Na,New Property,2164.0,0,Sector 82 Gurgaon,1,1,1,1,0,0,30,4.0,4.0,4.0,4.0,4.0,3,1,0,0,0,1,0,0,0,0,0,0
+house,malibu towne,13.215,40788,8,6,3+,3,East,Moderately Old,3240.0,0,Malibu Town,1,1,0,0,1,2,18,5.0,4.0,5.0,5.0,4.75,45,3,2,5,0,0,0,0,0,0,0,0
+house,independent,2.175,336774,4,4,3+,4,East,Relatively New,65.0,0,Sushant Lok Phase 2,0,0,1,0,0,0,42,4.0,4.0,5.0,4.0,4.25,46,1,6,14,2,0,0,0,0,0,0,0
+house,independent,13.35,49413,4,4,3+,2,South-East,Old Property,2702.0,0,DLF Phase 1,1,1,1,1,0,0,40,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,dlf city plots phase 2,9.75,50323,9,9,3+,3,West,Old Property,1937.0,0,DLF Phase 2,1,1,1,1,0,2,68,5.0,5.0,5.0,5.0,5.0,44,0,1,12,6,0,0,0,0,0,0,0
+house,independent,6.735,36591,9,9,3+,3,North-West,Moderately Old,1841.0,0,Sector 45 Gurgaon,0,0,0,0,1,2,55,4.0,4.0,5.0,4.0,4.25,48,5,5,10,1,1,0,0,0,0,0,0
+house,vipul tatvam villa,33.0,36672,5,6,3,3,Na,Moderately Old,8999.0,0,Sector 48 Gurgaon,0,1,0,0,0,0,34,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,0,0,0,0
+house,international city by sobha phase 2,14.25,39637,5,5,3+,2,South,Relatively New,3595.0,0,Sector 109 Gurgaon,1,1,1,1,0,0,69,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,vatika india next4.1 â˜…,10.5,295601,4,4,3+,3,North-East,Relatively New,355.0,1,Sector 82 Gurgaon,0,1,0,0,0,1,61,4.0,4.0,4.0,4.0,4.0,8,1,1,0,0,0,0,1,0,0,0,1
+house,independent,6.2250000000000005,27671,5,4,2,2,North-West,Old Property,2250.0,0,Sector 14 Gurgaon,0,0,0,0,0,2,28,4.0,5.0,5.0,4.0,4.5,50,2,8,12,0,0,0,0,0,0,0,0
+house,independent,4.35,17419,4,4,3,2,Na,Relatively New,2497.0,0,Ansal Plaza,0,1,0,0,0,2,15,5.0,5.0,5.0,5.0,5.0,27,2,2,3,1,0,0,0,0,0,0,0
+house,emaar mgf marbella,18.0,57074,5,6,3+,4,North-East,New Property,3154.0,0,Sector 66 Gurgaon,0,1,0,1,0,0,25,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,0,1,0,0,0,0,0
+house,tata primanti4.1 â˜…,12.75,20248,5,6,3+,10,East,Relatively New,6297.0,0,"5bhk With Pool, Sector 72 Gurgaon",1,1,1,1,0,2,76,4.0,4.0,5.0,4.0,4.25,10,2,1,0,1,0,0,0,0,0,0,0
+house,independent,16.5,50927,4,4,2,3,East,New Property,3240.0,0,South City 1,1,1,0,1,0,0,23,5.0,5.0,5.0,5.0,5.0,49,1,3,7,1,0,0,0,0,0,0,0
+house,central park flower valley cerise floors,2.0250000000000004,16797,2,2,2,4,East,New Property,1206.0,1,Sector-33 Sohna,1,0,0,0,0,0,68,4.0,4.0,5.0,4.0,4.25,15,1,4,0,0,1,0,0,0,0,0,0
+house,independent,2.85,12669,4,3,2,2,North-East,Moderately Old,2250.0,0,Laxman Vihar Phase 2,0,0,1,1,0,2,28,4.0,4.0,5.0,4.0,4.25,49,1,15,5,0,0,0,0,0,0,0,0
+house,independent,4.875,32350,5,6,3+,4,East,Relatively New,1507.0,0,Sector 56 Gurgaon,0,0,0,1,1,2,18,4.0,5.0,5.0,4.0,4.5,47,1,5,14,3,0,0,0,0,0,0,0
+house,dlf city plots,28.5,63041,6,6,3,2,East,Relatively New,4521.0,0,DLF Phase 1,1,1,0,0,0,2,62,5.0,5.0,5.0,5.0,5.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,independent,10.95,56516,9,9,2,3,North-West,Relatively New,1938.0,1,DLF Phase 2,0,1,1,0,0,2,42,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,independent,8.399999999999999,31091,6,4,3,3,East,Old Property,2702.0,0,Sector 55 Gurgaon,0,1,0,0,0,0,28,4.0,4.0,5.0,4.0,4.25,42,1,5,13,3,0,0,0,0,0,0,0
+house,independent,3.825,19742,3,3,2,3,Na,Relatively New,1937.0,1,A Block Sushant Lok Phase 1,0,0,0,0,0,2,18,4.0,4.0,5.0,3.0,4.0,48,0,5,12,3,1,0,0,1,0,0,0
+house,independent,3.6,17981,3,3,2,2,North-East,Moderately Old,2002.0,0,Ansal Plaza,0,0,1,1,0,0,20,5.0,5.0,5.0,5.0,5.0,27,2,2,3,1,1,0,0,1,0,0,0
+house,vipul tatvam villa,27.75,39662,4,4,1,1,Na,Moderately Old,6997.0,0,Sector 48 Gurgaon,0,0,0,0,0,0,26,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,0,0,0,1
+house,independent,39.0,107834,16,16,3+,4,North-West,New Property,3617.0,1,DLF Phase 1,1,1,1,1,0,2,31,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,2.55,28203,2,1,2,2,East,Old Property,904.0,0,Sector 10A Gurgaon,0,0,0,0,1,0,5,4.0,5.0,5.0,5.0,4.75,49,0,24,0,0,0,0,1,0,0,0,0
+house,eros rosewood city4.0 â˜…,2.4000000000000004,44594,4,4,3,4,East,New Property,538.0,0,Sector 49 Gurgaon,0,0,0,0,0,0,14,4.0,4.0,5.0,5.0,4.5,46,0,5,9,0,0,0,0,0,0,1,0
+house,satya the hermitage3.5 â˜…,6.525,20274,4,4,3+,2,North,Relatively New,3218.0,0,Sector 103 Gurgaon,1,1,1,1,0,0,76,4.0,4.0,4.0,4.0,4.0,15,1,1,0,2,1,0,0,0,0,0,0
+house,vatika india next4.1 â˜…,10.2,31482,4,4,3+,3,North-East,Relatively New,3240.0,0,Sector 82 Gurgaon,0,1,0,0,0,1,61,4.0,4.0,4.0,4.0,4.0,8,1,1,0,0,0,0,1,0,0,0,1
+house,dlf city plots phase 2,15.0,605890,12,12,3+,4,North,Relatively New,248.0,0,DLF Phase 2,1,1,0,0,0,2,67,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,independent,6.9,31892,3,3,3+,2,North,Old Property,2164.0,0,Sushant Lok Phase 2,0,1,1,1,0,2,19,4.0,4.0,5.0,4.0,4.25,48,0,6,11,3,0,0,0,0,0,0,0
+house,emaar emerald hills4.1 â˜…,18.75,52154,4,4,3+,2,East,Relatively New,3595.0,0,Sector 65 Gurgaon,1,1,0,0,0,0,0,4.0,4.0,5.0,4.0,4.25,10,1,1,0,0,0,1,1,0,0,0,0
+house,ansal api spanish court,4.35,27871,4,4,3,2,North,Relatively New,1561.0,1,"Block Ansals Palam Vihar, Palam Vihar",0,0,1,0,0,2,30,5.0,5.0,5.0,4.0,4.75,38,3,6,2,1,0,0,1,0,0,0,0
+house,independent,41.25,36532,6,7,3+,3,North-East,Relatively New,11291.0,0,Sushant Lok Phase 1,1,1,0,1,1,2,29,5.0,5.0,5.0,5.0,5.0,47,1,4,7,1,0,0,0,0,0,0,0
+house,independent,12.0,39394,9,9,3,4,North-East,Relatively New,3046.0,0,Sector 27 Gurgaon,1,1,1,1,0,1,49,5.0,4.0,5.0,4.0,4.5,47,0,4,8,3,1,0,0,1,0,0,0
+house,independent,3.375,61480,11,11,3+,5,West,New Property,549.0,1,Sushant Lok Phase 1,0,0,0,0,1,2,19,5.0,5.0,5.0,5.0,5.0,46,1,4,5,2,0,0,1,0,0,1,1
+house,independent,12.465,36302,5,6,3+,4,North-East,Old Property,3434.0,0,Sushant Lok Phase 3,1,1,1,1,0,0,5,4.0,4.0,4.0,4.0,4.0,45,1,6,13,0,0,1,0,0,0,0,0
+house,independent,9.315,34478,6,6,3+,4,North-East,Old Property,2702.0,0,Sushant Lok Phase 3,1,1,1,1,0,0,22,4.0,4.0,4.0,4.0,4.0,45,1,6,13,0,0,0,0,0,0,0,0
+house,independent,11.025,44533,6,4,3+,3,North-East,Old Property,2476.0,0,Greenwood City,1,1,1,1,0,2,29,4.0,4.0,5.0,4.0,4.25,48,5,4,10,1,0,0,0,0,0,0,0
+house,dlf city plots phase 2,6.75,50168,5,3,2,3,Na,Old Property,1345.0,0,DLF Phase 2,0,0,1,1,0,0,14,5.0,5.0,5.0,5.0,5.0,44,0,1,12,6,0,0,0,0,0,0,0
+house,independent,9.75,54240,4,3,3,3,Na,Moderately Old,1798.0,0,DLF Phase 2,1,0,0,1,0,0,9,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,4s aradhya homes,2.745,10160,4,4,2,4,East,New Property,2702.0,0,Sector 67A Gurgaon,0,0,0,1,0,2,76,5.0,4.0,4.0,5.0,4.5,11,1,1,0,0,0,0,0,0,0,0,0
+house,vipul tatvam villa,11.025,34256,4,5,2,2,South,Moderately Old,3218.0,0,Sector 48 Gurgaon,1,1,1,1,0,2,76,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,0,0,0,0
+house,dlf city plots phase 2,15.75,395466,4,4,2,2,East,Old Property,398.0,0,DLF Phase 2,0,1,0,1,0,2,47,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,eros rosewood villas,4.125,273732,3,3,1,2,North-West,Old Property,151.0,0,Sector 49 Gurgaon,0,0,0,0,1,2,42,4.0,4.0,5.0,5.0,4.5,46,0,6,9,0,1,0,0,1,0,0,0
+house,independent,9.75,41173,12,12,3+,4,North-West,Relatively New,2368.0,0,Sector 46 Gurgaon,1,0,0,1,0,2,18,4.0,4.0,5.0,4.0,4.25,47,5,2,5,0,1,0,0,1,0,0,0
+house,dlf city plots phase 2,11.25,58064,9,9,3+,4,West,Relatively New,1938.0,0,DLF Phase 2,1,1,0,1,0,2,76,5.0,5.0,5.0,5.0,5.0,44,0,1,12,6,0,0,0,0,0,0,0
+house,ireo victory valley4.1 â˜…,12.0,33378,6,7,3+,51,North-East,Moderately Old,3595.0,0,Sector 67 Gurgaon,1,1,0,1,0,2,33,4.0,4.0,4.0,4.0,4.0,11,1,1,0,0,0,0,0,0,0,0,0
+house,independent,8.25,34525,8,8,3+,3,Na,Moderately Old,2390.0,0,Sector 46 Gurgaon,1,0,0,0,1,2,18,4.0,4.0,5.0,4.0,4.25,47,5,2,5,0,0,0,1,0,0,0,0
+house,independent,6.525,48495,5,4,3,3,North,Old Property,1345.0,0,DLF Phase 2,0,1,0,0,0,0,33,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,1,0,0,0
+house,ansals palam vihar,4.125,26429,3,3,3,2,Na,Moderately Old,1561.0,0,Palam Vihar,1,0,0,1,0,2,15,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,dlf city plots,27.0,59723,6,6,2,3,North,Old Property,4521.0,0,DLF Phase 1,0,1,0,1,1,2,33,5.0,5.0,5.0,5.0,5.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,dlf city plots,25.5,56405,5,6,3,2,North-West,Old Property,4521.0,0,DLF Phase 1,0,1,1,1,0,2,40,5.0,5.0,5.0,5.0,5.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,ansal florence super,5.625,34608,3,4,3,2,Na,Moderately Old,1625.0,0,Sector 57 Gurgaon,1,1,1,0,0,2,28,4.0,4.0,4.0,4.0,4.0,45,2,5,12,0,0,1,0,0,0,0,0
+house,dlf city plots,20.25,44793,5,5,3,2,East,Old Property,4521.0,0,DLF Phase 1,1,1,1,1,0,2,49,5.0,5.0,5.0,5.0,5.0,8,1,1,0,1,0,0,1,0,0,0,0
+house,independent,7.125,30088,7,5,3+,3,South-West,Old Property,2368.0,1,Sector 22 Gurgaon,0,0,0,1,1,0,13,4.0,4.0,5.0,5.0,4.5,32,2,2,4,1,0,0,0,0,0,0,0
+house,independent,7.649999999999999,24850,3,2,0,1,East,Old Property,3078.0,1,Sector 23A Gurgaon,0,0,0,0,1,0,13,5.0,4.0,4.0,5.0,4.5,26,2,2,3,1,0,0,0,0,0,0,0
+house,independent,5.85,31783,6,6,3+,3,North-East,Moderately Old,1841.0,0,Sector 38 Gurgaon,1,1,0,1,0,0,9,4.0,4.0,5.0,4.0,4.25,47,4,5,7,0,0,0,0,0,0,0,0
+house,international city by sobha phase 2,9.375,17350,4,4,3+,2,East,Relatively New,5403.0,0,Sector 109 Gurgaon,0,1,0,0,0,0,76,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,independent,15.825,48844,5,5,3,2,Na,Moderately Old,3240.0,0,Nirvana Country,1,1,0,0,0,0,29,5.0,5.0,5.0,5.0,5.0,46,3,2,7,0,0,0,0,0,0,0,0
+house,smart world orchard,3.015,19452,3,3,3,4,North,Undefined,1550.0,0,Sector 61 Gurgaon,0,0,0,0,0,0,76,4.0,4.0,5.0,4.0,4.25,9,1,1,0,1,0,0,0,0,0,0,0
+house,independent,4.875,33548,4,4,3+,3,Na,Moderately Old,1453.0,0,Sector 31 Gurgaon,1,1,1,1,0,0,18,5.0,5.0,5.0,4.0,4.75,49,4,7,11,0,1,0,0,0,0,0,0
+house,independent,13.875,58064,12,12,3+,4,North-East,New Property,2390.0,1,Sector 31 Gurgaon,0,1,0,1,1,2,33,5.0,5.0,5.0,4.0,4.75,49,4,7,11,0,0,0,0,0,0,0,0
+house,bptp visionnaire,9.0,33312,5,4,3,3,North-East,New Property,2702.0,0,Sector 70A Gurgaon,1,0,0,0,0,0,23,5.0,4.0,4.0,4.0,4.25,15,3,1,5,0,1,0,0,1,0,0,0
+house,independent,7.875,53795,4,4,3+,2,East,Relatively New,1464.0,1,DLF Phase 3,0,1,0,1,0,2,40,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,0,0,0,0,0,0
+house,dlf city plots,39.0,85858,6,7,3+,2,North-East,New Property,4542.0,0,DLF Phase 1,1,1,0,1,1,2,76,5.0,5.0,5.0,5.0,5.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,unitech south city 23.8 â˜…,8.82,40766,9,9,3+,3,East,Relatively New,2164.0,0,Sector 50 Gurgaon,1,1,0,1,1,2,67,5.0,5.0,5.0,4.0,4.75,45,3,3,7,0,0,1,0,0,0,0,0
+house,independent,0.795,92322,2,1,1,1,East,New Property,86.0,1,Narsinghpur,0,0,1,0,0,2,61,4.0,4.0,5.0,4.0,4.25,6,0,1,0,0,0,0,0,0,0,0,0
+house,independent,0.705,15975,2,2,1,2,East,New Property,441.0,1,Laxman Vihar,1,0,0,0,0,0,46,4.0,4.0,5.0,4.0,4.25,50,1,23,1,0,0,0,0,0,0,0,0
+house,ss hibiscus,18.375,31438,5,7,3+,1,South-East,Relatively New,5845.0,0,Sector 50 Gurgaon,1,1,0,1,1,2,76,5.0,5.0,5.0,4.0,4.75,15,2,4,0,0,0,1,0,0,0,0,0
+house,unitech espace,15.675,48381,5,7,3+,3,Na,Moderately Old,3240.0,0,Nirvana Country,1,1,0,1,1,2,76,5.0,5.0,5.0,5.0,5.0,46,3,2,7,0,0,0,0,0,0,0,0
+house,emaar mgf marbella,18.0,55557,4,4,3+,3,East,Relatively New,3240.0,0,Sector 66 Gurgaon,1,1,1,1,0,2,76,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,0,0,0,1,0,0,0
+house,eldeco mansionz,9.6,29242,4,4,3,3,West,Moderately Old,3283.0,1,Sector 48 Gurgaon,0,1,1,0,0,2,76,4.0,4.0,5.0,4.0,4.25,46,1,6,9,0,0,0,0,0,0,0,0
+house,independent,6.525,35450,8,8,2,3,North-East,Relatively New,1841.0,0,Sector 46 Gurgaon,1,0,0,1,0,0,9,4.0,4.0,5.0,4.0,4.25,47,5,2,5,0,0,0,0,0,0,0,0
+house,independent,4.425000000000001,24041,4,4,3+,2,North-West,Old Property,1841.0,0,Palam Vihar,0,0,0,0,0,0,17,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,1,0,0,0,0,0
+house,independent,4.5,28832,6,4,3+,3,South,Old Property,1561.0,0,Palam Vihar,0,0,0,0,0,2,18,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,independent,1.725,29138,3,3,2,2,South-East,Old Property,592.0,0,Palam Vihar,0,0,0,0,0,2,24,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,1,0,0,0,0,0
+house,luxury dlf city floors,12.375,68843,12,12,3+,4,North,New Property,1798.0,0,DLF Phase 1,0,1,0,0,0,2,49,5.0,5.0,5.0,5.0,5.0,47,0,4,11,8,1,0,0,0,0,0,0
+house,dlf city plots,20.25,44793,5,5,2,2,East,Moderately Old,4521.0,0,DLF Phase 1,1,1,0,0,1,2,54,5.0,5.0,5.0,5.0,5.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,nul,22.5,35131,5,5,3,2,West,Moderately Old,6405.0,1,DLF Phase 2,1,1,0,1,0,2,59,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,independent,8.25,42581,8,7,3+,3,East,Moderately Old,1937.0,1,Sushant Lok Phase 1,1,1,0,1,1,2,64,5.0,5.0,5.0,5.0,5.0,47,1,4,7,1,0,0,0,0,0,0,0
+house,independent,27.0,59723,5,4,3+,4,North,Moderately Old,4521.0,0,"Gurugram, DLF Phase 1",1,1,1,1,0,2,67,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,1,0,0,0,0,0
+house,independent,8.7,48399,4,3,2,2,East,Relatively New,1798.0,0,DLF Phase 1,0,0,1,0,0,0,5,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,ss hibiscus,18.75,44324,4,4,3+,2,West,Relatively New,4230.0,1,Sector 50 Gurgaon,1,1,0,0,0,1,76,5.0,5.0,5.0,4.0,4.75,15,2,4,0,0,0,0,0,0,0,0,0
+house,dlf floors phase 3,5.265,18528,4,4,3,4,East,Undefined,2842.0,0,DLF Phase 3,1,1,1,1,0,2,76,4.0,5.0,5.0,4.0,4.5,44,0,3,11,5,0,0,0,0,0,0,0
+house,independent,5.25,25671,6,5,2,3,North-East,Old Property,2045.0,1,Sector 5 Gurgaon,1,1,0,1,1,1,76,4.0,4.0,5.0,4.0,4.25,49,2,12,5,0,1,0,0,1,0,0,0
+house,international city by sobha phase 2,14.1,39220,5,6,3+,2,North-East,Relatively New,3595.0,0,Sector 109 Gurgaon,1,1,1,1,0,2,76,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,unitech espace,15.45,47686,5,6,3+,3,East,Moderately Old,3240.0,0,Nirvana Country,1,1,1,1,0,2,76,5.0,5.0,5.0,5.0,5.0,46,2,5,7,0,0,0,0,0,0,0,0
+house,international city by sobha phase 1,9.0,36997,4,4,3+,2,North-East,Relatively New,2433.0,0,Sector 109 Gurgaon,1,1,1,1,0,0,76,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,unitech deerwood chase,12.675,356832,3,3,2,2,North-East,Old Property,355.0,0,Nirvana Country,1,1,0,0,0,2,49,5.0,5.0,5.0,5.0,5.0,4,1,1,0,1,0,0,0,0,0,0,0
+house,independent,10.875,43927,9,8,3,4,South-West,Old Property,2476.0,0,South City 1,0,1,0,0,0,2,63,5.0,5.0,5.0,5.0,5.0,49,1,3,7,1,1,0,0,0,0,0,0
+house,independent,6.0,24665,3,3,2,2,East,Moderately Old,2433.0,0,Ansal Plaza,0,1,0,0,0,2,70,5.0,5.0,5.0,5.0,5.0,27,2,2,3,1,0,0,0,0,0,0,0
+house,international city by sobha phase 1,9.225,37922,5,5,3+,3,West,Relatively New,2433.0,1,Sector 109 Gurgaon,0,1,1,1,0,2,76,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,bptp visionnaire,6.9,26489,4,4,3+,3,North,Moderately Old,2605.0,0,Sector 70A Gurgaon,1,1,1,1,0,0,41,5.0,4.0,4.0,4.0,4.25,15,3,1,5,0,1,0,0,0,0,0,0
+house,dlf city plots,18.75,57872,4,5,2,2,North-East,Moderately Old,3240.0,0,DLF Phase 1,1,1,0,0,0,2,67,5.0,5.0,5.0,5.0,5.0,8,1,1,0,1,0,0,1,0,0,0,0
+house,international city by sobha phase 2,15.0,41723,4,5,3+,2,East,New Property,3595.0,0,Sector 109 Gurgaon,1,1,0,1,1,2,33,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,independent,24.0,53342,5,6,3,2,North-East,Old Property,4499.0,0,DLF Phase 1,0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,18.75,57872,5,5,3+,2,North,Old Property,3240.0,0,DLF Phase 1,1,1,1,1,0,2,28,5.0,5.0,5.0,5.0,5.0,46,0,5,9,7,0,0,0,0,0,0,0
+house,independent,24.0,53342,6,7,3+,3,East,Relatively New,4499.0,0,Greenwood City,1,1,1,1,0,2,52,4.0,4.0,5.0,4.0,4.25,48,5,4,10,1,0,0,1,0,0,0,0
+house,independent,15.0,46297,6,6,3+,4,North-East,Moderately Old,3240.0,0,Greenwood City,1,1,1,1,0,2,24,4.0,4.0,5.0,4.0,4.25,48,5,4,10,1,0,0,0,0,0,0,0
+house,independent,4.199999999999999,243871,5,5,3+,2,North-East,Old Property,172.0,1,Ansal Plaza,0,0,0,1,0,2,43,5.0,5.0,5.0,5.0,5.0,27,2,2,3,1,1,0,0,0,1,0,0
+house,independent,10.125,41621,3,3,3,2,North-East,Moderately Old,2433.0,0,DLF Phase 1,0,0,0,0,0,0,9,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,3.75,24027,4,4,2,4,West,Old Property,1561.0,0,Palam Vihar,0,0,0,0,0,0,15,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,independent,12.0,26544,12,4,3+,3,North,Old Property,4521.0,0,Mehrauli Gurgaon Road,0,1,1,0,0,0,16,4.0,4.0,3.0,3.0,3.5,48,0,6,12,3,0,0,1,0,0,0,0
+house,independent,5.550000000000001,38194,8,8,2,4,North-East,New Property,1453.0,0,B1 Block Sector 57 Gurgaon,0,0,0,1,0,2,33,4.0,4.0,5.0,4.0,4.25,44,3,5,9,0,0,0,0,0,0,0,0
+house,independent,27.6,61051,6,8,3+,4,South,Relatively New,4521.0,0,DLF Phase 1,0,1,1,1,0,2,31,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,ansal sushant residency,6.9,25539,6,6,3,3,East,Old Property,2702.0,0,Sushant Lok Phase 3,1,1,1,1,0,1,40,4.0,4.0,4.0,4.0,4.0,47,3,7,5,0,0,0,0,0,0,0,0
+house,ansals florence villa,5.475,15846,6,6,2,3,North-West,Moderately Old,3455.0,0,Sushant Lok Phase 3,1,1,1,1,0,1,67,4.0,4.0,4.0,4.0,4.0,47,2,5,14,3,0,0,0,0,0,0,0
+house,independent,18.0,63343,4,5,3+,4,East,Relatively New,2842.0,0,DLF Phase 4,0,1,1,1,0,2,28,5.0,4.0,5.0,5.0,4.75,47,0,5,8,3,0,0,0,0,0,0,0
+house,independent,6.75,23399,8,8,3,3,North-East,Moderately Old,2885.0,0,Uppals Southend,1,1,1,1,0,1,76,5.0,5.0,5.0,5.0,5.0,46,0,5,9,0,1,1,1,0,1,0,0
+house,uppal southend4.0 â˜…,6.6000000000000005,22879,6,6,3,3,North,Moderately Old,2885.0,0,Uppals Southend,1,1,1,1,0,1,49,5.0,5.0,5.0,5.0,5.0,46,0,6,9,0,1,1,1,0,1,0,0
+house,vipul tatvam villa,10.875,306158,4,4,3,2,Na,Relatively New,355.0,0,Sector 48 Gurgaon,1,1,1,1,0,2,49,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,0,0,0,0
+house,independent,1.485,25548,4,4,3,4,Na,Relatively New,581.0,0,Malibu Town,0,0,0,0,0,0,9,5.0,4.0,5.0,5.0,4.75,45,3,2,5,0,0,0,0,0,0,0,0
+house,independent,30.0,66677,5,7,3+,3,West,Relatively New,4499.0,0,DLF Phase 1,0,1,0,1,0,1,51,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,dlf south city 1,3.975,18373,3,3,3,4,North-East,New Property,2164.0,1,South City 1,0,1,0,0,0,2,20,5.0,5.0,5.0,5.0,5.0,49,1,3,9,1,0,0,0,0,0,0,0
+house,independent,4.425000000000001,16378,4,4,2,4,East,Relatively New,2702.0,0,Mayfield Garden,0,1,0,0,0,0,33,4.0,4.0,4.0,4.0,4.0,46,3,2,4,0,0,1,1,0,0,0,0
+house,independent,5.4,29338,8,4,3,3,North,Moderately Old,1841.0,0,Sector 10A Gurgaon,0,0,0,1,0,0,10,4.0,5.0,5.0,5.0,4.75,49,0,27,0,0,1,0,0,1,0,0,0
+house,signature global city,1.905,12122,3,3,3,4,East,Undefined,1572.0,0,Sector 37D Gurgaon,0,0,0,1,0,0,49,4.0,4.0,4.0,4.0,4.0,10,0,1,0,0,0,0,0,0,0,0,0
+house,signature global city 81,1.125,10247,3,2,3,4,East,Under Construction,1098.0,0,Sector 81 Gurgaon,1,0,0,0,0,0,49,4.0,4.0,3.0,4.0,3.75,7,1,0,0,0,0,0,0,0,0,0,0
+house,independent,9.0,36997,5,6,3+,3,East,Old Property,2433.0,0,Palam Vihar,1,0,0,1,1,2,28,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,central park,9.75,29409,4,5,3,1,North-East,Moderately Old,3315.0,0,Sector 42 Gurgaon,1,1,0,1,0,2,45,4.0,4.0,5.0,4.0,4.25,46,0,2,5,3,0,0,0,0,1,0,0
+house,emaar mgf marbella,27.0,60009,5,6,3+,3,North-East,Relatively New,4499.0,0,Sector 66 Gurgaon,1,1,1,1,0,2,76,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,0,0,0,0,0,0,0
+house,unitech espace,16.935,52270,5,5,3+,2,Na,Moderately Old,3240.0,0,Nirvana Country,1,0,0,1,0,0,9,5.0,5.0,5.0,5.0,5.0,46,2,5,7,0,0,0,0,0,0,0,0
+house,independent,12.735,47136,3,3,2,4,North,Relatively New,2702.0,0,B Block Sushant Lok Phase 1,0,1,0,1,0,2,15,4.0,4.0,4.0,4.0,4.0,48,0,4,7,2,0,0,0,0,1,0,0
+house,eldeco mansionz,9.0,33312,4,4,3+,2,East,Moderately Old,2702.0,0,Sector 48 Gurgaon,0,1,0,0,0,0,50,4.0,4.0,5.0,4.0,4.25,46,1,6,9,0,0,0,0,0,0,0,0
+house,experion windchants3.8 â˜…,14.25,35209,5,5,3,2,Na,Relatively New,4047.0,1,Sector 112 Gurgaon,0,1,0,0,0,0,31,5.0,4.0,4.0,3.0,4.0,8,1,2,0,0,0,1,0,0,0,0,0
+house,independent,29.25,40619,8,9,3+,2,North,New Property,7201.0,0,Palam Vihar,1,1,0,1,0,0,67,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,independent,15.75,57835,12,12,3+,4,North-East,Relatively New,2723.0,1,DLF Phase 1,0,1,0,1,0,2,40,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,1,0
+house,independent,6.465,48049,5,4,3,3,North,Old Property,1346.0,0,DLF Phase 2,0,0,0,0,0,0,23,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,independent,10.425,60156,12,12,3+,4,East,New Property,1733.0,0,Sushant Lok Phase 3,0,1,1,0,0,2,35,4.0,4.0,4.0,4.0,4.0,45,1,6,13,0,0,0,0,0,0,0,0
+house,independent,15.75,43548,5,5,3,3,East,Moderately Old,3617.0,0,DLF Phase 2,1,1,0,1,0,0,29,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,independent,8.7,19244,4,4,3+,4,Na,Old Property,4521.0,0,Sector 26 Gurgaon,0,0,0,0,0,0,24,4.0,4.0,5.0,4.0,4.25,46,0,5,9,6,1,0,0,1,0,0,0
+house,independent,17.37,53612,5,5,3,2,Na,Moderately Old,3240.0,0,Nirvana Country,0,1,0,0,0,0,14,5.0,5.0,5.0,5.0,5.0,46,3,2,7,0,0,0,0,0,0,0,0
+house,ansals palam vihar,6.0,24996,4,4,3+,2,North-East,Moderately Old,2400.0,0,Palam Vihar,0,1,0,0,0,0,0,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,nirvana country,24.0,53342,6,7,3,3,North-West,Old Property,4499.0,0,South City,0,1,1,1,0,2,61,5.0,5.0,5.0,5.0,5.0,45,3,3,7,0,0,0,0,0,0,0,0
+house,international city by sobha phase 1,9.0,14441,5,5,3+,2,South-West,Relatively New,6232.0,0,Sector 109 Gurgaon,1,1,1,1,0,0,76,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,unitech aspen greens,10.2,47145,4,5,3,3,West,Old Property,2164.0,1,Nirvana Country,1,1,0,0,0,2,55,5.0,5.0,5.0,5.0,5.0,45,3,2,8,0,0,0,0,0,0,0,0
+house,dlf new town heights 24.0 â˜…,3.75,11730,4,5,3+,4,West,Moderately Old,3197.0,0,Sector 86 Gurgaon,0,1,0,1,1,2,33,5.0,5.0,4.0,4.0,4.5,15,2,2,4,0,0,0,0,0,0,0,0
+house,independent,11.25,58064,12,12,3+,4,East,New Property,1938.0,0,C Block Sushant Lok Phase 1,1,1,1,1,0,2,35,4.0,4.0,4.0,4.0,4.0,46,1,4,5,2,0,0,0,0,0,0,0
+house,international city by sobha phase 2,12.72,35381,4,6,3+,3,North-East,New Property,3595.0,0,Sector 109 Gurgaon,1,1,1,1,0,0,76,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,international city by sobha phase 2,9.375,15043,5,7,3+,3,North-East,Relatively New,6232.0,0,Sector 109 Gurgaon,1,1,1,1,0,0,76,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,sushant lok 1 builder floors,16.275,43200,8,8,3,3,West,Moderately Old,3767.0,0,Sushant Lok Phase 1,1,1,1,1,0,1,76,5.0,5.0,5.0,5.0,5.0,46,1,4,5,2,0,0,0,0,0,0,0
+house,independent,7.725,39871,9,9,3+,3,East,Relatively New,1937.0,0,Sector 47 Gurgaon,0,0,1,0,0,2,42,5.0,4.0,5.0,5.0,4.75,47,4,2,4,0,0,1,0,0,0,0,0
+house,independent,5.25,36129,4,4,3,2,North-East,Old Property,1453.0,0,Sector 31 Gurgaon,0,0,1,0,0,2,48,5.0,5.0,5.0,4.0,4.75,49,4,7,11,0,0,0,0,0,0,0,0
+house,independent,5.4,22198,4,4,3,2,North-East,New Property,2433.0,0,Sector 91 Gurgaon,0,0,0,0,0,2,33,4.0,4.0,3.0,4.0,3.75,12,0,0,0,0,0,0,0,1,0,0,0
+house,ansals florence villa,9.0,33312,4,5,2,2,Na,Old Property,2702.0,0,Sushant Lok Phase 3,0,1,0,1,0,2,9,4.0,4.0,4.0,4.0,4.0,45,1,6,13,0,0,0,0,0,0,0,0
+house,emaar the palm springs,21.0,93348,4,5,3+,2,North,Old Property,2250.0,0,Sector 54 Gurgaon,1,1,0,0,0,2,76,4.0,5.0,4.0,4.0,4.25,9,1,1,0,1,0,0,0,0,0,0,0
+house,vatika the seven lamps3.8 â˜…,2.4000000000000004,9910,4,4,3+,16,North,Moderately Old,2422.0,0,Sector 82 Gurgaon,0,1,0,0,0,0,66,4.0,4.0,4.0,4.0,4.0,10,1,1,0,0,0,0,1,0,0,0,0
+house,vatika india next4.1 â˜…,2.55,11786,3,3,3+,4,North-West,New Property,2164.0,0,Sector 83 Gurgaon,0,1,0,1,0,0,0,5.0,5.0,4.0,5.0,4.75,8,1,1,0,0,0,0,0,0,0,0,0
+house,independent,10.875,40252,9,9,3+,2,North-East,New Property,2702.0,0,Sushant Lok Phase 3,0,1,0,1,1,2,33,4.0,4.0,4.0,4.0,4.0,45,1,6,13,0,1,0,0,1,0,0,0
+house,independent,23.25,42353,5,6,3,3,East,Moderately Old,5490.0,0,B Block Sushant Lok Phase 1,1,1,1,1,0,0,37,4.0,4.0,4.0,4.0,4.0,48,0,4,7,2,0,0,0,0,0,0,0
+house,independent,5.1,22670,3,3,3,1,North-West,Old Property,2250.0,0,Sector 14 Gurgaon,0,0,0,0,0,0,18,4.0,5.0,5.0,4.0,4.5,50,2,8,12,0,0,0,0,0,0,0,0
+house,independent,16.875,52084,9,9,3+,2,North,Moderately Old,3240.0,0,DLF Phase 4,0,1,1,1,0,2,59,5.0,4.0,5.0,5.0,4.75,47,0,5,8,3,1,0,0,1,0,0,0
+house,ansals florence villa,4.949999999999999,29669,4,3,3+,2,East,Moderately Old,1668.0,0,Sushant Lok Phase 3,1,1,1,1,0,0,76,4.0,4.0,4.0,4.0,4.0,47,2,5,14,3,0,1,0,0,0,0,0
+house,independent,8.25,1631,8,8,2,3,North-East,Relatively New,50582.0,1,Mayfield Garden,0,0,0,1,0,2,33,4.0,4.0,4.0,4.0,4.0,47,3,2,5,0,0,0,1,0,0,0,0
+house,independent,12.75,47192,5,5,3,3,West,Moderately Old,2702.0,0,Sushant Lok Phase 1,0,1,0,0,0,2,57,5.0,5.0,5.0,5.0,5.0,47,1,4,7,1,0,0,0,0,0,0,0
+house,independent,12.75,39353,5,4,2,1,North-East,Moderately Old,3240.0,0,Greenwood City,0,1,0,1,0,2,33,4.0,4.0,5.0,4.0,4.25,48,5,4,10,1,0,0,1,0,0,0,0
+house,unitech nirvana birch court,17.924999999999997,55325,3,3,2,1,West,Moderately Old,3240.0,0,Nirvana Country,1,1,0,0,0,0,42,5.0,5.0,5.0,5.0,5.0,44,3,2,7,0,0,0,0,0,0,0,0
+house,unitech aspen greens,18.0,55557,3,4,2,1,East,Moderately Old,3240.0,0,Nirvana Country,1,1,0,0,0,2,42,5.0,5.0,5.0,5.0,5.0,44,3,2,7,0,0,0,0,0,0,0,0
+house,bptp astaire gardens3.7 â˜…,9.75,36232,4,4,3+,2,North-East,New Property,2691.0,0,Sector 70A Gurgaon,1,1,0,1,0,2,76,5.0,4.0,4.0,4.0,4.25,12,1,0,0,1,0,0,0,0,0,0,0
+house,dlf alameda,25.5,52645,5,8,3,3,North-West,Relatively New,4844.0,1,Sector 73 Gurgaon,1,1,1,1,0,1,40,4.0,4.0,5.0,4.0,4.25,8,1,1,0,0,0,0,0,0,0,0,0
+house,ansal sushant lok plots4.1 â˜…,17.25,45788,7,8,3+,3,Na,Old Property,3767.0,1,"Park And North Facing, Sushant Lok Phase 1",0,1,1,1,0,2,24,5.0,5.0,5.0,4.0,4.75,50,0,4,7,2,0,0,1,0,0,0,0
+house,independent house sector 45,13.5,57009,12,12,3,4,North-West,New Property,2368.0,1,Sector 40 Gurgaon,0,1,0,0,0,2,41,4.0,4.0,4.0,4.0,4.0,48,5,4,10,1,0,0,0,0,0,0,0
+house,independent,22.5,50008,4,4,3,3,Na,Moderately Old,4499.0,1,DLF Phase 1,0,1,1,0,0,0,14,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,vipul tatvam villa,12.3,37964,3,3,2,2,North,Moderately Old,3240.0,0,Sector 48 Gurgaon,1,1,0,1,0,2,76,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,1,0,1,0,0,0
+house,sector 14 rwa,8.265,25425,3,3,2,4,South-West,Moderately Old,3251.0,0,Sector 14 Gurgaon,0,0,0,0,0,0,5,4.0,5.0,5.0,4.0,4.5,50,3,12,11,0,0,0,0,0,0,0,0
+house,independent,4.800000000000001,21337,3,3,2,2,Na,Old Property,2250.0,0,Sector 4 Gurgaon,0,0,0,0,0,0,9,5.0,5.0,5.0,5.0,5.0,49,1,13,5,0,0,0,0,0,0,0,0
+house,ireo victory valley4.0 â˜…,12.0,33378,6,7,3+,3,North-East,Moderately Old,3595.0,0,Sector 67 Gurgaon,1,1,1,1,0,2,69,4.0,4.0,4.0,4.0,4.0,11,1,1,0,0,0,0,0,0,0,0,0
+house,independent,4.425000000000001,24617,3,3,3,2,North-West,Moderately Old,1798.0,1,Rosewood,0,0,1,0,0,2,40,5.0,5.0,5.0,5.0,5.0,46,1,5,8,0,0,0,0,0,0,0,0
+house,independent,4.199999999999999,30484,3,3,2,2,East,Moderately Old,1378.0,0,Rosewood,1,1,1,1,0,2,53,5.0,5.0,5.0,5.0,5.0,46,1,5,8,0,0,0,0,0,0,0,0
+house,independent,7.875,40421,9,9,3+,4,East,Relatively New,1948.0,1,Sector 47 Gurgaon,0,1,0,0,0,0,69,5.0,4.0,5.0,5.0,4.75,47,4,2,4,0,0,1,1,0,0,0,0
+house,independent,12.735,70846,12,12,3+,4,North,Relatively New,1798.0,0,DLF Phase 1,0,1,0,1,0,2,29,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,1,0,0,1,0,0,0
+house,bestech park view aindependentda4.2 â˜…,6.525,11909,4,4,3,2,North,Relatively New,5479.0,0,Sector 81 Gurgaon,0,1,1,0,0,0,19,4.0,4.0,3.0,4.0,3.75,10,1,1,0,1,0,0,0,0,0,0,0
+house,independent,5.235,30208,4,4,2,3,South-East,Moderately Old,1733.0,0,Sushant Lok Phase 3,1,1,0,1,0,2,33,4.0,4.0,4.0,4.0,4.0,45,1,6,13,0,1,0,0,1,0,0,0
+house,independent,4.485,30864,4,4,2,2,South,Moderately Old,1453.0,0,Sector 56 Gurgaon,1,1,0,1,0,2,33,4.0,5.0,5.0,4.0,4.5,47,1,5,14,3,1,0,0,1,0,0,0
+house,independent,13.785,51023,16,18,2,4,West,New Property,2702.0,0,Sushant Lok Phase 2,0,1,0,1,0,2,33,4.0,4.0,5.0,4.0,4.25,48,0,6,11,3,1,0,0,1,0,0,0
+house,independent,2.46,15135,3,3,2,4,South,New Property,1625.0,0,Sushant Lok Phase 2,1,1,0,0,0,0,32,4.0,4.0,5.0,4.0,4.25,48,0,6,11,3,0,0,0,0,0,0,0
+house,unitech palms south city 1,14.025,43288,10,10,3+,4,North-East,Moderately Old,3240.0,1,South City 1,1,1,0,0,0,0,33,5.0,5.0,5.0,5.0,5.0,49,1,3,7,1,0,0,0,0,0,0,0
+house,unitech palms south city 1,13.875,42825,9,9,3+,4,North,Moderately Old,3240.0,1,South City 1,1,1,1,1,0,2,31,5.0,5.0,5.0,5.0,5.0,49,1,3,7,1,0,0,0,0,0,0,0
+house,eros rosewood villas,4.199999999999999,27478,3,3,3,2,East,Moderately Old,1528.0,1,Sector 49 Gurgaon,0,0,0,1,0,0,40,4.0,4.0,5.0,5.0,4.5,46,0,5,9,0,0,0,0,0,0,0,0
+house,eros rosewood villas,3.75,24534,3,3,2,2,East,Moderately Old,1528.0,1,Sector 49 Gurgaon,0,0,1,1,0,0,36,4.0,4.0,5.0,5.0,4.5,46,0,5,9,0,0,0,0,0,0,0,0
+house,eros rosewood city4.0 â˜…,6.074999999999999,35496,3,3,3,2,East,Moderately Old,1711.0,1,Sector 49 Gurgaon,0,1,1,0,0,0,26,4.0,4.0,5.0,5.0,4.5,46,0,5,9,0,0,0,0,0,0,0,0
+house,independent,12.6,51796,4,4,3+,2,North-East,Relatively New,2433.0,0,"Gurugram, DLF Phase 4",0,1,1,1,0,2,76,5.0,4.0,5.0,5.0,4.75,47,0,5,8,3,0,0,0,0,0,0,0
+house,independent,9.0,31672,6,7,3+,3,East,Moderately Old,2842.0,0,"Gurugram, V Block DLF Phase 3",1,1,1,1,0,2,62,4.0,4.0,5.0,4.0,4.25,45,0,3,11,6,0,0,0,0,0,0,0
+house,emaar mgf marbella,16.5,50927,5,6,3+,2,North-East,New Property,3240.0,0,"Sector 66, Gurugram, Sector 66 Gurgaon",1,1,1,1,0,2,76,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,0,0,0,0,0,0,0
+house,international city by sobha phase 2,13.125,36508,5,5,3+,3,North-East,New Property,3595.0,0,"Sector 109, Gurugram, Sector 109 Gurgaon",1,1,1,1,0,2,76,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,independent,34.5,38339,4,4,3+,2,South-West,Relatively New,8999.0,0,"Gurugram, DLF Phase 1",1,1,1,1,0,2,76,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,9.75,54240,4,4,3+,2,North-East,Moderately Old,1798.0,0,"Gurugram, DLF Phase 2",1,1,1,1,0,0,45,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,sushant lok 1 builder floors,3.675,68284,4,4,3+,3,West,Moderately Old,538.0,1,Sushant Lok Phase 1,1,1,0,1,1,1,58,5.0,5.0,5.0,4.0,4.75,47,1,4,7,1,0,0,0,0,0,0,1
+house,independent,8.25,32754,8,8,2,3,East,Moderately Old,2519.0,0,Ansal Plaza,1,1,0,1,0,2,32,5.0,5.0,5.0,5.0,5.0,27,2,2,3,1,0,0,0,0,0,0,0
+house,independent,5.265,18528,4,4,3,4,North,New Property,2842.0,0,Suncity,0,1,0,0,0,0,40,5.0,4.0,4.0,5.0,4.5,47,1,6,13,4,0,1,0,0,0,0,0
+house,satya the legend3.8 â˜…,13.875,24004,5,5,3+,4,North-East,Relatively New,5780.0,1,Sector 57 Gurgaon,1,1,1,1,0,2,76,4.0,4.0,4.0,4.0,4.0,15,0,5,5,0,0,0,0,0,0,0,0
+house,independent,8.475000000000001,27530,7,7,3+,2,West,Moderately Old,3078.0,1,Sector 23 Gurgaon,0,1,0,1,0,0,43,4.0,5.0,5.0,4.0,4.5,27,2,1,3,1,0,0,0,0,0,1,0
+house,independent,11.775,43583,9,9,3+,3,West,Relatively New,2702.0,0,A Block Sushant Lok Phase 1,1,1,0,1,1,1,33,4.0,4.0,5.0,3.0,4.0,48,0,5,12,3,0,0,0,0,0,0,0
+house,independent,20.25,44793,5,5,3+,2,North-East,Relatively New,4521.0,0,DLF Phase 1,1,1,0,1,1,1,33,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,28.5,63343,6,8,3+,3,East,Moderately Old,4499.0,0,DLF Phase 1,1,1,1,1,0,2,40,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,8.25,57198,18,18,3+,4,South-West,Relatively New,1442.0,0,Suncity,0,1,0,0,0,1,23,5.0,4.0,4.0,5.0,4.5,47,1,6,13,4,0,0,1,0,0,0,0
+house,independent,5.25,32301,4,4,3+,3,South,Old Property,1625.0,0,Sushant Lok Phase 3,0,0,1,0,0,2,21,4.0,4.0,4.0,4.0,4.0,45,1,6,13,0,0,0,0,0,0,0,0
+house,vipul tatvam villa,12.375,39238,4,4,3+,3,North-East,Relatively New,3154.0,1,Sector 48 Gurgaon,0,1,1,0,0,2,76,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,0,0,0,0
+house,dlf city plots,24.0,53342,4,4,3,1,Na,Relatively New,4499.0,0,DLF Phase 1,1,0,1,1,0,0,5,5.0,5.0,5.0,5.0,5.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,suncity township4.1 â˜…,37.5,41673,4,4,3+,2,North,Moderately Old,8999.0,0,Sector 54 Gurgaon,1,1,1,1,0,0,0,4.0,5.0,4.0,4.0,4.25,48,1,6,13,4,0,0,0,0,0,0,0
+house,ansals palam vihar,4.0200000000000005,25757,4,3,2,3,Na,Moderately Old,1561.0,0,Palam Vihar,0,0,1,0,0,2,40,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,independent,4.050000000000001,27871,5,5,2,3,East,Old Property,1453.0,0,Sector 23 Gurgaon,0,0,0,0,0,2,12,4.0,5.0,5.0,4.0,4.5,27,2,1,3,1,0,0,0,0,0,0,0
+house,independent,3.45,23919,4,4,3,2,East,Old Property,1442.0,0,Sector 4 Gurgaon,0,0,0,0,0,2,10,5.0,5.0,5.0,5.0,5.0,49,1,13,5,0,0,0,0,0,0,0,0
+house,bptp pedestal,1.38,11655,2,3,3+,3,North-East,New Property,1184.0,0,Sector 70A Gurgaon,0,0,0,0,1,0,76,5.0,4.0,4.0,4.0,4.25,15,0,1,2,0,1,0,0,1,0,0,0
+house,bptp astaire gardens3.7 â˜…,1.56,10735,3,3,3+,2,North-East,Relatively New,1453.0,0,Sector 70A Gurgaon,0,0,0,0,1,2,76,5.0,4.0,4.0,4.0,4.25,12,1,0,0,1,1,0,0,1,0,0,0
+house,independent,14.775,39218,5,5,2,3,West,Old Property,3767.0,0,A Block Sushant Lok Phase 1,1,1,0,1,0,0,15,4.0,4.0,5.0,3.0,4.0,48,0,5,12,3,0,0,0,0,0,0,0
+house,independent,22.5,50008,5,5,3+,4,Na,Moderately Old,4499.0,0,Sector 39 Gurgaon,0,1,0,0,0,2,18,4.0,4.0,5.0,4.0,4.25,49,5,5,8,0,0,0,0,0,0,0,0
+house,bptp astaire gardens3.7 â˜…,1.77,12181,3,3,3+,2,North-East,Relatively New,1453.0,0,Sector 70A Gurgaon,0,0,0,0,1,2,76,5.0,4.0,4.0,4.0,4.25,12,1,0,0,1,1,0,0,1,0,0,0
+house,bptp pedestal,1.35,11402,2,2,3+,3,North-East,New Property,1184.0,0,Sector 70A Gurgaon,0,1,0,0,1,0,76,5.0,4.0,4.0,4.0,4.25,15,0,1,2,0,1,0,0,1,0,0,0
+house,sushant lok 1 builder floors,19.5,72176,3,3,3+,4,North,New Property,2702.0,0,Sushant Lok Phase 1,0,0,0,1,0,2,5,5.0,5.0,5.0,4.0,4.75,47,1,4,7,1,0,0,0,0,0,0,0
+house,emaar mgf marbella,22.65,27908,5,5,3+,3,East,New Property,8116.0,0,Sector 66 Gurgaon,1,1,1,1,0,0,61,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,0,0,0,0,0,0,0
+house,emaar mgf marbella,13.515,24100,4,4,3+,3,North-East,Relatively New,5608.0,0,Sector 66 Gurgaon,0,1,1,0,0,0,62,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,0,0,0,0,0,0,0
+house,emaar mgf marbella,27.0,83335,4,4,3+,3,East,Moderately Old,3240.0,0,Sector 66 Gurgaon,1,1,0,1,0,1,38,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,1,0,0,1,0,0,0
+house,independent,18.0,58471,16,16,3+,4,Na,New Property,3078.0,0,Sector 40 Gurgaon,1,1,1,1,0,2,0,4.0,4.0,4.0,4.0,4.0,48,5,4,10,1,1,0,0,0,0,0,0
+house,independent,3.375,36888,4,3,3,3,North-East,Relatively New,915.0,1,Sector 46 Gurgaon,1,0,0,0,0,0,17,4.0,4.0,5.0,4.0,4.25,47,5,2,5,0,0,0,0,0,0,0,0
+house,unitech uniworld resorts,12.0,17151,4,4,3+,2,West,Old Property,6997.0,0,Sector 33 Gurgaon,1,1,1,1,0,0,36,3.0,4.0,4.0,4.0,3.75,46,1,9,4,0,0,0,0,0,0,0,0
+house,vipul tatvam villa,8.625,33249,4,4,2,2,West,Moderately Old,2594.0,1,Sector 48 Gurgaon,0,1,0,0,0,0,5,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,0,0,0,0
+house,unitech espace,14.7,45371,4,4,3,2,North-West,Moderately Old,3240.0,1,Nirvana Country,0,1,0,0,0,0,5,5.0,5.0,5.0,5.0,5.0,46,2,5,7,0,0,0,0,0,0,0,0
+house,independent,7.425000000000001,30522,6,5,3+,3,West,Relatively New,2433.0,0,Palam Vihar,0,1,0,0,0,0,47,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,emaar mgf marbella,28.5,31672,5,6,3+,3,North-East,Relatively New,8998.0,0,Sector 66 Gurgaon,0,1,1,1,0,2,49,3.0,4.0,4.0,4.0,3.75,14,1,1,0,1,1,0,0,1,0,0,0
+house,independent,7.485,30769,4,4,3+,3,North,Moderately Old,2433.0,0,Palam Vihar,0,1,1,1,0,0,19,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,unitech nirvana birch court,10.65,449736,3,3,3,1,East,Moderately Old,237.0,0,Nirvana Country,0,1,0,0,0,0,33,5.0,5.0,5.0,5.0,5.0,46,1,5,8,0,0,0,0,0,0,0,0
+house,independent,6.375,43548,5,5,3+,3,East,Relatively New,1464.0,1,Sector 27 Gurgaon,0,1,0,1,0,2,33,5.0,4.0,5.0,4.0,4.5,47,0,4,8,3,0,0,0,0,0,0,0
+house,independent,14.25,52327,5,5,3+,2,North-East,Relatively New,2723.0,1,Sushant Lok Phase 1,0,1,0,1,0,2,49,5.0,5.0,5.0,4.0,4.75,47,1,4,7,1,0,0,0,0,0,0,0
+house,independent,24.0,76098,16,16,3+,4,West,New Property,3154.0,1,DLF Phase 2,1,1,1,1,0,2,40,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,independent,12.375,65323,12,12,3+,4,East,New Property,1894.0,1,Sector 27 Gurgaon,0,1,0,1,0,2,23,5.0,4.0,5.0,4.0,4.5,47,0,4,8,3,0,0,0,0,0,0,0
+house,bptp visionnaire,7.050000000000001,27065,4,4,3+,3,North-East,New Property,2605.0,0,Sector 70A Gurgaon,0,0,0,0,1,0,25,5.0,4.0,4.0,4.0,4.25,15,3,1,5,0,1,0,0,1,0,0,0
+house,independent,6.375,34635,5,5,3+,3,North-East,Moderately Old,1841.0,1,"gurgaon, Sector 31 Gurgaon",0,0,1,1,0,2,26,5.0,5.0,5.0,4.0,4.75,49,4,7,11,0,0,0,0,0,0,0,0
+house,independent,6.75,46110,10,8,3+,4,East,Relatively New,1464.0,1,DLF Phase 3,0,1,1,0,0,2,26,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,0,0,0,0,1,0
+house,tata primanti4.1 â˜…,12.9,18438,4,5,3+,3,Na,Relatively New,6996.0,1,Sector 72 Gurgaon,0,0,0,0,0,2,25,4.0,4.0,5.0,4.0,4.25,10,2,1,0,1,0,0,0,0,0,0,0
+house,unitech uniworld resorts,14.325,28931,6,7,3+,2,East,Relatively New,4951.0,0,Sector 33 Gurgaon,1,1,1,1,0,0,59,3.0,4.0,4.0,4.0,3.75,46,1,9,4,0,1,0,0,1,0,0,0
+house,eldeco mansionz,7.425000000000001,30933,7,7,3+,2,South,Old Property,2400.0,0,Sector 48 Gurgaon,1,1,1,1,0,2,76,4.0,4.0,5.0,4.0,4.25,46,1,6,9,0,1,0,0,1,0,0,0
+house,unitech uniworld resorts,14.25,259582,6,6,3+,3,North-East,Moderately Old,549.0,0,Sector 33 Gurgaon,0,0,0,0,0,2,23,3.0,4.0,4.0,4.0,3.75,47,1,19,0,0,0,0,0,0,0,0,0
+house,eldeco mansionz,7.5,32109,7,7,3,2,North-East,Moderately Old,2336.0,0,Sector 48 Gurgaon,0,0,0,0,0,2,23,4.0,4.0,5.0,4.0,4.25,46,1,6,7,0,0,0,0,0,0,0,0
+house,eldeco mansionz,7.125,30504,7,7,3,2,North-East,Moderately Old,2336.0,0,Sector 48 Gurgaon,1,0,0,0,0,2,19,4.0,4.0,5.0,4.0,4.25,46,1,6,7,0,0,0,0,0,0,0,0
+house,malibu towne,1.725,61638,3,3,3,2,North-East,Old Property,280.0,0,Malibu Town,0,0,0,0,0,0,19,5.0,4.0,5.0,5.0,4.75,45,3,2,5,0,0,0,0,1,0,0,0
+house,international city by sobha phase 1,9.0,14441,4,5,3,2,North-East,Moderately Old,6232.0,0,Sector 109 Gurgaon,0,0,0,0,0,0,32,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,1,0,0,1,0,0,0
+house,ansals palam vihar,13.5,28832,5,5,2,2,North,Old Property,4682.0,0,Palam Vihar,1,1,1,1,0,1,49,5.0,5.0,5.0,4.0,4.75,27,2,2,3,1,0,0,0,0,0,0,0
+house,independent,5.4,31160,4,4,2,2,South,Old Property,1733.0,0,Sushant Lok Phase 3,1,1,1,1,0,0,49,4.0,4.0,4.0,4.0,4.0,45,1,6,13,0,0,0,0,0,0,0,0
+house,independent,13.5,49968,5,5,2,3,South-West,Old Property,2702.0,0,DLF Phase 1,1,1,1,1,0,1,49,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,3.3000000000000003,10323,12,12,3+,6,North,New Property,3197.0,0,Sushant Lok Phase 1,0,1,0,0,0,1,15,5.0,5.0,5.0,4.0,4.75,46,1,4,5,2,0,0,0,1,0,1,0
+house,independent,4.949999999999999,22003,3,3,2,1,North-East,Old Property,2250.0,0,Sector 4 Gurgaon,0,0,0,0,0,0,13,5.0,5.0,5.0,5.0,5.0,49,1,13,5,0,0,0,0,0,0,0,0
+house,independent,5.25,22170,5,4,2,2,North,Old Property,2368.0,0,Sector 5 Gurgaon,0,0,0,1,1,0,24,4.0,4.0,5.0,4.0,4.25,49,2,12,5,0,0,0,0,0,0,0,0
+house,independent,3.5250000000000004,24439,4,4,2,2,East,Old Property,1442.0,0,Sector 4 Gurgaon,0,0,0,1,0,0,24,5.0,5.0,5.0,5.0,5.0,49,1,13,5,0,0,0,0,0,0,0,0
+house,independent,27.375,498671,7,9,3+,4,East,Relatively New,549.0,0,DLF Phase 1,1,1,1,1,0,2,42,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,7.949999999999999,41032,9,9,3+,3,East,Moderately Old,1938.0,0,C Block Sushant Lok Phase 1,0,1,0,0,0,2,35,4.0,4.0,4.0,4.0,4.0,46,1,4,5,2,0,0,0,0,0,0,0
+house,sushant lok 1 builder floors,9.375,46083,7,7,3+,3,North,Moderately Old,2034.0,0,Sushant Lok Phase 1,1,1,1,0,0,0,26,5.0,5.0,5.0,4.0,4.75,46,1,4,5,2,0,0,0,0,0,0,0
+house,dlf city plots phase 2,9.45,52571,4,4,3+,2,East,Old Property,1798.0,0,DLF Phase 2,0,1,1,0,0,0,49,5.0,5.0,5.0,5.0,5.0,3,1,1,0,0,0,0,0,0,0,0,0
+house,dlf city phase 1,8.25,45895,4,4,3+,2,East,Moderately Old,1798.0,0,Sector 26 Gurgaon,0,0,1,1,0,0,33,4.0,4.0,5.0,4.0,4.25,48,0,3,10,6,0,0,0,0,0,0,0
+house,independent,17.625,62023,4,5,3+,4,East,Relatively New,2842.0,0,DLF Phase 4,1,1,1,0,0,2,33,5.0,4.0,5.0,5.0,4.75,47,0,5,8,3,0,0,0,0,0,0,0
+house,dlf pink town house4.0 â˜…,2.85,5682,10,9,3+,3,North,Relatively New,5016.0,1,DLF Phase 3,0,0,0,0,1,1,19,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,0,0,0,0,1,1
+house,unitech escape3.8 â˜…,16.200000000000003,62191,4,4,3,2,North,Relatively New,2605.0,1,Nirvana Country,1,1,1,1,0,2,49,5.0,5.0,5.0,5.0,5.0,11,1,1,0,1,0,0,0,0,0,0,0
+house,vipul tatvam villa,9.6,37007,3,4,3,2,North,Relatively New,2594.0,1,Sector 48 Gurgaon,1,1,1,0,0,2,72,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,0,0,0,0
+house,central park flower valley,1.725,9954,2,2,3,2,North,Relatively New,1733.0,1,Sector-33 Sohna,1,0,0,0,0,2,24,4.0,4.0,5.0,4.0,4.25,11,2,1,0,0,0,0,0,0,0,0,0
+house,independent,8.25,35320,4,4,2,2,North,Relatively New,2336.0,0,Sector 48 Gurgaon,0,1,0,0,0,0,14,4.0,4.0,5.0,4.0,4.25,46,1,6,7,0,0,0,0,0,0,0,0
+house,rwa sector 46,5.25,32301,4,4,2,2,South-East,Relatively New,1625.0,0,Sector 46 Gurgaon,0,0,0,1,0,2,14,4.0,4.0,5.0,4.0,4.25,47,5,3,8,0,0,0,0,0,0,0,0
+house,independent,5.625,348387,4,4,3,3,East,Moderately Old,161.0,0,Sector 54 Gurgaon,0,1,0,0,0,0,9,4.0,5.0,4.0,4.0,4.25,44,1,5,12,2,1,0,0,0,0,0,0
+house,independent,6.375,39222,10,9,3+,4,North,Moderately Old,1625.0,0,South City 1,1,1,0,0,0,2,14,5.0,5.0,5.0,5.0,5.0,49,1,3,7,1,0,0,0,0,0,0,0
+house,independent,6.0,32598,6,6,3+,4,North-East,Old Property,1841.0,0,Sector 38 Gurgaon,1,1,0,1,1,2,76,4.0,4.0,5.0,4.0,4.25,47,4,5,7,0,0,0,0,0,0,0,0
+house,arjun marg/ sector- 26 phase- 1/ golf course road,47.25,52508,7,9,3+,3,North-East,Moderately Old,8999.0,0,"Near Golf Course Road, DLF Phase 1",1,1,1,1,0,1,23,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,vatika independent floors3.8 â˜…,2.1,12348,3,3,2,3,North-West,New Property,1701.0,0,Sector 82 Gurgaon,0,0,0,1,0,0,35,4.0,4.0,4.0,4.0,4.0,8,1,1,0,0,0,0,0,0,0,0,0
+house,vatika signature villas,7.5,23149,4,4,3+,3,East,Relatively New,3240.0,0,Sector 82 Gurgaon,0,1,1,1,0,0,22,4.0,4.0,4.0,4.0,4.0,3,1,0,0,0,0,0,0,0,0,0,0
+house,independent,25.5,56405,5,5,3+,2,North-East,Relatively New,4521.0,0,DLF Phase 1,1,1,1,1,0,0,58,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,sushant lok 1 builder floors,2.475,45987,4,4,3+,4,West,Moderately Old,538.0,1,Sushant Lok Phase 1,0,0,0,0,1,2,25,5.0,5.0,5.0,4.0,4.75,47,1,4,7,1,0,0,0,0,0,1,1
+house,the laburnum,16.5,40769,5,6,3+,3,East,New Property,4047.0,1,Sushant Lok Phase 1,0,1,0,1,0,2,76,5.0,5.0,5.0,4.0,4.75,47,1,4,7,1,0,0,0,0,0,0,0
+house,independent,16.5,53226,5,5,3+,2,Na,Relatively New,3100.0,0,DLF Phase 2,1,1,1,1,0,0,20,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,eros rosewood city4.0 â˜…,5.625,33075,3,3,1,2,South,Old Property,1701.0,0,Sector 49 Gurgaon,0,0,0,1,0,2,5,4.0,4.0,5.0,5.0,4.5,46,0,5,9,0,0,1,0,0,0,0,0
+house,ansal sushant lok 2,5.1,33367,6,6,3+,2,West,Moderately Old,1528.0,0,Sector 56 Gurgaon,0,0,0,0,0,2,18,4.0,5.0,5.0,4.0,4.5,47,1,5,14,3,1,0,0,1,0,0,0
+house,independent,6.75,50168,3,3,2,2,West,Old Property,1345.0,0,DLF Phase 1,0,0,0,1,0,2,28,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,independent,7.875,40645,4,4,2,2,Na,Old Property,1938.0,0,C Block Sushant Lok Phase 1,1,1,0,0,0,0,36,4.0,4.0,4.0,4.0,4.0,46,1,4,5,2,0,0,0,0,0,0,0
+house,independent,9.75,34311,4,4,2,2,Na,Old Property,2842.0,0,DLF Phase 3,0,0,0,1,0,0,23,4.0,5.0,5.0,4.0,4.5,44,0,3,11,6,0,0,0,0,0,0,0
+house,unitech espace,16.5,50927,4,4,3+,2,North,Moderately Old,3240.0,1,Nirvana Country,0,1,0,0,0,2,35,5.0,5.0,5.0,5.0,5.0,46,2,5,7,0,0,0,0,0,0,0,0
+house,unitech espace,11.25,51998,3,3,2,2,West,Moderately Old,2164.0,1,Nirvana Country,0,1,0,0,0,2,27,5.0,5.0,5.0,5.0,5.0,46,2,5,7,0,0,0,0,0,0,0,0
+house,independent,14.85,43937,5,5,2,2,South-East,Moderately Old,3380.0,0,DLF Phase 2,0,0,0,1,0,2,49,5.0,5.0,5.0,5.0,5.0,44,0,1,13,6,0,0,0,0,0,0,0
+house,uppal southend4.0 â˜…,10.125,48487,4,4,3,3,West,Relatively New,2088.0,1,Uppals Southend,0,1,0,0,0,2,14,5.0,5.0,5.0,5.0,5.0,46,0,5,9,0,0,0,0,0,0,0,0
+house,uppal southend4.0 â˜…,5.625,38425,6,6,3+,3,East,Moderately Old,1464.0,1,Uppals Southend,1,0,0,0,0,2,14,5.0,5.0,5.0,5.0,5.0,46,0,5,9,0,0,0,1,0,0,0,0
+house,independent,2.175,18538,4,4,2,2,North,Old Property,1173.0,1,Sector 15 Part 2,0,0,0,0,1,0,9,5.0,5.0,5.0,5.0,5.0,50,3,12,12,0,0,0,0,0,0,0,0
+house,independent,6.15,33413,3,3,2,1,North-East,Old Property,1841.0,1,Sector 15 Part 1,1,0,0,1,1,2,18,5.0,5.0,5.0,4.0,4.75,49,3,15,5,0,0,0,0,0,0,0,0
+house,independent,9.6,30439,6,6,3+,3,North,Old Property,3154.0,1,Sector 14 Gurgaon,0,0,0,0,1,0,23,4.0,5.0,5.0,4.0,4.5,50,2,8,12,0,0,1,0,0,0,0,0
+house,independent,5.25,27097,6,4,2,2,West,Old Property,1937.0,1,Sector 14 Gurgaon,0,0,0,0,1,2,18,4.0,5.0,5.0,4.0,4.5,50,2,8,12,0,0,0,1,0,0,0,0
+house,vatika signature villas,7.050000000000001,32585,3,3,3+,3,Na,New Property,2164.0,0,Sector 82 Gurgaon,0,1,0,0,0,0,19,4.0,4.0,4.0,4.0,4.0,3,1,0,0,0,0,0,0,0,0,0,0
+house,independent,11.25,24885,3,3,2,1,West,Old Property,4521.0,0,Sector 14 Gurgaon,1,1,0,1,0,2,18,4.0,5.0,5.0,4.0,4.5,50,2,8,12,0,0,0,0,0,0,0,0
+house,vipul tatvam villa,8.25,31803,3,6,2,2,North,Moderately Old,2594.0,0,Sector 48 Gurgaon,0,1,0,0,1,2,57,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,0,0,0,0
+house,vipul tatvam villa,11.475,28658,4,4,3,2,North-East,Moderately Old,4004.0,1,Sector 48 Gurgaon,1,1,0,0,1,0,33,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,1,0,0,0,0,0
+house,eldeco mansionz,7.725,28367,5,7,3,2,East,Moderately Old,2723.0,1,Sector 48 Gurgaon,0,1,0,1,0,2,76,4.0,4.0,5.0,4.0,4.25,46,1,6,7,0,0,0,0,0,0,0,0
+house,ss aaron ville,10.125,22503,5,4,2,2,North,New Property,4499.0,1,Uppals Southend,0,0,0,0,1,0,33,5.0,5.0,5.0,5.0,5.0,4,1,1,0,0,1,0,0,1,0,0,0
+house,independent,15.0,55520,5,5,3+,3,East,Moderately Old,2702.0,1,DLF Phase 2,0,1,0,1,0,1,20,5.0,5.0,5.0,5.0,5.0,41,0,4,10,7,0,1,0,0,0,0,0
+house,independent,12.75,28203,4,4,2,2,West,Old Property,4521.0,1,Sector 17B Gurgaon,1,1,0,1,0,2,13,5.0,5.0,5.0,5.0,5.0,46,0,4,4,3,0,0,0,0,0,0,0
+house,uppal southend4.0 â˜…,10.125,48487,12,12,3+,3,North,Moderately Old,2088.0,0,Uppals Southend,1,1,0,1,1,2,33,5.0,5.0,5.0,5.0,5.0,46,0,5,9,0,0,1,0,0,0,0,0
+house,independent,14.25,31521,8,8,3,3,West,Relatively New,4521.0,1,Sector 17 Gurgaon,1,0,0,0,0,2,18,5.0,5.0,5.0,5.0,5.0,48,0,5,13,1,0,0,0,0,0,0,0
+house,independent,8.25,25463,5,4,2,2,East,Old Property,3240.0,1,Sector 14 Gurgaon,1,0,0,0,0,0,18,4.0,5.0,5.0,4.0,4.5,50,2,8,12,0,0,0,0,0,0,0,0
+house,independent,9.69,28309,5,5,2,3,East,Moderately Old,3423.0,1,Sector 14 Gurgaon,1,1,0,1,0,2,18,4.0,5.0,5.0,4.0,4.5,50,2,8,12,0,0,0,0,0,0,0,0
+house,godrej meridien,8.399999999999999,20978,5,4,3+,33,North-East,New Property,4004.0,0,Sector 106 Gurgaon,1,1,1,1,0,0,66,4.0,4.0,5.0,4.0,4.25,9,1,1,0,2,0,0,0,1,0,0,0
+house,independent,15.75,48612,5,6,3+,3,Na,New Property,3240.0,0,DLF Phase 4,1,1,0,1,0,2,76,5.0,4.0,5.0,5.0,4.75,47,0,5,8,3,0,0,0,0,0,0,0
+house,independent,12.0,398156,5,4,3,2,North,Relatively New,301.0,0,Sector 57 Gurgaon,1,1,0,1,0,0,13,4.0,4.0,4.0,4.0,4.0,45,3,6,5,0,0,0,0,0,0,0,0
+house,international city by sobha phase 2,9.66,39710,4,5,3+,3,North-East,New Property,2433.0,0,Sector 109 Gurgaon,1,1,1,1,0,0,76,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,independent,11.25,34723,8,8,3+,3,North-East,Relatively New,3240.0,0,Sector 56 Gurgaon,1,1,0,1,0,1,29,4.0,5.0,5.0,4.0,4.5,47,1,5,14,3,0,0,0,0,0,0,0
+house,unitech aspen greens,10.5,48531,4,4,2,2,East,Old Property,2164.0,0,Nirvana Country,0,1,0,0,0,0,21,5.0,5.0,5.0,5.0,5.0,44,3,2,7,0,0,0,0,0,0,0,0
+house,independent,16.5,50927,13,13,3+,3,East,Relatively New,3240.0,0,DLF Phase 4,1,1,0,1,0,1,63,5.0,4.0,5.0,5.0,4.75,47,0,5,8,3,0,0,0,0,0,0,0
+house,ss aaron ville,9.75,28218,5,5,2,2,North-East,Relatively New,3455.0,0,Uppals Southend,1,1,0,1,0,2,19,5.0,5.0,5.0,5.0,5.0,4,1,1,0,0,0,0,0,0,0,0,0
+house,unitech nirvana birch court,10.2,47145,4,4,3+,2,South-East,Old Property,2164.0,0,Nirvana Country,1,1,0,1,0,0,55,5.0,5.0,5.0,5.0,5.0,44,3,2,7,0,0,0,0,0,0,0,0
+house,international city by sobha phase 1,10.125,16246,4,4,3+,2,North-East,New Property,6232.0,0,Sector 109 Gurgaon,0,1,0,1,0,0,76,5.0,4.0,3.0,4.0,4.0,13,1,1,0,1,0,0,0,0,0,0,0
+house,saksham welfare association,7.050000000000001,29771,6,6,3+,2,West,Old Property,2368.0,1,Sector 22 Gurgaon,0,0,1,1,0,0,67,4.0,4.0,5.0,5.0,4.5,36,1,2,7,0,0,0,0,0,0,0,0
+house,vipul tatvam villa,11.7,36112,4,4,3+,2,North-East,Relatively New,3240.0,0,Sector 48 Gurgaon,1,1,1,1,0,2,76,4.0,4.0,5.0,4.0,4.25,15,3,0,3,0,0,0,0,0,0,0,0
+house,international city by sobha phase 2,9.75,18044,4,4,3+,1,North-East,New Property,5403.0,0,Sector 109 Gurgaon,0,1,0,0,0,2,76,5.0,4.0,3.0,4.0,4.0,8,1,1,0,1,0,0,0,0,0,0,0
+house,unitech uniworld resorts,12.75,26738,5,5,3+,3,North,New Property,4768.0,0,Sector 33 Gurgaon,1,1,1,1,0,2,76,3.0,4.0,4.0,4.0,3.75,47,2,10,2,0,0,0,0,0,0,0,0
+house,rwa sector 46,6.75,36672,6,6,3+,3,North-East,Moderately Old,1841.0,1,"Gf,ff, 6bhk Demand-4.50cr, Sector 46 Gurgaon",0,0,1,0,0,2,28,4.0,4.0,5.0,4.0,4.25,47,5,3,8,0,0,0,0,0,0,0,0
+house,independent,6.675000000000001,49610,4,4,3,3,West,Old Property,1345.0,0,DLF Phase 1,0,0,0,0,0,0,19,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,sector 57 huda,5.699999999999999,39226,8,8,3+,4,East,Relatively New,1453.0,1,"Lift, Stilt Demand 3.80 Cr, Sector 57 Gurgaon",0,0,1,1,0,2,35,4.0,4.0,4.0,4.0,4.0,45,3,6,5,0,0,0,0,0,0,0,0
+house,independent,1.5,116129,2,2,0,0,Na,Old Property,129.0,0,Jyoti Park,1,0,0,0,0,0,4,4.0,4.0,4.0,4.0,4.0,50,1,23,5,0,0,0,0,0,0,0,0
+house,sector 38 rwa,2.1,36129,8,8,3,4,East,Moderately Old,581.0,1,"8 Rooms, 75k Rent Demand 1.40 Cr, Sector 38 Gurgaon",0,0,0,0,1,2,23,4.0,4.0,5.0,4.0,4.25,47,4,5,7,0,0,0,0,0,0,0,0
+house,unitech uniworld resorts,17.25,36841,5,6,3+,4,East,Relatively New,4682.0,0,Sector 33 Gurgaon,0,1,0,0,0,0,50,3.0,4.0,4.0,4.0,3.75,46,1,9,4,0,0,0,0,0,0,0,0
+house,huda,5.25,36129,3,2,3,2,East,Moderately Old,1453.0,1,Sector 38 Gurgaon,0,0,1,0,0,2,28,4.0,4.0,5.0,4.0,4.25,47,4,5,7,0,0,0,0,0,0,0,0
+house,nirvana cedar crest,10.65,49225,5,4,3,2,East,Moderately Old,2164.0,1,"Ground And First Floor At 7.10 Cr, Nirvana Country",1,0,1,1,0,2,49,5.0,5.0,5.0,5.0,5.0,45,3,2,7,0,0,0,0,0,0,0,0
+house,nul,14.25,50147,9,9,3+,3,North-West,Old Property,2842.0,0,DLF Phase 2,0,0,0,0,1,0,39,5.0,5.0,5.0,5.0,5.0,44,0,1,12,5,0,0,0,0,0,0,0
+house,unitech uniworld resorts,17.625,38986,5,7,3+,3,East,Relatively New,4521.0,0,Sector 33 Gurgaon,0,1,0,0,0,0,51,3.0,4.0,4.0,4.0,3.75,46,1,9,4,0,0,0,0,0,0,0,0
+house,independent,6.0,44594,4,4,3,2,North,Old Property,1345.0,0,DLF Phase 1,0,0,1,0,0,0,33,5.0,5.0,5.0,5.0,5.0,46,0,6,11,6,0,0,0,0,0,0,0
+house,ardee city3.8 â˜…,3.375,15599,3,3,3,4,South-East,New Property,2164.0,1,Sector 52 Gurgaon,0,1,0,0,0,2,20,4.0,5.0,5.0,4.0,4.5,45,3,6,6,0,0,0,0,0,0,0,0
+house,nul,18.75,77077,16,17,3+,4,South,Relatively New,2433.0,0,DLF Phase 4,1,1,0,1,1,2,67,5.0,4.0,5.0,5.0,4.75,47,0,5,8,3,0,1,0,0,0,0,0
+house,unitech uniworld resorts,16.5,36672,5,6,3,3,Na,New Property,4499.0,0,Sector 33 Gurgaon,1,1,0,0,0,0,41,3.0,4.0,4.0,4.0,3.75,46,1,9,4,0,0,0,0,0,0,0,0
+house,sector 38 rwa,6.449999999999999,43110,9,9,3+,3,East,Relatively New,1496.0,1,"Stilt,lift,demand At 4.30 Cr, Sector 38 Gurgaon",0,0,0,1,1,2,28,4.0,4.0,5.0,4.0,4.25,47,4,5,7,0,0,0,0,0,0,0,0
+house,unitech espace,11.175,51651,4,4,3,3,Na,Old Property,2164.0,1,Nirvana Country,0,1,0,0,0,0,38,5.0,5.0,5.0,5.0,5.0,46,2,5,7,0,0,0,0,0,0,0,0
+house,unitech espace,11.13,51443,4,4,3,2,West,Old Property,2164.0,1,Nirvana Country,0,0,0,0,0,0,54,5.0,5.0,5.0,5.0,5.0,46,2,5,7,0,0,0,0,0,0,0,0
+house,dlf city phase 1,13.875,71613,12,12,3+,4,North-East,New Property,1937.0,1,Sector 26 Gurgaon,0,1,0,1,0,2,24,4.0,4.0,5.0,4.0,4.25,48,0,3,10,6,0,0,0,0,0,0,0
+house,independent,1.7999999999999998,9342,3,2,2,3,Na,New Property,1927.0,1,Sector 23A Gurgaon,0,0,0,0,0,2,40,5.0,4.0,4.0,5.0,4.5,26,2,2,3,1,0,0,0,0,0,0,0
+house,independent,9.135,50516,12,11,3+,4,West,Moderately Old,1808.0,1,Malibu Town,0,0,0,1,0,1,33,5.0,4.0,5.0,5.0,4.75,45,3,2,5,0,0,0,0,0,0,1,0
+house,independent,7.5,66359,9,9,3+,5,East,New Property,1130.0,1,Sector 55 Gurgaon,0,0,0,0,1,2,33,4.0,4.0,5.0,4.0,4.25,42,1,5,13,3,0,0,0,0,0,0,0
+house,iffco nagar and 17b rwa,4.47,30761,6,6,3+,3,East,Relatively New,1453.0,0,Sector 17 Gurgaon,1,0,0,1,0,0,33,5.0,5.0,5.0,5.0,5.0,47,0,5,6,3,0,0,0,0,0,0,0
+house,huda floor,6.0,33378,9,9,3+,2,East,Relatively New,1798.0,1,Sector 38 Gurgaon,0,0,1,1,0,2,67,4.0,4.0,5.0,4.0,4.25,47,3,6,7,0,0,0,0,0,0,0,0
+house,independent,3.6,39816,4,4,3,3,East,Moderately Old,904.0,0,Sector 46 Gurgaon,0,0,1,0,0,0,20,4.0,4.0,5.0,4.0,4.25,47,5,2,5,0,0,0,0,0,0,0,0
+house,independent,4.725,30484,5,4,3+,2,North-East,Moderately Old,1550.0,0,Sector 57 Gurgaon,0,0,1,0,0,0,26,4.0,4.0,4.0,4.0,4.0,45,3,6,5,0,0,0,0,0,0,0,0
+house,independent,6.375,34635,5,4,2,3,North-East,Moderately Old,1841.0,0,Sector 46 Gurgaon,0,0,1,0,0,2,25,4.0,4.0,5.0,4.0,4.25,47,5,2,5,0,0,0,0,0,0,0,0
+house,independent,7.5,31672,9,9,3+,3,South-East,Relatively New,2368.0,0,Sector 40 Gurgaon,0,0,0,1,0,2,31,4.0,4.0,4.0,4.0,4.0,48,5,4,10,1,0,0,0,0,0,0,0
+house,independent,3.3000000000000003,36498,3,3,2,3,North-West,Old Property,904.0,0,Sector 46 Gurgaon,0,0,1,0,0,0,19,4.0,4.0,5.0,4.0,4.25,47,5,2,5,0,0,0,0,0,0,0,0
+house,independent,5.25,36129,4,3,3,2,South-West,Moderately Old,1453.0,0,Sector 31 Gurgaon,0,0,1,0,0,2,36,5.0,5.0,5.0,4.0,4.75,49,4,7,11,0,0,0,0,0,0,0,0
+house,independent,8.475000000000001,35789,8,6,3+,3,South-West,Moderately Old,2368.0,0,Sector 46 Gurgaon,0,1,0,0,0,2,35,4.0,4.0,5.0,4.0,4.25,47,5,2,5,0,0,0,0,0,0,0,0
+house,independent,5.324999999999999,36645,5,4,3+,3,North-West,Moderately Old,1453.0,0,Sector 46 Gurgaon,0,1,0,0,0,2,31,4.0,4.0,5.0,4.0,4.25,47,5,2,5,0,0,0,0,0,0,0,0
+house,independent,5.4,37161,5,5,3+,3,South-East,Moderately Old,1453.0,0,Sector 46 Gurgaon,0,1,0,0,0,2,35,4.0,4.0,5.0,4.0,4.25,47,5,2,5,0,0,0,0,0,0,0,0
+house,independent,4.65,30000,5,4,3+,2,North-East,Moderately Old,1550.0,0,Sushant Lok Phase 2,0,1,1,0,0,2,19,4.0,4.0,5.0,4.0,4.25,48,0,6,11,3,0,0,0,0,0,0,0
+house,independent,7.125,44425,3,3,3,2,North-West,Moderately Old,1604.0,1,Sushant Lok Phase 3,0,0,1,0,0,0,40,4.0,4.0,4.0,4.0,4.0,45,1,6,13,0,0,0,1,0,0,0,0
+house,silverglades tarudhan valley golf resort,4.574999999999999,18807,3,3,2,2,Na,Moderately Old,2433.0,0,Bissar,1,1,0,1,1,1,76,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,0,0,0,1,0,0,0
+house,dlf city phase 1,8.25,45895,4,4,3,2,North-East,Moderately Old,1798.0,0,Sector 26 Gurgaon,1,1,0,1,0,0,23,4.0,4.0,5.0,4.0,4.25,48,0,3,10,6,0,0,0,0,0,0,0
+house,dlf city plots phase 2,6.375,47381,3,2,3,2,North,Old Property,1345.0,0,DLF Phase 2,1,0,0,0,0,0,18,5.0,5.0,5.0,5.0,5.0,3,1,1,0,0,0,0,0,0,0,0,0
+house,dlf city phase 1,6.75,50168,3,3,2,2,East,Moderately Old,1345.0,0,Sector 26 Gurgaon,1,1,0,0,0,0,33,4.0,4.0,5.0,4.0,4.25,48,0,3,10,6,0,0,0,0,0,0,0
+house,dlf city phase 1,4.875,49770,3,3,3,2,West,Old Property,980.0,0,Sector 26 Gurgaon,1,0,0,0,0,0,40,4.0,4.0,5.0,4.0,4.25,48,0,3,10,6,0,0,0,0,0,0,0
+house,silverglades tarudhan valley golf resort,5.4,22198,3,3,2,2,Na,Moderately Old,2433.0,0,Bissar,1,1,0,1,1,1,76,4.0,4.0,5.0,4.0,4.25,0,0,0,0,0,1,0,0,1,0,0,0
