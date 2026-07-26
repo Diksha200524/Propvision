@@ -21,8 +21,12 @@ st.title("🌍 Residential Plot Price Prediction")
 # Load Dataset
 # -----------------------------------------------------
 
-df = pd.read_csv("D:\data science\propvision\datasets\cleaned_plot_final.csv")
+from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATASET_DIR = BASE_DIR / "datasets"
+
+df = pd.read_csv(DATASET_DIR / "cleaned_plot_final.csv")
 # -----------------------------------------------------
 # Sidebar
 # -----------------------------------------------------

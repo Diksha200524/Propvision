@@ -10,7 +10,12 @@ from modules.investment import investment_summary
 # Load Dataset
 # ------------------------------------------
 
-df = pd.read_csv("datasets/flat_final.csv")
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATASET_DIR = BASE_DIR / "datasets"
+
+df = pd.read_csv(DATASET_DIR / "flat_final.csv")
 
 st.set_page_config(page_title="Flat Price Prediction", layout="wide")
 
@@ -142,7 +147,19 @@ if st.button("Predict Price"):
         renovated
     )
 
-    prediction = predict_flat(sample)
+    try:
+        prediction = predict_flat(sample)
+
+    except Exception as e:
+        st.error(f"Prediction failed: {e}")
+        st.stop()
+    price_per_sqft = (prediction * 10000000) / area
+    c1, c2, c3, c4 = st.columns(4)
+
+    c1.metric("Price", f"₹ {prediction:.2f} Cr")
+    c2.metric("Area", f"{area} Sq.ft")
+    c3.metric("Bedrooms", bedroom)
+    c4.metric("Price/Sq.ft", f"₹ {price_per_sqft:,.0f}")
 
     st.success(
         f"Predicted Price : ₹ {prediction:.2f} Cr"
@@ -152,24 +169,7 @@ if st.button("Predict Price"):
     # Property Summary
     # --------------------------------------
 
-    c1, c2, c3 = st.columns(3)
 
-    c1.metric(
-        "Area",
-        f"{area} Sq.ft"
-    )
-
-    c2.metric(
-        "Bedrooms",
-        bedroom
-    )
-
-    c3.metric(
-        "Bathrooms",
-        bathroom
-    )
-
-    st.divider()
 
     # --------------------------------------
     # EMI Calculator
@@ -177,7 +177,7 @@ if st.button("Predict Price"):
 
     st.subheader("🏦 EMI Calculator")
 
-    loan = prediction * 0.8
+
 
     # prediction is in Crores
     loan_amount = prediction * 10000000 * 0.80
@@ -208,6 +208,7 @@ if st.button("Predict Price"):
     st.divider()
 
     # --------------------------------------
+    # --------------------------------------
     # Investment Analysis
     # --------------------------------------
 
@@ -220,12 +221,31 @@ if st.button("Predict Price"):
         monthly_rent=30000
     )
 
-    st.dataframe(
-        pd.DataFrame(
-            summary.items(),
-            columns=["Metric", "Value"]
-        ),
-        use_container_width=True
+    # Uncomment once to check available keys
+    # st.write(summary)
+
+    col1, col2 = st.columns(2)
+
+    future_value = (
+        summary.get("Future Property Value")
+        or summary.get("Future Value")
+        or 0
+    )
+
+    capital_gain = (
+        summary.get("Capital Gain")
+        or summary.get("Profit")
+        or 0
+    )
+
+    col1.metric(
+        "Future Value",
+        f"₹ {future_value:,.2f}"
+    )
+
+    col2.metric(
+        "Capital Gain",
+        f"₹ {capital_gain:,.2f}"
     )
 
     st.divider()
@@ -236,13 +256,60 @@ if st.button("Predict Price"):
 
     st.subheader("🏠 Similar Properties")
 
-    similar = df[
-        (df["locality"] == locality)
+    similar = df[df["locality"] == locality].copy()
+
+    # Calculate similarity
+    similar["area_diff"] = abs(similar["area"] - area)
+    similar["bedroom_diff"] = abs(similar["bedRoom"] - bedroom)
+    similar["bathroom_diff"] = abs(similar["bathroom"] - bathroom)
+
+    # Filter similar price range
+    similar = similar[
+        (similar["price"] >= prediction * 0.80)
         &
-        (df["bedRoom"] == bedroom)
+        (similar["price"] <= prediction * 1.20)
     ]
 
-    st.dataframe(
-        similar.head(5),
-        use_container_width=True
+    # Sort by similarity
+    similar = similar.sort_values(
+        by=[
+            "bedroom_diff",
+            "bathroom_diff",
+            "area_diff"
+        ]
     )
+
+    # Remove helper columns
+    similar.drop(
+        columns=[
+            "area_diff",
+            "bedroom_diff",
+            "bathroom_diff"
+        ],
+        inplace=True
+    )
+
+    display_columns = [
+        "society",
+        "price",
+        "price_per_sqft",
+        "area",
+        "bedRoom",
+        "bathroom",
+        "balcony",
+        "locality"
+    ]
+
+    # Keep only existing columns
+    display_columns = [
+        col for col in display_columns
+        if col in similar.columns
+    ]
+
+    if len(similar) > 0:
+        st.dataframe(
+            similar[display_columns].head(5),
+            use_container_width=True
+        )
+    else:
+        st.info("No similar properties found.")

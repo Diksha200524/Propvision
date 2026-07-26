@@ -14,7 +14,12 @@ st.set_page_config(
 # Load Dataset
 # ----------------------------------------------------
 
-df = pd.read_csv("datasets/cleaned_house_final.csv")
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATASET_DIR = BASE_DIR / "datasets"
+
+df = pd.read_csv(DATASET_DIR / "cleaned_house_final.csv")
 
 st.title("🏡 Independent House Price Prediction")
 
