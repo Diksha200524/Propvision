@@ -19,10 +19,13 @@ from sklearn.metrics import (
 # Load Dataset
 # =====================================================
 
-DATA_PATH = r"D:\data science\propvision\datasets\flat_final.csv"
+from pathlib import Path
+import pandas as pd
 
-df = pd.read_csv(DATA_PATH)
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATASET_DIR = BASE_DIR / "datasets"
 
+df = pd.read_csv(DATASET_DIR / "flat_final.csv")
 print("=" * 60)
 print("Dataset Shape :", df.shape)
 print("=" * 60)

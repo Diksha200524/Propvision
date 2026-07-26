@@ -8,14 +8,15 @@ from sklearn.metrics.pairwise import cosine_similarity
 # Paths
 # ---------------------------------------------------------
 
+from pathlib import Path
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-DATASET_DIR = BASE_DIR / "dataset"
+DATASET_DIR = BASE_DIR / "datasets"
 
-FLAT_DATA = DATASET_DIR / r"D:\data science\propvision\datasets\flat_final.csv"
-HOUSE_DATA = DATASET_DIR / r"D:\data science\propvision\datasets\cleaned_house_final.csv"
-PLOT_DATA = DATASET_DIR / r"D:\data science\propvision\datasets\cleaned_plot_final.csv"
-
+FLAT_DATA = DATASET_DIR / "flat_final.csv"
+HOUSE_DATA = DATASET_DIR / "cleaned_house_final.csv"
+PLOT_DATA = DATASET_DIR / "cleaned_plot_final.csv"
 
 # ---------------------------------------------------------
 # Load Dataset

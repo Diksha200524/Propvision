@@ -8,12 +8,12 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-DATASET_DIR = BASE_DIR / "dataset" / "gurugram"
+DATASET_DIR = BASE_DIR / "dataset"
 
 DATASETS = {
-    "flat": DATASET_DIR / "flats.csv",
-    "house": DATASET_DIR / "independent-house.csv",
-    "plot": DATASET_DIR / "residential-land.csv"
+    "flat": DATASET_DIR / "datasets/flat_final.csv",
+    "house": DATASET_DIR / "cleaned_house_final.csv",
+    "plot": DATASET_DIR / "cleaned_plot_final.csv"
 }
 
 
