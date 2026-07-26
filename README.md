@@ -151,27 +151,6 @@ Evaluation Metrics
 - MAE (Mean Absolute Error)
 - RMSE (Root Mean Squared Error)
 
----
-
-## 📸 Screenshots
-
-### Home Page
-
-(Add Screenshot)
-
-### Flat Prediction
-
-(Add Screenshot)
-
-### House Prediction
-
-(Add Screenshot)
-
-### Plot Prediction
-
-(Add Screenshot)
-
----
 
 ## 🌟 Future Improvements
 
