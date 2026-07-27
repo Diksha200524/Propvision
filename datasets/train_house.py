@@ -128,7 +128,18 @@ numerical_features = [
 # =========================================================
 # Split
 # =========================================================
+Q1 = df["price"].quantile(0.25)
+Q3 = df["price"].quantile(0.75)
 
+IQR = Q3 - Q1
+
+lower = Q1 - 1.5 * IQR
+upper = Q3 + 1.5 * IQR
+
+df = df[
+    (df["price"] >= lower) &
+    (df["price"] <= upper)
+]
 X = df[selected_features]
 y = df[TARGET]
 
@@ -165,6 +176,9 @@ preprocessor = ColumnTransformer([
 
 model = RandomForestRegressor(
     n_estimators=500,
+    max_depth=20,
+    min_samples_split=5,
+    min_samples_leaf=2,
     random_state=42,
     n_jobs=-1
 )
@@ -242,14 +256,53 @@ print(importance_df.head(20))
 # =========================================================
 # Save Model
 # =========================================================
+# =========================================================
+# Save Model & Artifacts
+# =========================================================
 
-MODEL_DIR = r"D:\data science\propvision\models"
+MODEL_DIR = BASE_DIR / "models"
+MODEL_DIR.mkdir(exist_ok=True)
 
-os.makedirs(MODEL_DIR, exist_ok=True)
-
+# Save Model
 joblib.dump(
     pipeline,
-    os.path.join(MODEL_DIR, "house_model.pkl")
+    MODEL_DIR / "house_model.pkl"
 )
 
-print("\nModel Saved Successfully")
+# Save Selected Features
+joblib.dump(
+    selected_features,
+    MODEL_DIR / "house_features.pkl"
+)
+
+# Save Localities
+localities = sorted(
+    df["locality"].dropna().unique()
+)
+
+joblib.dump(
+    localities,
+    MODEL_DIR / "house_localities.pkl"
+)
+
+# Save Feature Importance
+importance_df.to_csv(
+    MODEL_DIR / "house_feature_importance.csv",
+    index=False
+)
+
+# Save Metrics
+metrics = {
+    "R2": r2_score(y_test, pred),
+    "MAE": mean_absolute_error(y_test, pred),
+    "RMSE": root_mean_squared_error(y_test, pred),
+    "CV_R2": scores.mean()
+}
+
+joblib.dump(
+    metrics,
+    MODEL_DIR / "house_metrics.pkl"
+)
+
+print("\nAll artifacts saved successfully!")
+print(MODEL_DIR)

@@ -102,7 +102,18 @@ numerical_features = [
 # =====================================================
 # Train Test Split
 # =====================================================
+Q1 = df["price"].quantile(0.25)
+Q3 = df["price"].quantile(0.75)
 
+IQR = Q3 - Q1
+
+lower = Q1 - 1.5 * IQR
+upper = Q3 + 1.5 * IQR
+
+df = df[
+    (df["price"] >= lower) &
+    (df["price"] <= upper)
+]
 X = df[selected_features]
 y = df[TARGET]
 
@@ -139,10 +150,12 @@ preprocessor = ColumnTransformer([
 
 model = RandomForestRegressor(
     n_estimators=500,
+    max_depth=20,
+    min_samples_split=5,
+    min_samples_leaf=2,
     random_state=42,
     n_jobs=-1
 )
-
 pipeline = Pipeline([
     ("preprocessor", preprocessor),
     ("model", model)
@@ -164,12 +177,7 @@ print("Training Completed.")
 
 pred = pipeline.predict(X_test)
 
-print("\nModel Performance")
-print("-" * 40)
 
-print("R²   :", round(r2_score(y_test, pred), 4))
-print("MAE  :", round(mean_absolute_error(y_test, pred), 4))
-print("RMSE :", round(root_mean_squared_error(y_test, pred), 4))
 
 # =====================================================
 # Cross Validation
@@ -217,13 +225,37 @@ print(importance_df.head(20))
 # Save Model
 # =====================================================
 
-MODEL_DIR = r"D:\data science\propvision\models"
+MODEL_DIR = BASE_DIR / "models"
 
+MODEL_DIR.mkdir(exist_ok=True)
+joblib.dump(
+    pipeline,
+    MODEL_DIR / "plot_model.pkl"
+)
 os.makedirs(MODEL_DIR, exist_ok=True)
+importance_df.to_csv(
+    os.path.join(
+        MODEL_DIR,
+        "plot_feature_importance.csv"
+    ),
+    index=False
+)
+localities = sorted(
+    df["locality"].dropna().unique()
+)
+
+
 
 MODEL_PATH = os.path.join(
     MODEL_DIR,
     "plot_model.pkl"
+)
+joblib.dump(
+    selected_features,
+    os.path.join(
+        MODEL_DIR,
+        "plot_features.pkl"
+    )
 )
 
 joblib.dump(
@@ -233,3 +265,17 @@ joblib.dump(
 
 print("\nModel Saved Successfully")
 print(MODEL_PATH)
+metrics = {
+    "R2": r2_score(y_test, pred),
+    "MAE": mean_absolute_error(y_test, pred),
+    "RMSE": root_mean_squared_error(y_test, pred),
+    "CV_R2": scores.mean()
+}
+
+joblib.dump(
+    metrics,
+    os.path.join(
+        MODEL_DIR,
+        "plot_metrics.pkl"
+    )
+)

@@ -1,0 +1,665 @@
+Feature,Importance
+num__area,0.8159840892812971
+num__open_sides,0.03058932521665373
+cat__possession_undefined,0.013441601951785719
+cat__locality_DLF Phase 2,0.012711207468686793
+bin__park_facing,0.009493828250863985
+cat__locality_Sector 108 Gurgaon,0.00845088285242494
+bin__freehold,0.007824239360730482
+bin__ready_to_move,0.006931114843409202
+bin__corner_property,0.006845833789843614
+cat__possession_Immediate,0.006731431566501001
+cat__locality_DLF Phase 3,0.006528135725409604
+cat__locality_Sohna,0.004297252340325129
+cat__locality_DLF Phase 4,0.003921710425633184
+cat__locality_Palam Vihar,0.0035130134149356693
+cat__locality_Sector 73 Gurgaon,0.003372040870657538
+cat__locality_C Block Sushant Lok Phase 1,0.0030696378889280627
+cat__locality_Maruti Kunj,0.0030516721836293275
+cat__locality_Unknown,0.002872653492269686
+cat__locality_Sector 102 Gurgaon,0.0026185924325577486
+cat__locality_Sector 63A Gurgaon,0.002491448974966509
+cat__locality_Sector 99A Gurgaon,0.0024061611297217156
+cat__locality_B Block Sushant Lok Phase 1,0.0021678173159901406
+cat__locality_Farrukh Nagar,0.002116769798085865
+cat__locality_New Palam Vihar,0.0018495605604126847
+cat__locality_Sector 88A Gurgaon,0.0017465538302574692
+cat__locality_Sec 88b,0.0017321342509943475
+cat__locality_Sector 65 Gurgaon,0.001684107215086613
+cat__locality_DLF Phase 1,0.0014453811691812245
+cat__locality_Sector 83 Gurgaon,0.0013782270288558223
+cat__locality_Sushant Lok Phase 1,0.001353664386114221
+cat__locality_Dlf Phase 2,0.001340180260808686
+cat__locality_Sector 46 Gurgaon,0.0011891275307952028
+cat__locality_Block B,0.0011767379348136338
+cat__locality_N/a,0.0011374201958867184
+cat__locality_Sohna Road,0.0010873566278517535
+cat__locality_Sector 9A Gurgaon,0.0009509603263617583
+cat__locality_Block,0.0009031324374494051
+cat__locality_Block C,0.0008919586297046752
+cat__locality_Sector-33 Sohna,0.000883810537456749
+cat__locality_Dlf Phase 1,0.0008282993139140147
+cat__possession_Future,0.0008183302826639649
+cat__locality_Sector-35 Sohna,0.0007128217330653731
+cat__locality_K Block,0.0007026873547356158
+cat__locality_South City 1,0.0005913926898075737
+cat__locality_Malibu Town,0.0005727623426340363
+cat__locality_Bhondsi,0.0005564312982036467
+cat__locality_Sector 43 Gurgaon,0.000548363307194034
+cat__locality_Sushant Lok Phase 3,0.0005424231098257381
+cat__locality_Amber,0.0004933116155223775
+cat__locality_C Block,0.00047586121168697004
+cat__locality_Sector 42 Gurgaon,0.000475799951393728
+cat__locality_18 Meter Road,0.00043000969079214855
+cat__locality_Sector 95 Gurgaon,0.00041106031676692295
+cat__locality_126,0.0004061123408079794
+cat__locality_267sqyd,0.0003956962871392319
+cat__locality_Xyz,0.00038961071840269885
+cat__locality_Sector 9 Gurgaon,0.0003725609458023015
+cat__locality_Sector 93 Gurgaon,0.0003570567565159633
+cat__locality_Sector 67 Gurgaon,0.00033455649112105177
+cat__locality_Sector 67A Gurgaon,0.0003290429132867233
+cat__locality_Sector 45 Gurgaon,0.0003267681031876236
+cat__locality_Sector 57 Gurgaon,0.00032149999887614374
+cat__locality_Sushant Lok 1,0.0003085292290184717
+cat__locality_South City 2,0.0003062551720190626
+cat__locality_Sector 91 Gurgaon,0.00027053703459170244
+cat__locality_Sector 99 Gurgaon,0.0002696481388469134
+cat__locality_Sector 88B Gurgaon,0.00025745940327268085
+cat__locality_001,0.0002554237646994695
+cat__locality_H-0,0.00025422960120412524
+cat__locality_Sector 38 Gurgaon,0.00025405929715085606
+cat__locality_Park,0.0002348569040516751
+cat__locality_Sector-5 Sohna,0.00023252376854022394
+cat__locality_Sector 89 Gurgaon,0.0002226578598987855
+cat__locality_000,0.00022053511430899115
+cat__locality_12345,0.00019033275858335624
+cat__possession_Within_3_months,0.00019029600093723364
+cat__locality_Sector 47 Gurgaon,0.00017629946062663404
+cat__locality_Sector 82A Gurgaon,0.00016237859763643193
+cat__locality_Sector 10A Gurgaon,0.0001602556247602539
+cat__locality_Sector 66 Gurgaon,0.00015790619178570884
+cat__locality_New Palam Vihar Phase 2,0.00014958744962210766
+cat__possession_Within_6_months,0.00014790491894414368
+cat__locality_Sector 52 Gurgaon,0.00012109601428013722
+cat__locality_Dlf Phase 3,9.698892693739549e-05
+cat__locality_Badshapur,9.681741046098472e-05
+cat__locality_Sector 78 Gurgaon,9.459730718930403e-05
+cat__locality_Sector 49 Gurgaon,9.101126891245701e-05
+cat__locality_35x,8.74821035552821e-05
+cat__locality_A Block,8.268787370071519e-05
+cat__locality_D Block,8.13040950581871e-05
+cat__locality_10...,8.010634151601348e-05
+cat__locality_Sector 70A Gurgaon,7.389846992392055e-05
+cat__locality_0000,6.081844489890467e-05
+cat__locality_DLF Phase 5,5.931190129350083e-05
+cat__locality_122,5.878435801659932e-05
+cat__locality_hilalpur,5.4981169418343084e-05
+cat__locality_Pataudi,5.286345999124729e-05
+cat__locality_270sqyd,5.249295625466149e-05
+cat__locality_N 4,5.1995187842215204e-05
+cat__locality_Sector 42,4.7881522651800044e-05
+cat__locality_Farukhnagar,4.193096991005509e-05
+cat__locality_B Block,4.093219174461824e-05
+cat__locality_Golf Course Extn. Road,3.77970255939538e-05
+cat__locality_Sector 40 Gurgaon,3.6736789744827675e-05
+cat__locality_Uppals Southend,3.4900140583296795e-05
+cat__locality_100,3.388415993075104e-05
+cat__locality_Golf Course Road,3.065549038042047e-05
+cat__locality_1082 E,2.5727823551173298e-05
+cat__locality_120,2.461542611627044e-05
+cat__locality_Sector 60 Gurgaon,2.3831643553627722e-05
+cat__locality_Sector 110 A Gurgaon,2.377825536335268e-05
+cat__locality_Sector 93,2.3062867395361673e-05
+cat__locality_New Colony,2.2493199104873782e-05
+cat__locality_Sector 50 Gurgaon,1.9696832335345936e-05
+cat__locality_591,1.8966970723332223e-05
+cat__locality_I Block,1.8945228517399697e-05
+cat__locality_Sector 63 Gurgaon,1.8920435585048437e-05
+cat__locality_Badashapur,1.3799873147022967e-05
+cat__locality_Sector 92 Gurgaon,1.2819356769880852e-05
+cat__locality_Sector 48 Gurgaon,1.1949248358643664e-05
+cat__locality_Sector 23 Gurgaon,1.1426032382305993e-05
+cat__locality_Sector 51 Gurgaon,1.0891765039980864e-05
+cat__locality_333,9.77400244569696e-06
+cat__locality_Sector 56 Gurgaon,8.909097973713968e-06
+cat__locality_J Block,8.352337643673871e-06
+cat__locality_Laxman Vihar,8.265361998185098e-06
+cat__locality_Sector 95A Gurgaon,7.90121576286702e-06
+cat__locality_009,7.862522831258651e-06
+cat__locality_Valencia,7.51435805787552e-06
+cat__locality_Sultanpur,7.442708047035777e-06
+cat__locality_Sector 7 Gurgaon,6.480824592873342e-06
+cat__locality_Block M,6.321247352776655e-06
+cat__locality_Plot,5.660986972241055e-06
+cat__locality_Sector-2 Sohna,5.5831649350011695e-06
+cat__locality_003,4.767785893035536e-06
+cat__locality_Sector 102,4.518662813056549e-06
+cat__locality_Garhi Harsaru,3.481393293459394e-06
+cat__locality_Dharam Colony,3.2544411220017093e-06
+cat__locality_Sector 27 Gurgaon,2.8040656653500125e-06
+cat__locality_011,2.4849145798764336e-06
+cat__locality_E Block,1.955735290588823e-06
+cat__locality_Rajendra Park,1.948943380767542e-06
+cat__locality_Sector 23A Gurgaon,1.9045706519622177e-06
+cat__locality_002,1.4620555695048713e-06
+cat__locality_Sector 10 Gurgaon,6.651202409239537e-07
+cat__locality_1234,6.592236946311801e-07
+cat__locality_Sector 85 Gurgaon,5.64801908325122e-07
+cat__locality_Southern Peripheral Road,5.430355677281813e-07
+cat__locality_134,4.094023826212501e-07
+cat__locality_Subhash Chwok,3.972266223736821e-07
+cat__locality_136,3.2169379506585985e-07
+cat__locality_332211,0.0
+cat__locality_3344,0.0
+cat__locality_343,0.0
+cat__locality_3521,0.0
+cat__locality_3567,0.0
+cat__locality_360sqyd,0.0
+cat__locality_38800000,0.0
+cat__locality_426,0.0
+cat__locality_432,0.0
+cat__locality_444,0.0
+cat__locality_446,0.0
+cat__locality_453,0.0
+cat__locality_4587,0.0
+cat__locality_47 No.,0.0
+cat__locality_475,0.0
+cat__locality_480,0.0
+cat__locality_484 Yards To 3130 Yards Plot,0.0
+cat__locality_485,0.0
+cat__locality_50 Meters Inside From Main Medanta Hospital Between Medanta Hospital And Bakhtawar Singh Chowk,0.0
+cat__locality_5000 Sereis,0.0
+cat__locality_515,0.0
+cat__locality_533,0.0
+cat__locality_544,0.0
+cat__locality_5455,0.0
+cat__locality_547,0.0
+cat__locality_5498,0.0
+cat__locality_551,0.0
+cat__locality_555,0.0
+cat__locality_567,0.0
+cat__locality_5745,0.0
+cat__locality_5800,0.0
+cat__locality_60 Meter Road,0.0
+cat__locality_608,0.0
+cat__locality_61,0.0
+cat__locality_611,0.0
+cat__locality_6200 Lane,0.0
+cat__locality_63x,0.0
+cat__locality_643,0.0
+cat__locality_6526,0.0
+cat__locality_6662,0.0
+cat__locality_68489,0.0
+cat__locality_70-81,0.0
+cat__locality_746p,0.0
+cat__locality_785,0.0
+cat__locality_78524,0.0
+cat__locality_788.,0.0
+cat__locality_876,0.0
+cat__locality_918,0.0
+cat__locality_919,0.0
+cat__locality_965,0.0
+cat__locality_981,0.0
+cat__locality_999,0.0
+cat__locality_A,0.0
+cat__locality_A 100,0.0
+cat__locality_A 101,0.0
+cat__locality_A 22,0.0
+cat__locality_A 28,0.0
+cat__locality_A 5,0.0
+cat__locality_A Block Gated Locality,0.0
+cat__locality_A Block Sushant Lok Phase 1,0.0
+cat__locality_A-10,0.0
+cat__locality_A-1000,0.0
+cat__locality_A-11,0.0
+cat__locality_A-12,0.0
+cat__locality_A-18,0.0
+cat__locality_A-20,0.0
+cat__locality_A-21,0.0
+cat__locality_A-28,0.0
+cat__locality_A-35,0.0
+cat__locality_A-37,0.0
+cat__locality_A-49,0.0
+cat__locality_A-50,0.0
+cat__locality_A-52,0.0
+cat__locality_A-55,0.0
+cat__locality_A-62,0.0
+cat__locality_A-77,0.0
+cat__locality_A-79,0.0
+cat__locality_A-87,0.0
+cat__locality_A/2,0.0
+cat__locality_A/35,0.0
+cat__locality_A/6,0.0
+cat__locality_A00,0.0
+cat__locality_A05,0.0
+cat__locality_A101,0.0
+cat__locality_A107,0.0
+cat__locality_A122,0.0
+cat__locality_A149,0.0
+cat__locality_A20,0.0
+cat__locality_A23,0.0
+cat__locality_A25,0.0
+cat__locality_A26,0.0
+cat__locality_A278,0.0
+cat__locality_A3 Block,0.0
+cat__locality_A356,0.0
+cat__locality_A67,0.0
+cat__locality_A85,0.0
+cat__locality_A87,0.0
+cat__locality_A95,0.0
+cat__locality_Arjun Marg,0.0
+cat__locality_At The Gate Of Bptp Centra,0.0
+cat__locality_Avenue 69 Society,0.0
+cat__locality_B 55,0.0
+cat__locality_B Block Sushant Lok 1,0.0
+cat__locality_B Blok,0.0
+cat__locality_B-110,0.0
+cat__locality_B-125,0.0
+cat__locality_B-22,0.0
+cat__locality_B-24,0.0
+cat__locality_B-26,0.0
+cat__locality_B-35,0.0
+cat__locality_B-40-50,0.0
+cat__locality_B-66,0.0
+cat__locality_B-671,0.0
+cat__locality_B-74,0.0
+cat__locality_B-77,0.0
+cat__locality_B-79,0.0
+cat__locality_B-97,0.0
+cat__locality_B-Ii-07,0.0
+cat__locality_B-Ii-44 Two Side Open With Park,0.0
+cat__locality_B1-17 Perfect East Facing,0.0
+cat__locality_B178,0.0
+cat__locality_B3 Lane,0.0
+cat__locality_B8765,0.0
+cat__locality_Back Side Open Green Belt,0.0
+cat__locality_Badshahpur,0.0
+cat__locality_Basai Road,0.0
+cat__locality_Behrampur Village,0.0
+cat__locality_Best Location,0.0
+cat__locality_Bhiwadi Road,0.0
+cat__locality_Bhora Kalan,0.0
+cat__locality_Bilaspur,0.0
+cat__locality_Block - I,0.0
+cat__locality_Block -B Sushant Lok-1,0.0
+cat__locality_Block -K,0.0
+cat__locality_Block A,0.0
+cat__locality_Block B & C,0.0
+cat__locality_Block B1 Sushant Lok Phase 3,0.0
+cat__locality_Block D 204,0.0
+cat__locality_Block D 209,0.0
+cat__locality_Block D3,0.0
+cat__locality_Block G,0.0
+cat__locality_Block K,0.0
+cat__locality_Block K1 New Palam Vihar Phase 1,0.0
+cat__locality_Block N,0.0
+cat__locality_Block O,0.0
+cat__locality_Block T New Palam Vihar Phase 2,0.0
+cat__locality_Block-,0.0
+cat__locality_Block-A,0.0
+cat__locality_Block-J,0.0
+cat__locality_Bloock G,0.0
+cat__locality_Bloock J,0.0
+cat__locality_Bptp,0.0
+cat__locality_C 10,0.0
+cat__locality_C 44,0.0
+cat__locality_C- Block,0.0
+cat__locality_C-19,0.0
+cat__locality_C-26,0.0
+cat__locality_C-33,0.0
+cat__locality_C-50,0.0
+cat__locality_C-50-70,0.0
+cat__locality_C-75,0.0
+cat__locality_C-77,0.0
+cat__locality_C-Block,0.0
+cat__locality_C11,0.0
+cat__locality_C2-44,0.0
+cat__locality_C24,0.0
+cat__locality_Carterpuri Village,0.0
+cat__locality_Catagory F,0.0
+cat__locality_Central Park,0.0
+cat__locality_Close To Shopping Centre,0.0
+cat__locality_Corner,0.0
+cat__locality_Corner Plot,0.0
+cat__locality_Cuz,0.0
+cat__locality_D 203,0.0
+cat__locality_D 40,0.0
+cat__locality_D-06,0.0
+cat__locality_D-1,0.0
+cat__locality_D-247,0.0
+cat__locality_D-89,0.0
+cat__locality_D101,0.0
+cat__locality_15b,0.0
+cat__locality_Vyapar Kendra 001,0.0
+cat__locality_Ddd,0.0
+cat__locality_Dddd,0.0
+cat__locality_Ddjay,0.0
+cat__locality_Ddjay A7,0.0
+cat__locality_Defence Colony,0.0
+cat__locality_Devilal Colony,0.0
+cat__locality_Dhankot,0.0
+cat__locality_Vijay Vihar,0.0
+cat__locality_Dhumaspur,0.0
+cat__locality_Dlf,0.0
+cat__locality_Dlf 2,0.0
+cat__locality_Dlf 3,0.0
+cat__locality_Dlf City Pahse 1,0.0
+cat__locality_Dlf City Phase 1,0.0
+cat__locality_Dlf City Phase 2,0.0
+cat__locality_00001,0.0
+cat__locality_0001,0.0
+cat__locality_00012,0.0
+cat__locality_Dwarka Expressway,0.0
+cat__locality_Dwarka Expressway Gurgaon,0.0
+cat__locality_Dwarkaexpressway,0.0
+cat__locality_0002,0.0
+cat__locality_E-5,0.0
+cat__locality_East,0.0
+cat__locality_East Facing,0.0
+cat__locality_Emmar India Sector 62,0.0
+cat__locality_Excellent Location,0.0
+cat__locality_F 12,0.0
+cat__locality_F-120,0.0
+cat__locality_F/20,0.0
+cat__locality_Far 4,0.0
+cat__locality_0005,0.0
+cat__locality_0006,0.0
+cat__locality_Fazilpur Jharsa,0.0
+cat__locality_For Sale - 3 Side Corner Open Land Facing The Main Dwarka Express Highway Near To Delhi Border,0.0
+cat__locality_G 1017,0.0
+cat__locality_G Block,0.0
+cat__locality_G- Block Rajendra Park,0.0
+cat__locality_G-Block,0.0
+cat__locality_Gali no 18,0.0
+cat__locality_Garden Villas,0.0
+cat__locality_0007,0.0
+cat__locality_Gated Society At G Block,0.0
+cat__locality_Golf Course Extension Road,0.0
+cat__locality_Golf Course Extn Road Facing,0.0
+cat__locality_0009,0.0
+cat__locality_0025,0.0
+cat__locality_Greater Sohna Road Badshapur,0.0
+cat__locality_Greenwood City,0.0
+cat__locality_Gulmohar Avanue 3,0.0
+cat__locality_Gulmohar Green Plot On Excellent Location,0.0
+cat__locality_Gurgaon,0.0
+cat__locality_Gurgaon Faridabad Road,0.0
+cat__locality_Gwal Pahari,0.0
+cat__locality_H 33,0.0
+cat__locality_H Block,0.0
+cat__locality_007,0.0
+cat__locality_H09,0.0
+cat__locality_H11,0.0
+cat__locality_House No 15,0.0
+cat__locality_Huda,0.0
+cat__locality_Huda Colony,0.0
+cat__locality_Huda Sector,0.0
+cat__locality_I /90,0.0
+cat__locality_00.,0.0
+cat__locality_I-112,0.0
+cat__locality_I/80,0.0
+cat__locality_Imperial Estate,0.0
+cat__locality_Imt Manesar,0.0
+cat__locality_In A-Block,0.0
+cat__locality_Iris Avenue,0.0
+cat__locality_Ivory Block,0.0
+cat__locality_J /01,0.0
+cat__locality_0210,0.0
+cat__locality_J-12,0.0
+cat__locality_J-14,0.0
+cat__locality_J-Blcok,0.0
+cat__locality_J09,0.0
+cat__locality_Jacobpura,0.0
+cat__locality_Jai Guru Ji,0.0
+cat__locality_Jxxxxx1,0.0
+cat__locality_B-64,0.0
+cat__locality_K Block And J Block,0.0
+cat__locality_K-12,0.0
+cat__locality_K-9,0.0
+cat__locality_Kblock,0.0
+cat__locality_Lane C,0.0
+cat__locality_0212,0.0
+cat__locality_Limited Inventory,0.0
+cat__locality_Luxury Plot On Dwarka Expresway Highway,0.0
+cat__locality_M Block,0.0
+cat__locality_Main Road,0.0
+cat__locality_02120,0.0
+cat__locality_025251,0.0
+cat__locality_Mianwali Colony,0.0
+cat__locality_Mohammadpur village,0.0
+cat__locality_Mullahera village,0.0
+cat__locality_045,0.0
+cat__locality_072,0.0
+cat__locality_Naugaon,0.0
+cat__locality_Naurangpur,0.0
+cat__locality_Near Back Gate In Front Of Good Earth Mall,0.0
+cat__locality_Near Gallery 4100 Line,0.0
+cat__locality_Near Market,0.0
+cat__locality_Near Railway Statiin,0.0
+cat__locality_Near Ryan International School,0.0
+cat__locality_076,0.0
+cat__locality_New Gurgaon,0.0
+cat__locality_101,0.0
+cat__locality_New Palam Vihar Phase 1,0.0
+cat__locality_103,0.0
+cat__locality_Nicely Located,0.0
+cat__locality_Nihali colony,0.0
+cat__locality_Nirvana Country,0.0
+cat__locality_North Facing,0.0
+cat__locality_Om Vihar,0.0
+cat__locality_Oo1,0.0
+cat__locality_Orris Aanandam Ora Sector 93,0.0
+cat__locality_P Block,0.0
+cat__locality_104,0.0
+cat__locality_1040,0.0
+cat__locality_Park Drive,0.0
+cat__locality_Park Facing And Corner Plot 18 Meter,0.0
+cat__locality_Park Facing Gated Power Backup,0.0
+cat__locality_Park Facing Two Side Plot,0.0
+cat__locality_Part- 6 Sector-5 Gurgaon,0.0
+cat__locality_105,0.0
+cat__locality_Patel Nagar,0.0
+cat__locality_Patodi,0.0
+cat__locality_Phase 1,0.0
+cat__locality_Phase 1plot No.A29,0.0
+cat__locality_105000,0.0
+cat__locality_Plot 51,0.0
+cat__locality_Plot No -2,0.0
+cat__locality_Plot No 170,0.0
+cat__locality_Plot No 21,0.0
+cat__locality_Plot No 24,0.0
+cat__locality_Plot No 3,0.0
+cat__locality_Plot No 355,0.0
+cat__locality_Plot No 51,0.0
+cat__locality_Plot No 65,0.0
+cat__locality_Plot No 89,0.0
+cat__locality_Plot No B22,0.0
+cat__locality_Plot No D 2015,0.0
+cat__locality_Plot Size 240 Sq.Yd South Facing Plot In South City 2 Gurgaon,0.0
+cat__locality_Plots,0.0
+cat__locality_Prime Location,0.0
+cat__locality_1109,0.0
+cat__locality_Rajendra Park Block C,0.0
+cat__locality_Rajiv Chowk,0.0
+cat__locality_Rajiv Nagar,0.0
+cat__locality_Rajkumar,0.0
+cat__locality_Ram Vihar,0.0
+cat__locality_Rampura,0.0
+cat__locality_Ravi Nagar,0.0
+cat__locality_S31b/40,0.0
+cat__locality_S45,0.0
+cat__locality_Sadhrana Bamripur,0.0
+cat__locality_Sai Kunj,0.0
+cat__locality_Saraswati Vihar,0.0
+cat__locality_Sc1,0.0
+cat__locality_Sec 83,0.0
+cat__locality_Sec 88,0.0
+cat__locality_Sec 88a,0.0
+cat__locality_111,0.0
+cat__locality_Sec-91 Gurgaon,0.0
+cat__locality_Sector - 45,0.0
+cat__locality_Sector 1 Imt Manesar,0.0
+cat__locality_Sector 1 Plot No 142 In Patodi 200sq Yrd,0.0
+cat__locality_Sector 10,0.0
+cat__locality_1111111,0.0
+cat__locality_11123,0.0
+cat__locality_112,0.0
+cat__locality_Sector 108,0.0
+cat__locality_11221,0.0
+cat__locality_Sector 109 Gurgaon,0.0
+cat__locality_114,0.0
+cat__locality_Sector 11- 14,0.0
+cat__locality_115,0.0
+cat__locality_Sector 110 Gurgaon,0.0
+cat__locality_Sector 112 Gurgaon,0.0
+cat__locality_Sector 114 Gurgaon,0.0
+cat__locality_Sector 12a,0.0
+cat__locality_Sector 14 Gurgaon,0.0
+cat__locality_Sector 15 Part 2,0.0
+cat__locality_Sector 21 Gurgaon,0.0
+cat__locality_Sector 22 Gurgaon,0.0
+cat__locality_Sector 22B Gurgaon,0.0
+cat__locality_115',0.0
+cat__locality_116,0.0
+cat__locality_Sector 26 Gurgaon,0.0
+cat__locality_1165,0.0
+cat__locality_Sector 27.Gurgaon,0.0
+cat__locality_Sector 28,0.0
+cat__locality_Sector 3 Gurgaon,0.0
+cat__locality_Sector 30 Gurgaon,0.0
+cat__locality_Sector 33 Gurgaon,0.0
+cat__locality_Sector 34 Gurgaon,0.0
+cat__locality_Sector 35 Sohna,0.0
+cat__locality_Sector 36 Sohna,0.0
+cat__locality_Sector 36a,0.0
+cat__locality_Sector 37C Gurgaon,0.0
+cat__locality_Sector 37D Gurgaon,0.0
+cat__locality_1165gp,0.0
+cat__locality_Sector 39 Gurgaon,0.0
+cat__locality_Sector 4 Gurgaon,0.0
+cat__locality_117,0.0
+cat__locality_12 Meter Road,0.0
+cat__locality_121,0.0
+cat__locality_122001,0.0
+cat__locality_123,0.0
+cat__locality_123123,0.0
+cat__locality_1233,0.0
+cat__locality_123423,0.0
+cat__locality_123456,0.0
+cat__locality_Sector 5 Gurgaon,0.0
+cat__locality_Sector 50,0.0
+cat__locality_124,0.0
+cat__locality_12456,0.0
+cat__locality_12457,0.0
+cat__locality_Sector 54 Gurgaon,0.0
+cat__locality_Sector 55 Gurgaon,0.0
+cat__locality_128,0.0
+cat__locality_Sector 57,0.0
+cat__locality_132,0.0
+cat__locality_13457,0.0
+cat__locality_Sector 62 Gurgaon,0.0
+cat__locality_135678,0.0
+cat__locality_1358,0.0
+cat__locality_141,0.0
+cat__locality_1441,0.0
+cat__locality_1494 Ap Sector 15 Part 2,0.0
+cat__locality_155,0.0
+cat__locality_Sector 67a,0.0
+cat__locality_Sector 68 Gurgaon,0.0
+cat__locality_Sector 69,0.0
+cat__locality_Sector 69 Gurgaon,0.0
+cat__locality_Sector 7 Extension,0.0
+cat__locality_156,0.0
+cat__locality_Sector 70 Gurgaon,0.0
+cat__locality_157,0.0
+cat__locality_Sector 70a,0.0
+cat__locality_Sector 72a,0.0
+cat__locality_15a,0.0
+cat__locality_160 Sq Yd Plot Asking Rate Is 1.85 Psy,0.0
+cat__locality_Sector 79 Gurgaon,0.0
+cat__locality_Sector 81 Gurgaon,0.0
+cat__locality_Sector 82,0.0
+cat__locality_Sector 82 Gurgaon,0.0
+cat__locality_16100000,0.0
+cat__locality_17,0.0
+cat__locality_1700,0.0
+cat__locality_1718,0.0
+cat__locality_175,0.0
+cat__locality_Sector 89,0.0
+cat__locality_179/9,0.0
+cat__locality_18 Mtr Road West Facing,0.0
+cat__locality_180sqyd,0.0
+cat__locality_1858,0.0
+cat__locality_1st,0.0
+cat__locality_200,0.0
+cat__locality_200 Yards Corner,0.0
+cat__locality_2000yards,0.0
+cat__locality_204,0.0
+cat__locality_205,0.0
+cat__locality_Sector 99a,0.0
+cat__locality_2204,0.0
+cat__locality_Sector Road,0.0
+cat__locality_Sector-11 sohna,0.0
+cat__locality_Sector-2,0.0
+cat__locality_2233,0.0
+cat__locality_Sector-22 Sohna,0.0
+cat__locality_22356,0.0
+cat__locality_231,0.0
+cat__locality_Sector-4 Sohna,0.0
+cat__locality_231c,0.0
+cat__locality_Shiv Colony,0.0
+cat__locality_Shivaji Nagar,0.0
+cat__locality_Shivpuri,0.0
+cat__locality_Sidhrawali,0.0
+cat__locality_Silani,0.0
+cat__locality_232,0.0
+cat__locality_Sohna Gurgaon Road,0.0
+cat__locality_234,0.0
+cat__locality_Sohna Road Badshapur,0.0
+cat__locality_Sohna Sector 11,0.0
+cat__locality_Sohna Sector 14,0.0
+cat__locality_Sohna Sector 17,0.0
+cat__locality_23466,0.0
+cat__locality_235668,0.0
+cat__locality_South Of Gurgoan,0.0
+cat__locality_24 Meter Road,0.0
+cat__locality_240 Sqyd,0.0
+cat__locality_Subhash Nagar,0.0
+cat__locality_240sqyd,0.0
+cat__locality_Suncity,0.0
+cat__locality_Surat Nagar,0.0
+cat__locality_Susant Lok1,0.0
+cat__locality_Sushant Lok,0.0
+cat__locality_24854,0.0
+cat__locality_25 No.,0.0
+cat__locality_Sushant Lok Phase 2,0.0
+cat__locality_250 North Facing,0.0
+cat__locality_T Block,0.0
+cat__locality_T157-D/1,0.0
+cat__locality_Topaz Block,0.0
+cat__locality_True Habitat,0.0
+cat__locality_2504,0.0
+cat__locality_Upcoming Plot On Dwarka Expressway,0.0
+cat__locality_255,0.0
+cat__locality_V And T Block,0.0
+cat__locality_V-Block,0.0
+cat__locality_263sqyd,0.0
+cat__locality_Vatika,0.0
+cat__locality_266 Sqyd,0.0
+cat__locality_267 Sq Yds North Facing Plot,0.0
+cat__locality_W Block,0.0
+cat__locality_West Facing,0.0
+cat__locality_Xxx,0.0
+cat__locality_267 Sq Yds Plot In A Block Registry Case,0.0
+cat__locality_dlf alameda,0.0
+cat__locality_273,0.0
+cat__locality_huda sector 42 Gurgaon,0.0
+cat__locality_sector 7 Sohna,0.0
+cat__locality_vatika farms westin resort sohna,0.0
+cat__locality_275,0.0
+cat__locality_282p Hsvp Plot.,0.0
+cat__locality_30m Road,0.0
+cat__locality_32,0.0
+cat__locality_3300,0.0
+cat__locality_021,0.0
